@@ -79,77 +79,43 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 5. The result of a referendum will take priority over any existing PSU policy on the same issue and the constitution will be amended according to the motion put forward. After all referenda, appendix I (Results and Referenda) of this constitution will also be updated with the referendum results.
 
-Article 6. General Meetings
+## Article 6: General Meetings
 
-6.1 The Annual General Meeting (AGM) of the PSU shall contain members of the population of
-postgraduate students and the new President of the PSU and where possible the outgoing
+1. The Annual General Meeting (AGM) of the PSU shall contain members of the population of postgraduate students and the new President of the PSU and where possible the outgoing Executive Committee Members.
 
-Executive Committee Members1.
+2. There shall be general meetings of the PSU, the duties and regulations of which shall be defined by Schedule III (Meeting Regulations) of this constitution and not be in conflict with the aims and objectives of the PSU.
 
-6.2 There shall be general meetings of the PSU, the duties and regulations of which shall be defined
-by Schedule III (Meeting Regulations) of this constitution and not be in conflict with the aims and
-objectives of the PSU.
+3. The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to allow transparency and accountability to members of the PSU on Constitutional, Representational and Financial areas. Due to the transient nature of postgraduate students, this may not always be possible, but should be encouraged where it is. The function of the AGM is to fulfil these criteria in the following manner:
 
-6.3 The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides
-opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to
-allow transparency and accountability to members of the PSU on Constitutional,
-Representational and Financial areas. The function of the AGM is to fulfil these criteria in the
+	1. To change the Constitution and adopt amendments proposed by the Postgraduate population.
 
-Following manner;
+	2. To elect new Executive Officers to posts.
 
-1
-Due to the transient nature of postgraduate students, this may not always be possible, but should
-be encouraged where it is.
+	3. To present the Annual Report of the PSU.
 
-5
+	4. To present the Financial Reports of the PSU for the year.
 
+	5. To adopt the auditors.
 
+	6. To address PSU policy regarding the AGM agenda.
 
-1° To change the Constitution and adopt amendments proposed by the
-Postgraduate population
+	7. To approve changes or amendments to the President’s Wages.
 
-2° To elect new Executive Officers to posts
+4. The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year according to Schedule II (Election Regulations) of this constitution.
 
-3° To present the Annual Report of the PSU
+4. Special or Emergency General Meetings (EGM) provide a forum to address an issue or issues which have arisen which require a general meeting to facilitate that process. As with the General Meeting the rules of procedure and process apply. The special EGM may be called by any of the following groups:
 
-4° To present the Financial Reports of the PSU for the year
+	1. The Executive Committee.
 
-5° To adopt the auditors
+	2. The PSU Council.
 
-6° To address PSU policy regarding the AGM agenda
+	3. Fifty Members of the population of the PSU.
 
-7° To approve changes or amendments to the President’s Wages
+		1. If being requested by Fifty members of the population, the submission must be made in writing and signed by the Fifty members of their own free will, where that submission is directed to the President.
 
-6. 4 The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year
-according to Schedule II (Election Regulations) of this constitution.
+		2. Should the meeting be requested in writing by Fifty members to the President, the President must call a Special EGM within fifteen days from receiving that request.
 
-6.4 Special or Emergency General Meetings (EGM) provide a forum to address an issue or issues
-which have arisen which require a general meeting to facilitate that process. As with the General
-Meeting the rules of procedure and process apply. However the criteria for calling a Special EGM
-differ in so far as:
-
-1° The EGM may be called by the Executive Committee
-
-OR
-
-2° The PSU Council
-
-OR
-
-6
-
-
-3° Fifty Members of the population of the PSU
-
-a. If being requested by Fifty members of the population, the submission must be
-made in writing and signed by the Fifty members of their own free will, where that
-submission is directed to the President
-
-b. Should the meeting be requested in writing by Fifty members to the President, the
-President must call a Special EGM within fifteen days from receiving that request
-
-c. Should it be required, by-elections for vacant posts on the Executive Committee or
-on Council can be sought and subject to the same criteria as laid out in section 6.1.
+		3. Should it be required, by-elections for vacant posts on the Executive Committee or on Council can be sought and subject to the same criteria as laid out in section 6.1.
 
 Article 7. PSU Council
 
