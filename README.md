@@ -9,7 +9,7 @@
 
 3. The Articles of this Constitution may be amended by Referendum or General Meeting.
 
-4. The schedules and appendices of this Constitution may be amended by Referendum, General Meeting or by Student Council.
+4. The Schedules and Appendices (if any) of this Constitution may be amended by Referendum, General Meeting or by Postgraduate Student Council.
 
 5. Any member seeking a copy of the Constitution is entitled to one from the President of the Postgraduate Students’ Union.
 
@@ -68,7 +68,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 6. To promote, encourage and facilitate student Clubs and Societies equally.
 
-7. These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
+7. These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity.
 
 8. The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
 
@@ -76,7 +76,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule 1: Membership Rights.
 
-	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
+	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students have attained an undergraduate degree before commencing on a Postgraduate Programme.
 
 2. Any person sitting on the Executive shall be a member while they hold their position on the Executive.
 
@@ -152,7 +152,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU Council will exist to facilitate democracy and representation in terms of policy making and transparency.
 
-2. The PSU Council, hereafter known as 'Council', shall be the supreme decision making body of the PSU, except for a decision that is made in a referendum or general meeting. It shall also raise issues that are of concern to its members to the senior management team of the University through the Executive and the President.
+2. The PSU Council, (Council), shall be the supreme decision making body of the PSU, except for a decision that is made in a referendum or general meeting. It shall also raise issues that are of concern to its members to the senior management team of the University through the Executive and the President.
 
 3. Council shall have the power to mandate the Executive.
 
@@ -281,7 +281,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 10: Electoral and Referenda Board
 
-1. There shall be an Electoral and Referendum Board as outlined in Schedule 2: Election Regulations. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board, hereafter referred to as 'ERB'.
+1. There shall be an Electoral and Referendum Board as outlined in Schedule 2: Election Regulations. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board (ERB).
 
 2. A representative from the PSU, not involved in the running or organising of any campaign and elected from Council or the Executive will sit as a voting member on the ERB representing the PSU.
 
@@ -327,7 +327,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 12. University of Limerick Students' Union
 
-1. The PSU recognises the University of Limerick Students' Union, hereafter known as ULSU as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
+1. The PSU recognises the University of Limerick Students' Union (ULSU) as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
 2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with Schedule 6: Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
 
@@ -409,7 +409,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Constitutional amendments come into effect the day after the Annual General Meeting or Extra-ordinary General Meeting at which it is passed.
 
-4. PSU Council can amend the schedules of this Constitution.
+4. PSU Council can amend the Schedules of this Constitution.
 
 5. Approval of two thirds of eligible voting members present at the council meeting is required for
 change
@@ -488,7 +488,7 @@ change
 
 ## Schedule 2: Election Regulations
 
-This schedule outlines what to do for all referenda and elections and for all positions in the union. It also outlines the procedures to follow if a vacancy occurs in any position.
+This Schedule outlines what to do for all referenda and elections and for all positions in the union. It also outlines the procedures to follow if a vacancy occurs in any position.
 
 ### Returning Officer
 
@@ -1046,7 +1046,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 ## Schedule 7: Commission of Arbitration for PSU and ULSU
 
-1. There shall be a commission of arbitration, hereafter known as the Commission, whose role is to make judgements on:
+1. There shall be a commission of arbitration, (the Commission), whose role is to make judgements on:
 
 	1. Disputes that arise between the Postgraduate Students’ Union and the University of Limerick Students’ Union.
 
