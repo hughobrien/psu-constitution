@@ -1,6 +1,7 @@
 # Postgraduate Students’ Union University of Limerick Constitution
+---
 # Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
-
+---
 ## Preamble
 
 1. We, the Postgraduate Students of the University of Limerick, do hereby adopt, enact and give to ourselves this Constitution, revoking all previous Constitutions for the Postgraduate Students' Union of the University of Limerick, and notwithstanding any provisions which shall be made for the Union by the Governing Authority of the University of Limerick.
