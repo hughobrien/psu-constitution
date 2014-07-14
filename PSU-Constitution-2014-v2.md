@@ -294,29 +294,15 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 19. The PSU President shall present the annual budget for the following academic year to Clubs and Societies Council during the spring semester.
 
-Article 12. University of Limerick Students Union
+## Article 12. University of Limerick Students Union
 
+1. The PSU recognises the University of Limerick Students' Union, hereafter known as ULSU as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
-representative body for all students in the University. The PSU is recognised by the ULSU as fully
-autonomous and as the representative body for all postgraduate students in the University on
-all postgraduate issues.
+2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSUs’ Executive and Council. In addition, in accordance with Schedule VI of this constitution, the Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
 
-12.2 There should be a PSU Executive Nominee on the SU Executive and Council. A representative of
-the Union shall be a member of the PSUs’ Executive and Council. In addition, in accordance with
+3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule VI of this Constitution. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs & Societies, Article 11 stipulates the amendments needs to be presented to Clubs & Societies Council.
 
-Schedule VI of this constitution, the MoU, a position of participant status for a full time member
-of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
-
-12.3 The Memorandum of Understanding between the PSU and ULSU is included in Schedule VI of
-this Constitution. This memorandum describes the working relationship and financial agreement
-between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to
-be approved by Student Council, PSU Council and in the case of amendments relating to Clubs &
-Societies, Article 11 stipulates the amendments needs to be presented to Clubs & Societies
-Council.
-
-12.4 Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been
-established for the purpose of dissolving the situation. The remit of the Commission of
-Arbitration and its membership is outlined in Schedule VII of this Constitution.
+4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule VII of this Constitution.
 
 Article 13. Financial Procedures
 
