@@ -125,31 +125,31 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 3. Council shall have the power to mandate the Executive.
 
-5. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule IV (Council and Executive Job Descriptions and terms of Office):
+4. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule IV (Council and Executive Job Descriptions and terms of Office):
 
-	* PSU Executive Committee (10 members)
+	1. PSU Executive Committee (10 members)
 
-	* Arts Humanities and Social Sciences Representative
+	2. Arts Humanities and Social Sciences Representative
 
-	* Education and Health Sciences Representative
+	3. Education and Health Sciences Representative
 
-	* Kemmy Business School Representative
+	4. Kemmy Business School Representative
 
-	* Science and Engineering Representative
+	5. Science and Engineering Representative
 
-	* Graduate Entry School Representative
+	6. Graduate Entry School Representative
 
-	* PhD. Representative
+	7. PhD. Representative
 
-	* International Representative
+	8. International Representative
 
-	* Council Members (Two in Total)
+	9. Council Members (Two in Total)
 
-6. The Executive shall be non-voting members of Council except for the faculties’ officer who represents their own faculty on Council and the chairperson’s casting vote. All PSU members shall have participant status at Council, but can be asked to leave at the request of the Chairperson. Council may grant Participant or Observer status on any other person as deemed appropriate.
+5. The Executive shall be non-voting members of Council except for the faculties’ officer who represents their own faculty on Council and the chairperson’s casting vote. All PSU members shall have participant status at Council, but can be asked to leave at the request of the Chairperson. Council may grant Participant or Observer status on any other person as deemed appropriate.
 
-7. The PSU Council members shall be elected at the AGM in Semester 1.
+6. The PSU Council members shall be elected at the AGM in Semester 1.
 
-8. The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students are represented to the PSU Officers.
+7. The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students are represented to the PSU Officers.
 
 	1. The PSU Council shall act as a Forum within which the PSU Executive and Faculty Representatives shall engage in discussion on PSU policy.
 
@@ -157,19 +157,19 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 	3. The PSU Council by including Faculty Representatives, provides the Postgraduate Executive of details on the student experience of postgraduates, which can be represented back to the Faculty boards and fundamentally, the University structures with which they are interacting with. 
 
-9. The quorum for PSU Council shall be a simple majority of eligible council members. Each member has one vote and voting results are based on a simple majority of eligible voting council members. The Chair of Council shall have the casting vote where necessary.
+8. The quorum for PSU Council shall be a simple majority of eligible council members. Each member has one vote and voting results are based on a simple majority of eligible voting council members. The Chair of Council shall have the casting vote where necessary.
 
-10. The PSU Council is required to meet three times in the semester on select dates which are agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are required to take place:
+9. The PSU Council is required to meet three times in the semester on select dates which are agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are required to take place:
 
-	* One in Semester One following Filling of Posts
+	1. One in Semester One following Filling of Posts
 
-	* One preceding the conduction of Election for the position of President to the PSU for the coming year
+	2. One preceding the conduction of Election for the position of President to the PSU for the coming year
 
-	* One as a final meeting before the end of Year
+	3. One as a final meeting before the end of Year
 
-11. Absence from more than two consecutive meetings in the year without apologies by an eligible member shall be deemed a submission of and automatic acceptance of resignation.
+10. Absence from more than two consecutive meetings in the year without apologies by an eligible member shall be deemed a submission of and automatic acceptance of resignation.
 
-12. The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting Regulations) of this constitution.
+11. The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting Regulations) of this constitution.
 
 Article 8. Executive
 
