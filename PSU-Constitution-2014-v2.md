@@ -1,5 +1,6 @@
 # Postgraduate Students’ Union University of Limerick Constitution
-# Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
+
+Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
 
 ## Preamble
 
