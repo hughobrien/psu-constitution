@@ -577,79 +577,52 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	3. The C & S representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
 
-Schedule VII: Commission of Arbitration for PSU & ULSU
+##  Schedule VII: Commission of Arbitration for PSU & ULSU
 
+1. There shall be a commission of arbitration, hereafter known as the Commission, whose role is to make judgements on:
 
-
-
-Commission of Arbitration
-
-1. There shall be a commission of arbitration, hereafter known as the Commission, whose role is
-to make judgements on:
-
-1° Disputes that arise between the Postgraduate Students’ Union and the University of Limerick
-
-Students’ Union
+	1. Disputes that arise between the Postgraduate Students’ Union and the University of Limerick Students’ Union.
 
 2. It has been suggested that the following people may form the membership of the commission:
 
-1° One former president from each union (PSU & ULSU) from 3 years or more previous to the
+	1. One former president from each union (PSU & ULSU) from 3 years or more previous to the conflict
 
-conflict
+	2. One independent member or One Senior University nominee
 
-2° One independent member or One Senior University nominee
+3. The term of office of the Commission shall be from the fourth week of the autumn semester for a period of one year. This will ensure that all positions have been elected from both sides.
 
-3. The term of office of the Commission shall be from the fourth week of the autumn semester
-for a period of one year. This will ensure that all positions have been elected from both sides.
+4. The Chairperson of the Commission shall be the (independent member or senior University nominee).
 
-Commission Officials
+5. If the Chairperson of the Commission is not available, then the Commission shall elect an alternative Chair for that meeting.
 
-4. The Chairperson of the Commission shall be the (independent member or senior University
-nominee).
-
-5. If the Chairperson of the Commission is not available, then the Commission shall elect an
-alternative Chair for that meeting.
-
-6. A member of the Commission, except the Chairperson of the Commission, shall be deemed to
-have resigned upon the presentation of a letter of resignation to the Chairperson of the
-Commission and to their nominating body.
-
-
-
-Commission Proceedings
+6. A member of the Commission, except the Chairperson of the Commission, shall be deemed to have resigned upon the presentation of a letter of resignation to the Chairperson of the Commission and to their nominating body.
 
 7. The Commission shall have the right to decide whether cases are held in public or private.
 
-8. The Commission shall have access to all relevant documentation in the possession of either
-Union that it feels necessary for deciding the outcome of the case.
+8. The Commission shall have access to all relevant documentation in the possession of either Union that it feels necessary for deciding the outcome of the case.
 
 9. The Commission shall retain the services of a solicitor for clarification on points of Law.
 
 10. Access to Commission minutes shall be restricted to:
 
-1° Current Commission Members
+	1. Current Commission Members
 
-2° Previous Commission Members for Minutes from their term of office
+	2. Previous Commission Members for Minutes from their term of office
 
-3° Current Sabbatical Officers, once 6 months has passed since the date of ruling
+	3. Current Sabbatical Officers, once 6 months has passed since the date of ruling
 
-11. Hearings may be requested in writing to the Chairperson of the Commission
-by: 1° Affected Parties
+11. Hearings may be requested in writing to the Chairperson of the Commission by:
 
-2° Council 3°
-Executive
+	1. Affected Parties
+	2. Council
+	3. Executive
+	4. The Presidents of both Unions
 
-4° The Presidents of both Unions
-
-12. The Commission shall deliberate and come to a simple majority (of all Commission members)
-ruling on all cases.
+12. The Commission shall deliberate and come to a simple majority (of all Commission members) ruling on all cases.
 
 13. All decisions of the Commission are final.
 
-14. Commission reports and judgements shall maintain confidentiality of all confidential
-material sought and presented to them.
-
-
+14. Commission reports and judgements shall maintain confidentiality of all confidential material sought and presented to them.
 
 
 SCHEDULE VIII: PUBLICATIONS
