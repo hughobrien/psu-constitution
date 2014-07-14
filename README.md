@@ -45,7 +45,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 2. Election Regulations
 3. Meeting Regulations
 4. Council and Executive Job Descriptions and Terms of Office
-5. PSU Motion to C&S
+5. PSU Motion to Clubs and Societies
 6. Memorandum of Understanding
 7. Commission of Arbitration
 8. Publications
@@ -281,19 +281,19 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 10: Electoral and Referenda Board
 
-1. There shall be an Electoral and Referendum Board as outlined in Schedule II (Election Regulations) of this Constitution. The procedure for all elections and referenda shall be determined by the Electoral & Referendum Board, hereafter referred to as 'ERB'.
+1. There shall be an Electoral and Referendum Board as outlined in Schedule II (Election Regulations) of this Constitution. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board, hereafter referred to as 'ERB'.
 
 2. A representative from the PSU, not involved in the running or organising of any campaign and elected from Council or the Executive will sit as a voting member on the ERB representing the PSU.
 
 ## Article 11: Clubs and Societies
 
-1. PSU Executive or PSU Council proposals, amendments or decisions relating to the Clubs and Societies organisation, administration or finance must be presented to Clubs & Societies Council. If Clubs and Societies Council disagree with the proposal, amendment or motion proposed by the PSU Council or Executive the issue shall go to general meeting.
+1. PSU Executive or PSU Council proposals, amendments or decisions relating to the Clubs and Societies organisation, administration or finance must be presented to Clubs and Societies Council. If Clubs and Societies Council disagree with the proposal, amendment or motion proposed by the PSU Council or Executive the issue shall go to general meeting.
 
 2. The PSU recognises the autonomy of Clubs and Societies Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union.
 
 3. Under the new Memorandum of Understanding in Schedule VI, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive and reports to both councils. The PSU Officer, as a member of the Clubs and Societies Executive will be a full voting member on the Executive. It is then their responsibility to ensure PSU Council is consulted.
 
-4. Under the new Memorandum of Understanding in Schedule VI, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the Executive. It is then their responsibility to ensure Clubs & Societies Council is consulted.
+4. Under the new Memorandum of Understanding in Schedule VI, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the Executive. It is then their responsibility to ensure Clubs and Societies Council is consulted.
 
 5. The Clubs and Societies Council shall consist of the Clubs and Societies Executive, and at least one liaison officer from each club and society.
 
@@ -301,13 +301,13 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 7. All Clubs and Societies Council Meetings shall be quorate if there is 50% of recognised clubs and societies plus one.
 
-8. Clubs & Societies Council Meetings shall be run in accordance with the procedures and standing orders contained within the Clubs and Societies Rulebook.
+8. Clubs and Societies Council Meetings shall be run in accordance with the procedures and standing orders contained within the Clubs and Societies Rulebook.
 
 9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 1 (Election Regulations) by the clubs or societies delegates.
 
-10. The PSU President or his/her executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs & Societies Executive is determined by Clubs & Societies Council and is outlined in the Clubs & Societies Rulebook.
+10. The PSU President or his/her executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs and Societies Executive is determined by Clubs and Societies Council and is outlined in the Clubs and Societies Rulebook.
 
-11. The members of the Clubs and Societies Executive elected by clubs and societies may only be removed by Clubs and Societies Council by the rules outlined in the Clubs & Societies Rulebook.
+11. The members of the Clubs and Societies Executive elected by clubs and societies may only be removed by Clubs and Societies Council by the rules outlined in the Clubs and Societies Rulebook.
 
 12. The PSU will distribute two thirds of the postgraduate student capitation received annually to fund clubs and societies after the wages of the PSU President has been deducted.
 
@@ -315,9 +315,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 14. All recognised clubs and societies shall compete on an equal basis for funds allocated by the Union. All money not claimed by individual clubs and societies shall be reallocated to clubs and societies in the following year's budget.
 
-15. Recognised clubs and societies shall submit budgets to the Clubs and Societies Development Officer using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs & Societies Rulebook.
+15. Recognised clubs and societies shall submit budgets to the Clubs and Societies Development Officer using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs and Societies Rulebook.
 
-16. The Clubs and Societies Executive shall allocate funds to every club and society using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs & Societies Rulebook.
+16. The Clubs and Societies Executive shall allocate funds to every club and society using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs and Societies Rulebook.
 
 17. A portion of the annual clubs and societies funds shall be retained as the Special Applications Fund. Applications to this fund shall be submitted to the Development Officer, as appropriate, in accordance with the Clubs and Societies Rulebook. Allocations shall be made at the discretion of the Clubs and Societies Executive using the established procedures as agreed by the Clubs and Societies Council.
 
@@ -331,7 +331,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSUs’ Executive and Council. In addition, in accordance with Schedule VI of this constitution, the Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
 
-3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule VI of this Constitution. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs & Societies, Article 11 stipulates the amendments needs to be presented to Clubs & Societies Council.
+3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule VI of this Constitution. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11 stipulates the amendments needs to be presented to Clubs and Societies Council.
 
 4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule VII of this Constitution.
 
@@ -385,7 +385,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	2. PSU Council
 
-	3. C&S Council
+	3. Clubs and Societies Council
 
 16. Additionally, audited accounts must be presented to
 
@@ -414,7 +414,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 5. Approval of two thirds of eligible voting members present at the council meeting is required for
 change
 
-6. The constitution shall be reviewed by the union at least every three years from the date of ratification of this Constitution and approved by the PSU Council. A special constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from clubs & societies and ULSU.
+6. The constitution shall be reviewed by the union at least every three years from the date of ratification of this Constitution and approved by the PSU Council. A special constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from Clubs and Societies and ULSU.
 
 ## Article 16: Removal of an Officer
 
@@ -440,7 +440,7 @@ change
 
 4. Clubs and Societies Council – as defined in Article 11
 
-5. Clubs & Societies Executive – as defined in Article 11
+5. Clubs and Societies Executive – as defined in Article 11
 
 6. College – One of the constituent colleges of the University for the Plassey Campus
 
@@ -574,7 +574,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 16. Reopen nominations (RON) shall be a candidate in all union elections when the electronic voting system allows for this option to run effectively.
 
-17. Clubs and Societies Officers are elected by Clubs & Societies Council as outlined in Article 12 of this constitution. The Students’ Union Executive Representative is nominated by the ULSU Executive and the Mary Immaculate Council Representative shall be nominated by the Mary Immaculate.
+17. Clubs and Societies Officers are elected by Clubs and Societies Council as outlined in Article 12 of this constitution. The Students’ Union Executive Representative is nominated by the ULSU Executive and the Mary Immaculate Council Representative shall be nominated by the Mary Immaculate.
 
 18. The members of the PSU council shall be:
 
@@ -588,7 +588,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at 9 O’clock of the 1st of 2 nominations weeks, 2 weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of 20 members of the PSU.
 
-20. The nomination forms shall contain the election rules and regulations set down by the Electoral & Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
+20. The nomination forms shall contain the election rules and regulations set down by the Electoral and Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
 
 21. The official nomination forms shall contain, as well as the required number of proposers and seconders, the candidate's name as registered with the University, ID number, Course, and the name of the candidate's campaign manager.
 
@@ -604,7 +604,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 27. The ERB can run a campaign to promote voting on the day and the existence of the election in general.
 
-28. The canvassing and campaigning rules and regulations shall be contained in the election rules and regulations set down by the Electoral & Referendum Board.
+28. The canvassing and campaigning rules and regulations shall be contained in the election rules and regulations set down by the Electoral and Referendum Board.
 
 29. Election candidates may commence campaigning at the close of nominations.
 
@@ -642,7 +642,7 @@ Board and the below standing orders will be followed for the hustings:
 
 	7. Parliamentary language shall be observed throughout the hustings.
 
-39. Any challenge or complaint concerning the administration and good conduct of the election will be heard and determined by the Electoral & Referendum Board within 48 hours of such a complaint being lodged by any full member or the candidate or their nominee. Any complaint against the conduct or administration of the election should be received by the returning officer before the start of the count.
+39. Any challenge or complaint concerning the administration and good conduct of the election will be heard and determined by the Electoral and Referendum Board within 48 hours of such a complaint being lodged by any full member or the candidate or their nominee. Any complaint against the conduct or administration of the election should be received by the returning officer before the start of the count.
 
 40. The Electoral and Referenda Board shall have the power to discipline or disqualify any member of the Union who:
 
@@ -674,9 +674,9 @@ Board and the below standing orders will be followed for the hustings:
 
 44. For a paper election: a voting paper will be issued to each voter, which shall bear the union stamp and votes will be cast in sealed ballot boxes. Ballot papers shall bear the name of each candidate and the office being contested. There will be a facility for reopening nominations.
 
-45. For an electronic election: an electronic ballot (or e-ballot) will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The e-ballot should, at least bear the name of each candidate and the office being contested, the candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the Electoral & Referendum Board. There will be a facility for reopening nominations.
+45. For an electronic election: an electronic ballot (or e-ballot) will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The e-ballot should, at least bear the name of each candidate and the office being contested, the candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the Electoral and Referendum Board. There will be a facility for reopening nominations.
 
-46. The Electoral & Referendum Board will decide if there is a need for an electronic or paper ballot.
+46. The Electoral and Referendum Board will decide if there is a need for an electronic or paper ballot.
 
 47. Polling stations shall be situated in areas giving greatest convenience to members and shall open between 7am and 11am and shall close between 7pm and 9pm, having remained open for a duration of at least ten hours.
 
@@ -752,10 +752,10 @@ Board and the below standing orders will be followed for the hustings:
 	2. Minutes
 	3. Matters arising from the minutes
 	4. Monthly Management Accounts
-	5. Motions & Resolutions
+	5. Motions and Resolutions
 	6. Sub Committee Reports
 	7. Items for Discussion
-	8. Officers’ Reports & Questions to officers
+	8. Officers' Reports and Questions to officers
 	9. Any Other Business
 
 6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members (excluding the executive). All motions shall include a reference to the relevant article in the Constitution.
@@ -872,7 +872,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 6. The Clubs and Societies Officer:
 
-	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, Clubs and Societies Executive, SU Executive and report to both councils. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs & Societies Council is consulted.
+	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, Clubs and Societies Executive, ULSU Executive and report to both councils. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs and Societies Council is consulted.
 
 7. Chairperson of Council:
 
@@ -956,29 +956,29 @@ General Meeting of their election to the end of the Following AGM.
 
 ## Schedule 5: PSU Motion to Clubs and Societies
 
-The PSU Executive would like to bring forward the following motion to Clubs & Societies Council:
+The PSU Executive would like to bring forward the following motion to Clubs and Societies Council:
 
 *Motion to grant a representative of the postgraduate students union a seat, as a voting member, on the Clubs and Societies Executive*
 
 Justification and reasoning:
 
-The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club & Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies.
+The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club or Society, but also the Clubs and Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies.
 
-The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the 2/3 split in capitation provides C&S with approximately €77,000.
+The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the 2/3 split in capitation provides Clubs and Societies with approximately €77,000.
 
-Our accountant has advised us that due to this large portion of funding being transferred to C&S, we have a duty to our members to be able to provide oversight on how this money is administered. We have complete faith in the Clubs & Societies Executive in administering this money. Year after year, Clubs & Societies have proven themselves to be responsible with the money given to them. The PSU Executive is not implying that it is not done well, however we do have a duty to our members to be able to oversee the process.
+Our accountant has advised us that due to this large portion of funding being transferred to Clubs and Societies, we have a duty to our members to be able to provide oversight on how this money is administered. We have complete faith in the Clubs and Societies Executive in administering this money. Year after year, Clubs and Societies have proven themselves to be responsible with the money given to them. The PSU Executive is not implying that it is not done well, however we do have a duty to our members to be able to oversee the process.
 
-This will help to strengthen the ties between us and would be mutually beneficial as the PSU Executive would also like to create a position for a C&S Representative on our Executive. This individuals’ function would be similar to that of the Clubs Officer and Societies Officer on the SU
+This will help to strengthen the ties between us and would be mutually beneficial as the PSU Executive would also like to create a position for a Clubs and Societies Representative on our Executive. This individuals’ function would be similar to that of the Clubs Officer and Societies Officer on the ULSU.
 
-Executive, but their focus would be on advising and helping the PSU Executive to promote and market C&S to the Universities postgraduate students. Given that only xxxxx of an estimated 4,000 postgraduate students are members we feel it is very important that this is accomplished.
+Executive, but their focus would be on advising and helping the PSU Executive to promote and market Clubs and Societies to the Universities postgraduate students. Given that only xxxxx of an estimated 4,000 postgraduate students are members we feel it is very important that this is accomplished.
 
-Having representatives on one another’s executives will also provide us with an opportunity to learn from one another, but also to promote common causes between the PSU, C&S Exec and ULSU – most notably the student levy referendum to be put to the students next semester.
+Having representatives on one another’s executives will also provide us with an opportunity to learn from one another, but also to promote common causes between the PSU, Clubs and Societies Exec and ULSU – most notably the student levy referendum to be put to the students next semester.
 
-According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an SU Representative and we would seek that our representative from the PSU would be granted these same rights.
+According to the Guide to Clubs and Societies Administration 2012/2013 (pg40) and Clubs and Societies Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an ULSU Representative and we would seek that our representative from the PSU would be granted these same rights.
 
 ## Schedule 6: PSU and ULSU Memorandum of Understanding
 
-Memorandum of Understanding (MoU) Between ULSU & PSU.
+Memorandum of Understanding (MoU) Between ULSU and PSU.
 
 This Memorandum of Understanding is entered into by and between the President of the Postgraduate Students’ Union (PSU) and the President of the Students’ Union (ULSU) in the academic year 2013/2014. It has been drawn on an account of a previous MoU being deemed void and dissolved by both bodies.
 
@@ -990,11 +990,11 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	1. In order to ensure that the two unions avoid disrepute, and work together to promote the interests of the students, both unions formally agree to continue to cooperate in the general area of student representation and commit to an open exchange of information on matters pertaining to the student population.
 
-	2. The PSU, through its representative on the SU Executive, shall strive to promote the view of the PSU so as to ensure that all SU decisions are made in the interest of the whole student body.
+	2. The PSU, through its representative on the ULSU Executive, shall strive to promote the view of the PSU so as to ensure that all ULSU decisions are made in the interest of the whole student body.
 
-	3. The SU, through its representative on the PSU Executive, shall endeavour to put forward the views of the SU so that fully informed decisions can be made by the PSU.
+	3. The ULSU, through its representative on the PSU Executive, shall endeavour to put forward the views of the ULSU so that fully informed decisions can be made by the PSU.
 
-	4. It has been suggested that in order to maintain continuity year on year, a position for a full time staff member of the SU should be created on the PSU Executive.
+	4. It has been suggested that in order to maintain continuity year on year, a position for a full time staff member of the ULSU should be created on the PSU Executive.
 
 	5. Should both Unions come into conflict, a meeting of the Commission of Arbitration shall be called in order to relieve the situation.
 
@@ -1008,7 +1008,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	4. Postgraduate students are entitled to vote on all ULSU issues and elections as well as PSU issues and elections. Undergraduate students are not permitted to vote on PSU issues or elections.
 
-	5. Postgraduate Students are also entitled to run for ULSU positions. In addition, the PSU Executive and Council members are granted observer status on ULSU Council. Undergraduate students will not be permitted a seat on PSU Executive or Council with the exception of the elected positions of ULSU Executive Representative and the C&S Executive Representative.
+	5. Postgraduate Students are also entitled to run for ULSU positions. In addition, the PSU Executive and Council members are granted observer status on ULSU Council. Undergraduate students will not be permitted a seat on PSU Executive or Council with the exception of the elected positions of ULSU Executive Representative and the Clubs and Societies Executive Representative.
 
 3. Financial Agreement
 
@@ -1016,9 +1016,9 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. The wages of the PSU President shall come directly from the Postgraduate Student Capitation
 
-	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S). This will be made in 2 instalments; one in November and one in March.
+	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs and Societies. This will be made in 2 instalments; one in November and one in March.
 
-	4. Once the Presidents wages and the C&S Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
+	4. Once the Presidents wages and the Clubs and Societies Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
 	5. PSU shall take responsibility for the book-keeping of all PSU finances with the exceptions of:
 
@@ -1034,17 +1034,17 @@ In order to ensure clear communication and efficient representation on behalf of
 
 		3. ULSU Council
 
-		4. C&S Council
+		4. Clubs and Societies Council
 
 4. Clubs and Societies
 
-	1. A PSU Representative shall sit as a voting member of the Clubs & Societies Executive to contribute to the decisions made by C&S Executive in the interest of Postgraduate Students.
+	1. A PSU Representative shall sit as a voting member of the Clubs and Societies Executive to contribute to the decisions made by Clubs and Societies Executive in the interest of Postgraduate Students.
 
-	2. A Clubs & Societies Representative shall sit as a voting member of the PSU Executive, representing the views of Clubs & Societies and bringing forward information where necessary to ensure informed decisions are made by the PSU Executive.
+	2. A Clubs and Societies Representative shall sit as a voting member of the PSU Executive, representing the views of Clubs and Societies and bringing forward information where necessary to ensure informed decisions are made by the PSU Executive.
 
-	3. The C&S representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
+	3. The Clubs and Societies representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
 
-##  Schedule VII: Commission of Arbitration for PSU & ULSU
+##  Schedule VII: Commission of Arbitration for PSU and ULSU
 
 1. There shall be a commission of arbitration, hereafter known as the Commission, whose role is to make judgements on:
 
@@ -1052,7 +1052,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 2. It has been suggested that the following people may form the membership of the commission:
 
-	1. One former president from each union (PSU & ULSU) from 3 years or more previous to the conflict
+	1. One former president from each union (PSU and ULSU) from 3 years or more previous to the conflict
 
 	2. One independent member or One Senior University nominee
 
