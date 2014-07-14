@@ -385,26 +385,15 @@ change
 
 6. The constitution shall be reviewed by the union at least every three years from the date of ratification of this Constitution and approved by the PSU Council. A special constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from clubs & societies and ULSU.
 
-Article 16. Removal of an Officer
+## Article 16: Removal of an Officer
 
-16.1 Every directly elected Executive Officer or Council members shall be liable to be removed from
-office on a proposal to that effect approved by a Referendum held in accordance with Schedule I
-(Election Regulations) of this Constitution. Where such a proposal is approved it shall take effect
-upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be
-50% of the total valid poll in the previous election of the position. Where such a proposal is
-approved, s/he will be deemed to have resigned and may not stand for re-election in any
-subsequent election.
+1. Every directly elected Executive Officer or Council members shall be liable to be removed from office on a proposal to that effect approved by a Referendum held in accordance with Schedule I (Election Regulations) of this Constitution. Where such a proposal is approved it shall take effect upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be 50% of the total valid poll in the previous election of the position. Where such a proposal is approved, s/he will be deemed to have resigned and may not stand for re-election in any subsequent election.
 
-16.2 The indirectly elected executive officers and council members shall be liable to be removed
-from office on a proposal to that effect to PSU Council approved by their constituencies and
-Schedule I (Election Regulations) of the Constitution.
+2. The indirectly elected executive officers and council members shall be liable to be removed from office on a proposal to that effect to PSU Council approved by their constituencies and Schedule I (Election Regulations) of the Constitution.
 
-16.3 The PSU Executive Nominee, as affiliates, shall not be deemed resigned by the PSU. They can be
-excluded from representing postgrads on PSU and University committees. The PSU could then
-seek the PSU Executive to nominate a replacement representative.
+3. The PSU Executive Nominee, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgrads on PSU and University committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
 
-16.4 The regulations for a ballot to remove a member of the executive from office shall be
-determined by the returning officer, within the limits of this constitution.
+4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this constitution.
 
 Article 17. Interpretation
 
