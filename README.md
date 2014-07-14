@@ -19,6 +19,26 @@
 
 The Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University & other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
 
+## Articles
+1. Name and status
+2. Aims and Objectives
+3. Membership
+4. Governance of the PSU
+5. Referendum
+6. General Meetings
+7. PSU Council
+8. Executive
+9. Class Representatives
+10. Electoral and Referenda Board
+11. Clubs and Societies
+12. University of Limerick Students' Union
+13. Financial Procedures
+14. Minutes
+15. Amendments
+16. Removal of an Officer
+17. Interpretation
+18. Definitions
+
 ## Article 1: Name and status
 
 1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
@@ -294,7 +314,7 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 19. The PSU President shall present the annual budget for the following academic year to Clubs and Societies Council during the spring semester.
 
-## Article 12. University of Limerick Students Union
+## Article 12. University of Limerick Students' Union
 
 1. The PSU recognises the University of Limerick Students' Union, hereafter known as ULSU as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
