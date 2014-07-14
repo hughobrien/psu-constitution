@@ -112,11 +112,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 6: General Meetings
 
-1. The Annual General Meeting (AGM) of the PSU shall contain members of the population of postgraduate students and the new President of the PSU and where possible the outgoing Executive Committee Members.
+1. The Annual General Meeting (AGM) of the PSU shall contain members of the population of postgraduate students and the new President of the PSU and where possible the outgoing Executive Committee Members. Due to the transient nature of postgraduate students, this may not always be possible, but should be encouraged where it is.
 
 2. There shall be general meetings of the PSU, the duties and regulations of which shall be defined by Schedule 3: Meeting Regulations, and not be in conflict with the aims and objectives of the PSU.
 
-3. The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to allow transparency and accountability to members of the PSU on Constitutional, Representational and Financial areas. Due to the transient nature of postgraduate students, this may not always be possible, but should be encouraged where it is. The function of the AGM is to fulfil these criteria in the following manner:
+3. The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to allow transparency and accountability to members of the PSU on Constitutional, Representational and Financial areas. The function of the AGM is to fulfil these criteria in the following manner:
 
 	1. To change the Constitution and adopt amendments proposed by the Postgraduate population.
 
@@ -580,7 +580,7 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 	1. An elected representative from each Faculty of each faculty in the University which will be called the Faculty Representatives
 
-	2. A PHD Representative
+	2. A PhD Representative
 
 	3. An International Representative
 
@@ -928,17 +928,17 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 11. PhD Officer:
 
-	1. The PHD Officer will support our PHD students here on campus.
+	1. The PhD Officer will support our PhD students here on campus.
 
 	2. This person will sit on our council which meets four times a semester.
 
-	3. Should any PHD specific issues arise, this person will assist the executive in coming to the best solution.
+	3. Should any PhD specific issues arise, this person will assist the executive in coming to the best solution.
 
-	4. They will also work closely with the Events and PRO officer in order to hold events specifically for our PHD students to encourage them to get involved.
+	4. They will also work closely with the Events and PRO officer in order to hold events specifically for our PhD students to encourage them to get involved.
 
 12. Mary Immaculate Representative:
 
-	1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the MIC Campus.
+	1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the Mary Immaculate College Campus.
 
 	2. Attend Council meetings
 
