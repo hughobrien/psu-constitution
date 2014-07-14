@@ -1,11 +1,11 @@
 # Postgraduate Students’ Union University of Limerick Constitution
-#Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
+# Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
 
 ## Preamble
 
 We, the Postgraduate Students of the University of Limerick, do hereby adopt, enact and give to ourselves this Constitution, revoking all previous Constitutions for the Postgraduate Students' Union of the University of Limerick, and notwithstanding any provisions which shall be made for the Union by the Governing Authority of the University of Limerick.
 
-The Constitution derives its authority from the Postgraduate student body of the University of Limerick.
+The Constitution derives its authority from the Postgraduate Student Body of the University of Limerick.
 
 The articles of this constitution may be amended by Referendum or General Meeting.
 
@@ -15,45 +15,31 @@ Any member seeking a copy of the Constitution is entitled to one from the Presid
 
 This Constitution shall be published electronically.
 
-Statement of Purpose
+## Statement of Purpose
 
-The Union alone shall represent and defend the interests of postgraduate students of the University
-of Limerick on Departmental, Faculty, University & other committees and shall be empowered to
-negotiate on all matters concerning both the employment of postgraduate students and the
-remuneration for such employment within the University.
+The Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University & other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
 
+## Article 1. Name and status
 
-Article 1. Name and status
+1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
 
-1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm
-as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as
+## Article 2. Aims and Objectives
 
-‘the PSU’.
+2.1 To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
 
-Article 2. Aims and Objectives
+2.2 To provide a means of communication between postgraduate students and the academic community, the University administration and other bodies concerned with postgraduate study.
 
-2.1 To represent postgraduate students (collectively and individually) in all matters relating to the
-postgraduate experience.
+2.3 To promote the development of a postgraduate 'culture' and community at the University and in both national and international forums.
 
-2.2 To provide a means of communication between postgraduate students and the academic
-community, the University administration and other bodies concerned with postgraduate study.
-
-2.3 To promote the development of a postgraduate 'culture' and community at the University and in
-both national and international forums.
-
-2.4 To elect or nominate postgraduate students to representative committees, both within the
-University and elsewhere, where provision has been made for PSU representatives.
+2.4 To elect or nominate postgraduate students to representative committees, both within the University and elsewhere, where provision has been made for PSU representatives.
 
 2.5 To promote and actively pursue the betterment of the welfare of its members.
 
 2.6 To promote, encourage and facilitate student Clubs and Societies equally.
 
-2.7 These aims and objects shall be practiced without discrimination on the grounds of age, sex,
-race, religion, creed, sexual orientation, disability or medical condition, except that action may
-be taken to promote equality of opportunity
+2.7 These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
 
-2.8 The PSU shall practice the above aims and objectives independent of any political party or
-religious organisation
+2.8 The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
 
 Article 3. Membership
 
