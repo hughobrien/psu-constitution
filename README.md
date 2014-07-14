@@ -586,7 +586,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 4. A Graduate Entry Medical School Representative
 
-19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at nine O’clock of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
+19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at 21:00 of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
 
 20. The nomination forms shall contain the election rules and regulations set down by the Electoral and Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
 
