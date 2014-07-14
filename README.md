@@ -192,7 +192,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 9. The PSU Council is required to meet three times in the semester on select dates which are agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are required to take place:
 
-	1. One in Semester One following Filling of Posts
+	1. One in Semester 1 following Filling of Posts
 
 	2. One preceding the conduction of Election for the position of President to the PSU for the coming year
 
@@ -530,7 +530,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 10. At least five days’ notice of a referendum shall be given. The referendum wording is to be posted at least five days before the referendum. A referendum shall be held not less than two and not more than four teaching weeks after it has been called. All referenda will be carried out by electronic voting. The union shall advertise the upcoming referendum. Referenda shall be restricted to one per topic per academic year.
 
-11. President and Vice-President Elections take place no later than Week 5 in Second Semester of the academic year.
+11. President and Vice-President Elections take place no later than Week 5 in Semester 2 of the academic year.
 
 12. The Election of the Executive and Council takes place at AGM no later than Week 6 of Semester 1 of the Academic Year.
 
@@ -666,7 +666,7 @@ Board and the below standing orders will be followed for the hustings:
 
 	4. Disqualification from the election
 
-	5. Appeals may be made against disciplinary actions of the Electoral and Referenda Board to the disciplinary board.
+	5. Appeals may be made against disciplinary actions of the Electoral and Referenda Board to the disciplinary board. TODO: there was mention of an appendix.
 
 42. All decisions regarding enforcement of regulations, bye laws and spoiled votes shall be binding on all parties and shall be made by the Returning Officer under the direction of the Electoral and Referenda Board after consultation with the campaign manager(s) concerned.
 
@@ -716,17 +716,17 @@ Board and the below standing orders will be followed for the hustings:
 
 1. The AGM shall be held on a University day no later than the end of the Month of October of each year.
 
-2. The President of the Union is the convenor of the AGM and shall give Ten working days prior notice to all members by means of notices in conspicuous locations throughout the University, and through available official online media resources.
+2. The President of the Union is the convenor of the AGM and shall give ten working days' prior notice to all members by means of notices in conspicuous locations throughout the University, and through available official online media resources.
 
 3. The President of the Union shall chair the AGM, or if so wished, a nominee of the President may chair the AGM.
 
-4. Constitutional Amendments will be submitted in writing to the president at least Ten days before the AGM.
+4. Constitutional Amendments will be submitted in writing to the president at least ten days before the AGM.
 
-5. All business of the meeting must be submitted to the President at least Seven working days before the date of the AGM and be published in the agenda.
+5. All business of the meeting must be submitted to the President at least seven working days before the date of the AGM and be published in the agenda.
 
 6. The Agenda must be published at least five working days before the meeting date and be generally available.
 
-7. Amendments to the published agenda must be received by the President no later than Three working days before the meeting, and published at least One working day before the meeting.
+7. Amendments to the published agenda must be received by the President no later than three working days before the meeting, and published at least One working day before the meeting.
 
 8. Quorum shall be required to carry any motions put forward.
 
@@ -1056,7 +1056,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. One independent member or One Senior University nominee
 
-3. The term of office of the Commission shall be from the fourth week of the autumn semester for a period of one year. This will ensure that all positions have been elected from both sides.
+3. The term of office of the Commission shall be from Week 4 of Semester 1 for a period of one year. This will ensure that all positions have been elected from both sides.
 
 4. The Chairperson of the Commission shall be the (independent member or senior University nominee).
 
