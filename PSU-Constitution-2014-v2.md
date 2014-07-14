@@ -230,37 +230,23 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 11. The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice President- Treasurer is a part time position of the PSU). The President (and Vice- President) shall not be eligible to stand for and serve more than two sabbatical terms of office. The President (and Vice-President) shall be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage/ reimbursement/ bonuses/allowance or any possible payment other than the allowance agreed by council. The PSU President (and Vice- President) positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
 
-Article 9. Class Representatives
+## Article 9: Class Representatives
 
-9.1 All Postgraduate Class Representatives are members of the Class Representative Forum
-Facilitated by ULSU. The PSU President will address postgraduate issues in this forum.
+1. All Postgraduate Class Representatives are members of the Class Representative Forum Facilitated by ULSU. The PSU President will address postgraduate issues in this forum.
 
-9.2 This body shall be known as the Class Representative Forum, hereafter called Class Reps Forum.
-Class Reps Forum shall be a forum to open the channel of communication between department
-reps and the class reps within their respective departments.
+2. This body shall be known as the Class Representative Forum, hereafter called 'Class Reps Forum'. Class Reps Forum shall be a forum to open the channel of communication between department reps and the class reps within their respective departments.
 
-9.3 Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson,
-Department Representatives, and all Class Representatives.
+3. Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
-11
+4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule V (Representatives) of this constitution.
 
+5. All Union members shall have participant status at Class Reps Forum but can be asked to leave at the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
+6. Postgraduate class representatives are welcomed to the training that is provided by ULSU on agreement with the ULSU.
 
-9.4 Class Representatives shall be directly elected by the members of the union in their constituency
-as outlined in Schedule V (Representatives) of this constitution.
+7. There will be two class reps forums per semester but at a least at a minimum the forum shall be called at least once per semester by the Vice President Academic.
 
-9.5 All Union members shall have participant status at Class Reps Forum but can be asked to leave at
-the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on
-any other person as deemed appropriate.
-
-9.6 Postgraduate class representatives are welcomed to the training that is provided by ULSU on
-agreement with the ULSU.
-
-9.7 There will be two class reps forums per semester but at a least at a minimum the forum shall be
-called at least once per semester by the Vice President Academic.
-
-9.8 Class Reps are bound by the class rep code of conduct which is held by Vice President Academic
-and approved by the Student Council.
+8. Class Reps are bound by the class rep code of conduct which is held by Vice President Academic and approved by the Student Council.
 
 Article 10. Electoral and Referenda Board
 
