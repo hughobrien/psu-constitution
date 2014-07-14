@@ -19,11 +19,11 @@ This Constitution shall be published electronically.
 
 The Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University & other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
 
-## Article 1. Name and status
+## Article 1: Name and status
 
 1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
 
-## Article 2. Aims and Objectives
+## Article 2: Aims and Objectives
 
 2.1 To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
 
@@ -41,19 +41,13 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 2.8 The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
 
-Article 3. Membership
+## Article 3: Membership
 
-3.1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to
-be full members of the PSU. Members are entitled to the rights as outlined in Schedule I
-(Membership Rights) of this constitution.
+3.1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule I (Membership Rights) of this constitution.
 
+3.1.1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
 
-3.1.1. To be considered as a postgraduate student and therefore a member of the PSU, it is a
-requirement that students should have attained an undergraduate degree before commencing
-on a Postgraduate Programme.
-
-3.2 Any person sitting on the Executive shall be a member while they hold their position on the
-Executive.
+3.2 Any person sitting on the Executive shall be a member while they hold their position on the Executive.
 
 Article 4. Governance of the PSU
 
