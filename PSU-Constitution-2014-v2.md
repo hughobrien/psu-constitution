@@ -399,18 +399,11 @@ change
 
 1. In the event of a challenge to any part of this constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of union council they put forward a motion to general meeting.
 
-Article 18. Definitions
+## Article 18: Definitions
 
-20
+1. Academic Year – Shall begin on the first day of the Autumn Semester and end on the last day of the Spring Semester as defined by the University Academic Calendar.
 
-
-
-1. Academic Year – Shall begin on the first day of the Autumn Semester and end on the last day of
-the Spring Semester as defined by the University Academic Calendar.
-
-2. Class – undergraduate and taught postgraduate classes for each year of every course as defined
-by the University. In the case of Research Postgraduates a class shall be defined as their college
-of research.
+2. Class – undergraduate and taught postgraduate classes for each year of every course as defined by the University. In the case of Research Postgraduates a class shall be defined as their college of research.
 
 3. Class Representative – as defined in Article 9
 
@@ -434,8 +427,7 @@ of research.
 
 13. Observer Status – shall have rights to attend and observe without communication
 
-14. Policy- a course of action or guiding principle intended to determine the union’s opinion on a
-matter.
+14. Policy- a course of action or guiding principle intended to determine the union’s opinion on a matter.
 
 15. Participant Status – shall have rights to attend and speak
 
@@ -449,14 +441,9 @@ matter.
 
 20. PSU office – The President’s office in the PSU Common Room
 
-27. University – University of Limerick, as defined in the Universities Act 1997
+21. University – University of Limerick, as defined in the Universities Act 1997
 
-21
-
-
-
-28. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the
-semester, excluding University Holidays.
+22. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
 
 Schedules
 
