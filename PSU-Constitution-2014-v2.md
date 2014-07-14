@@ -171,87 +171,64 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 11. The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting Regulations) of this constitution.
 
-Article 8. Executive
+## Article 8: Executive
 
-8.1 Executive shall consist of the President, Postgraduate Students Union and nine others:
+1. Executive shall consist of the President, Postgraduate Students Union and nine others:
 
-° Vice-President/Treasurer
+	1. Vice-President/Treasurer
 
-° Events Officer
+	2. Events Officer
 
-° Public Relations Officer
+	3. Public Relations Officer
 
-° Faculties Officer
+	4. Faculties Officer
 
-° Students Union Representative
+	5. Students Union Representative
 
-° Clubs and Societies Representative
+	6. Clubs and Societies Representative
 
-° Mary Immaculate Representative
+	7. Mary Immaculate Representative
 
-° Chair of Council
+	8. Chair of Council
 
-° Full time member of staff in an observing capacity
+	9. Full time member of staff in an observing capacity
 
-8.2 The management of the PSU is invested in the Executive Committee consisting of the nine
-members listed above. Management of the Union consists of responsibilities including:
+2. The management of the PSU is invested in the Executive Committee consisting of the nine members listed above. Management of the Union consists of responsibilities including:
 
-1° Decision Making
+	1. Decision Making
+		1. Reserve functions where long term policy is prime.
 
-9
+		2. Executive functions focusing on decisions regarding day to day activity of the PSU and the President of the PSU.
 
+		3. Formulating responses and approaching University policy which affects the PSU’s Members (Postgraduate Student Body).
 
-° Reserve functions where long term policy is prime
+	2. Holding the PSU President to account
 
-° Executive functions focusing on decisions regarding day to day activity of the PSU
-and the President of the PSU
+		1. Ensuring accountability and transparency through debate on policy and actions
 
-° Formulating responses and approaching University policy which affects the PSU’s
+		2. Ensuring correct responses to issues arising for the PSU
 
-Members (Postgraduate Student Body)
+	3. Ongoing financial oversight
 
-2° Holding the PSU President to account
+		1. Continued focus on Budget expenses to be part of Meetings
 
-° Ensuring accountability and transparency through debate on policy and actions
+3. The Executive Committee must fulfil its function and remit paying heed to this constitution.
 
-° Ensuring correct responses to issues arising for the PSU
+4. The Executive is required to meet a minimum of six times a semester. This does not limit the number of meetings to only six but is a requisite of the executive’s procedural operations.
 
-3° Ongoing financial oversight
+5. All members of the Executive Committee are required to attend all Executive Committee Meetings and perform duties as per constitution.
 
-° Continued focus on Budget expenses to be part of Meetings
+6. Absence from more than two consecutive meetings without apologies by an executive officer shall be deemed a submission of and automatic acceptance of resignation.
 
-8.3 The Executive Committee must fulfil its function and remit paying heed to this constitution
+7. Quorum for Executive Committee Meetings is 50% of officers.
 
-8.3 The Executive is required to meet a minimum of six times a semester. This does not limit the
-number of meetings to only six but is a requisite of the executive’s procedural operations
+8. No Executive Committee Member shall hold a simultaneous position on the Committee.
 
-8.5 All members of the Executive Committee are required to attend all Executive Committee
-Meetings and perform duties as per constitution
+9. No person shall hold the same Officer’s position for more than two terms.
 
-8.6 Absence from more than two consecutive meetings without apologies by an executive officer
-shall be deemed a submission of and automatic acceptance of resignation
+10. PSU Officers shall not serve as Officers of other University of Limerick Student Representative bodies unless it is in fulfilment of their role on the PSU Executive.
 
-8.7 Quorum for Executive Committee Meetings is 50% of officers
-
-10
-
-
-
-8.9 No Executive Committee Member shall hold a simultaneous position on the Committee
-
-8.10 No person shall hold the same Officer’s position for more than two terms.
-
-8.11 PSU Officers shall not serve as Officers of other University of Limerick Student Representative
-bodies unless it is in fulfilment of their role on the PSU Executive
-
-8.12 The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice
-President- Treasurer is a part time position of the PSU). The President (and Vice- President) shall
-not be eligible to stand for and serve more than two sabbatical terms of office. The President
-(and Vice-President) shall be paid an allowance determined by PSU Council and reviewed by
-general meeting annually. The post holders will not receive any other wage/ reimbursement/
-bonuses/allowance or any possible payment other than the allowance agreed by council. The
-PSU President (and Vice- President) positions are elected officers of the PSU and are not
-employees of the PSU. They will be required to sign and abide by an agreement of office.
+11. The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice President- Treasurer is a part time position of the PSU). The President (and Vice- President) shall not be eligible to stand for and serve more than two sabbatical terms of office. The President (and Vice-President) shall be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage/ reimbursement/ bonuses/allowance or any possible payment other than the allowance agreed by council. The PSU President (and Vice- President) positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
 
 Article 9. Class Representatives
 
