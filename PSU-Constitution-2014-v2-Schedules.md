@@ -509,151 +509,73 @@ Having representatives on one another’s executives will also provide us with a
 
 According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an SU Representative and we would seek that our representative from the PSU would be granted these same rights.
 
-Schedule Vi: PSU & ULSU Memorandum of Understanding
+## Schedule 6: PSU & ULSU Memorandum of Understanding
 
-Memorandum of Understanding
+Memorandum of Understanding (MoU) Between ULSU & PSU.
 
-Between ULSU & PSU
+This Memorandum of Understanding is entered into by and between the President of the Postgraduate Students’ Union (PSU) and the President of the Students’ Union (ULSU) in the academic year 2013/2014. It has been drawn on an account of a previous MoU being deemed void and dissolved by both bodies.
 
-This Memorandum of Understanding is entered into by and between the President of the
+This Memorandum recognises the historical and continued representation of all University of Limerick (UL) Students by both the ULSU and the PSU. 
 
-Postgraduate Students’ Union (PSU) and the President of the Students’ Union (ULSU) in the
-academic year 2013/2014. It has been drawn on an account of a previous MoU being deemed
-void and dissolved by both bodies.
+In order to ensure clear communication and efficient representation on behalf of the students we represent, this document should lay down the roles of both bodies and our working relationship. As such we commit to adhering to the following:
 
-This Memorandum recognises the historical and continued representation of all University of
-Limerick (UL) Students by both the ULSU and the PSU.
+1. Working relationship
 
+	1. In order to ensure that the two unions avoid disrepute, and work together to promote the interests of the students, both unions formally agree to continue to cooperate in the general area of student representation and commit to an open exchange of information on matters pertaining to the student population.
 
+	2. The PSU, through its representative on the SU Executive, shall strive to promote the view of the PSU so as to ensure that all SU decisions are made in the interest of the whole student body.
 
+	3. The SU, through its representative on the PSU Executive, shall endeavour to put forward the views of the SU so that fully informed decisions can be made by the PSU.
 
-In order to ensure clear communication and efficient representation on behalf of the students we
-represent, this document should lay down the roles of both bodies and our working relationship.
-As such we commit to adhering to the following:
+	4. It has been suggested that in order to maintain continuity year on year, a position for a full time staff member of the SU should be created on the PSU Executive.
 
-2. Working relationship
+	5. Should both Unions come into conflict, a meeting of the Commission of Arbitration shall be called in order to relieve the situation.
 
-a. In order to ensure that the two unions avoid disrepute, and work together to
-promote the interests of the students, both unions formally agree to continue to
-cooperate in the general area of student representation and commit to an open
-exchange of information on matters pertaining to the student population
+2. Representation of Student Body
 
-b. The PSU, through its representative on the SU Executive, shall strive to promote the
-view of the PSU so as to ensure that all SU decisions are made in the interest of the
-whole student body
+	1. While it is the role of ULSU to represent all students, both bodies shall recognise the PSU as the primary body for Postgraduate Students internally and externally.
 
-c. The SU, through its representative on the PSU Executive, shall endeavour to put
-forward the views of the SU so that fully informed decisions can be made by the PSU
+	2. As such, PSU shall have the leading responsibility in all matters relating to Postgraduate Students.
 
-d. It has been suggested that in order to maintain continuity year on year, a position
-for a full time staff member of the SU should be created on the PSU Executive
+	3. On matters relating to all students, both bodies shall cooperate in working for the interests and needs of all students.
 
-e. Should both Unions come into conflict, a meeting of the Commission of Arbitration
-shall be called in order to relieve the situation
+	4. Postgraduate students are entitled to vote on all ULSU issues and elections as well as PSU issues and elections. Undergraduate students are not permitted to vote on PSU issues or elections.
 
-3. Representation of Student Body
+	5. Postgraduate Students are also entitled to run for ULSU positions. In addition, the PSU Executive and Council members are granted observer status on ULSU Council. Undergraduate students will not be permitted a seat on PSU Executive or Council with the exception of the elected positions of ULSU Executive Representative and the C&S Executive Representative.
 
-a. While it is the role of ULSU to represent all students, both bodies shall recognise the
-PSU as the primary body for Postgraduate Students internally and externally
+3. Financial Agreement
 
-b. As such, PSU shall have the leading responsibility in all matters relating to
-Postgraduate Students
+	1. PSU shall be funded by the capitation contribution of Postgraduate Students
 
-c. On matters relating to all students, both bodies shall cooperate in working for the
-interests and needs of all students.
+	2. The wages of the PSU President shall come directly from the Postgraduate Student Capitation
 
-d. Postgraduate students are entitled to vote on all ULSU issues and elections as well as
+	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S). This will be made in 2 instalments; one in November and one in March. 
 
-PSU issues and elections. Undergraduate students are not permitted to vote on PSU
-issues or electionsi.
+	4. Once the Presidents wages and the C&S Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
-e. Postgraduate Students are also entitled to run for ULSU positions. In addition, the
-PSU Executive and Council members are granted observer status on ULSU Council.
-Undergraduate students will not be permitted a seat on PSU Executive or Council
-with the exception of the elected positions of ULSU Executive Representative and
-the C&S Executive Representative.
+	5. PSU shall take responsibility for the book-keeping of all PSU finances with the exceptions of:
 
-4. Financial Agreement
+		1. The ULSU Financial Accountant shall maintain the Payroll of the PSU.
 
-a. PSU shall be funded by the capitation contribution of Postgraduate Students
+		2. The ULSU Financial Accountant shall also oversee the activity within the PSU Financial Aid Account.
 
-b. The wages of the PSU President shall come directly from the Postgraduate Student
-Capitation
+	6. At the end of the financial year, the PSU shall present audited accounts to the following:
 
-c. Once the Presidents wages have been deducted, the PSU will make a 2/3
-contribution from Postgraduate student capitation to UL Clubs & Societies(C&S).
-This will be made in 2 instalments; one in November and one in March.
+		1. PSU AGM
 
+		2. PSU Council
 
+		3. ULSU Council
 
+		4. C&S Council
 
-d. Once the Presidents wages and the C&S Contribution have been deducted, the PSU
-will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services
-and support to be paid in Semester 1.
+4. Clubs and Societies
 
-e. PSU shall take responsibility for the book-keeping of all PSU finances with the
-exceptions of;
+	1. A PSU Representative shall sit as a voting member of the Clubs & Societies Executive to contribute to the decisions made by C&S Executive in the interest of Postgraduate Students.
 
-i. The ULSU Financial Accountant shall maintain the Payroll of the PSU
+	2. A Clubs & Societies Representative shall sit as a voting member of the PSU Executive, representing the views of Clubs & Societies and bringing forward information where necessary to ensure informed decisions are made by the PSU Executive.
 
-ii. The ULSU Financial Accountant shall also oversee the activity within the PSU
-Financial Aid Account
-
-f. At the end of the financial year, the PSU shall present audited accounts to the
-following:
-
-i. PSU AGM
-
-ii. PSU Council
-
-iii. ULSU Council
-
-iv. C&S Council
-
-5. Clubs and Societies
-
-a. A PSU Representative shall sit as a voting member of the Clubs & Societies Executive
-to contribute to the decisions made by C&S Executive in the interest of Postgraduate
-Students
-
-b. A Clubs & Societies Representative shall sit as a voting member of the PSU Executive,
-representing the views of Clubs & Societies and bringing forward information where
-necessary to ensure informed decisions are made by the PSU Executive.
-
-c. The C & S representative on the PSU executive will work to promote and engage
-with postgraduate students about clubs and societies.
-
-Date: ______________________
-
-Signed
-
-
-
-_________________________
-
-PSU President
-
-Lily Carroll
-
-_________________________
-
-PSU Vice President
-
-Keith Young
-
-____________________________
-
-SU President
-
-Emma Porter
-
-_________________________
-
-SU Deputy President
-
-Catriona Ní Dhonnchú
-
-
+	3. The C & S representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
 
 Schedule VII: Commission of Arbitration for PSU & ULSU
 
