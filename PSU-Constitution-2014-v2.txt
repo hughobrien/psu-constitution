@@ -235,7 +235,6 @@ Article 1. Name and status
 1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm 
 as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 
 
-
  
 
 ‘the PSU’. 
@@ -255,34 +254,28 @@ Article 2. Aims and Objectives
 2.1 To represent postgraduate students (collectively and individually) in all matters relating to the 
 postgraduate experience. 
 
-
  
 
 2.2 To provide a means of communication between postgraduate students and the academic 
 community, the University administration and other bodies concerned with postgraduate study. 
-
 
  
 
 2.3 To promote the development of a postgraduate 'culture' and community at the University and in 
 both national and international forums. 
 
-
  
 
 2.4 To elect or nominate postgraduate students to representative committees, both within the 
 University and elsewhere, where provision has been made for PSU representatives. 
 
-
  
 
 2.5 To promote and actively pursue the betterment of the welfare of its members. 
 
-
  
 
 2.6 To promote, encourage and facilitate student Clubs and Societies equally. 
-
 
  
 
@@ -290,12 +283,10 @@ University and elsewhere, where provision has been made for PSU representatives.
 race, religion, creed, sexual orientation, disability or medical condition, except that action may 
 be taken to promote equality of opportunity 
 
-
  
 
 2.8 The PSU shall practice the above aims and objectives independent of any political party or 
 religious organisation 
-
 
  
 
@@ -310,7 +301,6 @@ Article 3. Membership
 3.1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to 
 be full members of the PSU. Members are entitled to the rights as outlined in Schedule I 
 (Membership Rights) of this constitution. 
-
 
  
 
@@ -328,7 +318,6 @@ on a Postgraduate Programme.
 3.2 Any person sitting on the Executive shall be a member while they hold their position on the 
 Executive. 
 
-
  
 
  
@@ -342,7 +331,6 @@ Article 4. Governance of the PSU
 4.1 The Governance of the PSU shall be based on the democratic principle that every member shall 
 have the fullest opportunity to directly participate in PSU affairs. 
 
-
  
 
  
@@ -350,7 +338,6 @@ have the fullest opportunity to directly participate in PSU affairs.
 4.2 Subject to this constitution, the powers of government of the PSU shall be vested in, and 
 exercised by the organs established by this constitution; namely in descending order of 
 authority: 
-
 
  
 
@@ -389,7 +376,6 @@ Article 5. Referendum
 5.1 A referendum shall be of all members and shall be the supreme authority on all matters relating 
 to the government of the PSU. 
 
-
  
 
 5.2 A referendum shall be held on any issue, if 
@@ -424,12 +410,10 @@ referendum ballot paper. The referendum shall be supervised by the returning off
 polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling 
 station on campus. 
 
-
  
 
 5.4 The rules and regulations for the referendum shall be outlined in Schedule II (Election 
 Regulations) of the constitution and not be in conflict with the aims and objectives of the PSU. 
-
 
  
 
@@ -439,7 +423,6 @@ Regulations) of the constitution and not be in conflict with the aims and object
 the constitution will be amended according to the motion put forward. After all referenda, 
 appendix I (Results and Referenda) of this constitution will also be updated with the referendum 
 results. 
-
 
  
 
@@ -460,14 +443,12 @@ Executive Committee Members1.
 by Schedule III (Meeting Regulations) of this constitution and not be in conflict with the aims and 
 objectives of the PSU. 
 
-
  
 
 6.3 The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides 
 opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to 
 allow transparency and accountability to members of the PSU on Constitutional, 
 Representational and Financial areas. The function of the AGM is to fulfil these criteria in the 
-
 
  
 
@@ -549,7 +530,6 @@ which have arisen which require a general meeting to facilitate that process. As
 Meeting the rules of procedure and process apply. However the criteria for calling a Special EGM 
 differ in so far as: 
 
-
  
 
 1° The EGM may be called by the Executive Committee 
@@ -599,18 +579,15 @@ a. If being requested by Fifty members of the population, the submission must be
 made in writing and signed by the Fifty members of their own free will, where that 
 submission is directed to the President 
 
-
  
 
 b. Should the meeting be requested in writing by Fifty members to the President, the 
 President must call a Special EGM within fifteen days from receiving that request 
 
-
  
 
 c. Should it be required, by-elections for vacant posts on the Executive Committee or 
 on Council can be sought and subject to the same criteria as laid out in section 6.1. 
-
 
  
 
@@ -625,7 +602,6 @@ Article 7. PSU Council
 7.1 The PSU Council will exist to facilitate democracy and representation in terms of policy making 
 and transparency. 
 
-
  
 
 7.2 The PSU Council, hereafter known as Council, shall be the supreme decision making body of the 
@@ -633,11 +609,9 @@ PSU, except for a decision that is made in a referendum or general meeting. It s
 issues that are of concern to its members to the senior management team of the University 
 through the Executive and the President. 
 
-
  
 
 7.3 Council shall have the power to mandate the Executive. 
-
 
  
 
@@ -645,34 +619,21 @@ through the Executive and the President.
 descriptions for each member are outlined in Schedule IV (Council and Executive Job 
 Descriptions and terms of Office) : 
 
-
  
 
 ° PSU Executive Committee (10 members) 
-
-
-
 
  
 
 ° Arts Humanities and Social Sciences Representative 
 
-
-
-
  
 
 ° Education and Health Sciences Representative 
 
-
-
-
  
 
 ° Kemmy Business School Representative 
-
-
-
 
  
 
@@ -685,42 +646,26 @@ Descriptions and terms of Office) :
 
 ° Science and Engineering Representative 
 
-
-
-
  
 
 ° Graduate Entry School Representative 
-
-
-
 
  
 
 ° PHD Representative 
 
-
-
-
  
 
 ° International Representative 
-
-
-
 
  
 
 ° Council Members (Two in Total) 
 
-
-
-
  
 
 7.6 The Executive shall be non-voting members of Council except for the faculties’ officer who 
 represents their own faculty on Council and the chairperson’s casting vote. All PSU members 
-
 
  
 
@@ -732,12 +677,10 @@ appropriate.
 
 7.7 The PSU Council members shall be elected at the AGM in Semester 1. 
 
-
  
 
 7.8 The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students 
 are represented to the PSU Officers. 
-
 
  
 
@@ -765,7 +708,6 @@ which they are interacting with.
 member has one vote and voting results are based on a simple majority of eligible voting council 
 members. The Chair of Council shall have the casting vote where necessary. 
 
-
  
 
  
@@ -783,40 +725,28 @@ members. The Chair of Council shall have the casting vote where necessary.
 agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are 
 required to take place; 
 
-
  
 
 ° One in Semester One following Filling of Posts 
-
-
-
 
  
 
 ° One preceding the conduction of Election for the position of President to the PSU for the 
 coming year 
 
-
-
-
  
 
 ° One as a final meeting before the end of Year 
-
-
-
 
  
 
 7.11 Absence from more than two consecutive meetings in the year without apologies by an 
 eligible member shall be deemed a submission of and automatic acceptance of resignation. 
 
-
  
 
 7.12 The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting 
 Regulations) of this constitution. 
-
 
  
 
@@ -830,69 +760,41 @@ Article 8. Executive
 
 8.1 Executive shall consist of the President, Postgraduate Students Union and nine others: 
 
-
  
 
 ° Vice-President/Treasurer 
-
-
-
 
  
 
 ° Events Officer 
 
-
-
-
  
 
 ° Public Relations Officer 
-
-
-
 
  
 
 ° Faculties Officer 
 
-
-
-
  
 
 ° Students Union Representative 
-
-
-
 
  
 
 ° Clubs and Societies Representative 
 
-
-
-
  
 
 ° Mary Immaculate Representative 
-
-
-
 
  
 
 ° Chair of Council 
 
-
-
-
  
 
 ° Full time member of staff in an observing capacity 
-
-
-
 
  
 
@@ -902,7 +804,6 @@ Article 8. Executive
 
 8.2 The management of the PSU is invested in the Executive Committee consisting of the nine 
 members listed above. Management of the Union consists of responsibilities including: 
-
 
  
 
@@ -915,21 +816,14 @@ members listed above. Management of the Union consists of responsibilities inclu
 
 ° Reserve functions where long term policy is prime 
 
-
  
 
 ° Executive functions focusing on decisions regarding day to day activity of the PSU 
 and the President of the PSU 
 
-
-
-
  
 
 ° Formulating responses and approaching University policy which affects the PSU’s 
-
-
-
 
  
 
@@ -949,11 +843,9 @@ Members (Postgraduate Student Body)
 
 ° Ensuring accountability and transparency through debate on policy and actions 
 
-
  
 
 ° Ensuring correct responses to issues arising for the PSU 
-
 
  
 
@@ -969,9 +861,6 @@ Members (Postgraduate Student Body)
 
 ° Continued focus on Budget expenses to be part of Meetings 
 
-
-
-
  
 
  
@@ -981,7 +870,6 @@ Members (Postgraduate Student Body)
  
 
 8.3 The Executive Committee must fulfil its function and remit paying heed to this constitution 
-
 
  
 
@@ -994,7 +882,6 @@ Members (Postgraduate Student Body)
 8.3 The Executive is required to meet a minimum of six times a semester. This does not limit the 
 number of meetings to only six but is a requisite of the executive’s procedural operations 
 
-
  
 
  
@@ -1003,7 +890,6 @@ number of meetings to only six but is a requisite of the executive’s procedura
 
 8.5 All members of the Executive Committee are required to attend all Executive Committee 
 Meetings and perform duties as per constitution 
-
 
  
 
@@ -1014,7 +900,6 @@ Meetings and perform duties as per constitution
 8.6 Absence from more than two consecutive meetings without apologies by an executive officer 
 shall be deemed a submission of and automatic acceptance of resignation 
 
-
  
 
  
@@ -1022,7 +907,6 @@ shall be deemed a submission of and automatic acceptance of resignation
  
 
 8.7 Quorum for Executive Committee Meetings is 50% of officers 
-
 
  
 
@@ -1039,7 +923,6 @@ shall be deemed a submission of and automatic acceptance of resignation
 
 8.9 No Executive Committee Member shall hold a simultaneous position on the Committee 
 
-
  
 
  
@@ -1049,7 +932,6 @@ shall be deemed a submission of and automatic acceptance of resignation
  
 
 8.10 No person shall hold the same Officer’s position for more than two terms. 
-
 
  
 
@@ -1061,7 +943,6 @@ shall be deemed a submission of and automatic acceptance of resignation
 
 8.11 PSU Officers shall not serve as Officers of other University of Limerick Student Representative 
 bodies unless it is in fulfilment of their role on the PSU Executive 
-
 
  
 
@@ -1078,7 +959,6 @@ bonuses/allowance or any possible payment other than the allowance agreed by cou
 PSU President (and Vice- President) positions are elected officers of the PSU and are not 
 employees of the PSU. They will be required to sign and abide by an agreement of office. 
 
-
  
 
  
@@ -1090,19 +970,16 @@ Article 9. Class Representatives
 9.1 All Postgraduate Class Representatives are members of the Class Representative Forum 
 Facilitated by ULSU. The PSU President will address postgraduate issues in this forum. 
 
-
  
 
 9.2 This body shall be known as the Class Representative Forum, hereafter called Class Reps Forum. 
 Class Reps Forum shall be a forum to open the channel of communication between department 
 reps and the class reps within their respective departments. 
 
-
  
 
 9.3 Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson, 
 Department Representatives, and all Class Representatives. 
-
 
  
 
@@ -1118,31 +995,26 @@ Department Representatives, and all Class Representatives.
 9.4 Class Representatives shall be directly elected by the members of the union in their constituency 
 as outlined in Schedule V (Representatives) of this constitution. 
 
-
  
 
 9.5 All Union members shall have participant status at Class Reps Forum but can be asked to leave at 
 the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on 
 any other person as deemed appropriate. 
 
-
  
 
 9.6 Postgraduate class representatives are welcomed to the training that is provided by ULSU on 
 agreement with the ULSU. 
-
 
  
 
 9.7 There will be two class reps forums per semester but at a least at a minimum the forum shall be 
 called at least once per semester by the Vice President Academic. 
 
-
  
 
 9.8 Class Reps are bound by the class rep code of conduct which is held by Vice President Academic 
 and approved by the Student Council. 
-
 
  
 
@@ -1158,13 +1030,11 @@ Article 10. Electoral and Referenda Board
 Regulations) of this Constitution. The procedure for all elections and referenda shall be 
 determined by the Electoral & Referendum Board. 
 
-
  
 
 10.2 A representative from the PSU, not involved in the running or organising of any campaign and 
 elected from Council or the Executive will sit as a voting member on the ERB representing the 
 PSU. 
-
 
  
 
@@ -1196,7 +1066,6 @@ the PSU Council or Executive the issue shall go to general meeting.
 Societies policy and coordination of Clubs and Societies activities, under the auspices of the 
 Union 
 
-
  
 
 11.3 Under the new Memorandum of Understanding in Schedule VI, there will be a PSU 
@@ -1205,14 +1074,12 @@ reports to both councils. The PSU Officer, as a member of the Clubs and Societie
 be a full voting member on the Executive. It is then their responsibility to ensure PSU Council is 
 consulted. 
 
-
  
 
 11.3 Under the new MoU in Schedule VI, there will be a Clubs and Societies Representative that sits 
 on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a 
 member of the PSU Executive will be a full voting member on the Executive. It is then their 
 responsibility to ensure Clubs & Societies Council is consulted. 
-
 
  
 
@@ -1223,23 +1090,19 @@ Clubs and Societies Council
 11.4 The Clubs and Societies Council shall consist of the Clubs and Societies Executive, and at least 
 one liaison officer from each club and society. 
 
-
  
 
 11.5 The Clubs and Societies Council shall meet at least three times per semester. 
-
 
  
 
 11.6 All Clubs and Societies Council Meetings shall be quorate if there is 50% of recognised clubs and 
 societies plus one. 
 
-
  
 
 11.7 Clubs & Societies Council Meetings shall be run in accordance with the procedures and standing 
 orders contained within the Clubs and Societies Rulebook. 
-
 
  
 
@@ -1271,18 +1134,13 @@ societies delegates.
 11.9 The PSU President or his/her executive nominee shall be member on the Clubs and Societies 
 Executive, the rest of the membership of the Clubs & Societies Executive is determined by Clubs 
 
-
  
 
 & Societies Council and is outlined in the Clubs & Societies Rulebook. 
 
-
-
-
  
 
 11.10 The members of the Clubs and Societies Executive elected by clubs and societies may only be 
-
 
  
 
@@ -1297,14 +1155,10 @@ Allocation of C&S Funds
 11.11 The PSU will distribute two thirds of the postgraduate student capitation received annually to 
 fund clubs and societies after the wages of the PSU President has been deducted. 
 
-
  
 
 11.1 This transfer will take place twice annually after the payment of Capitation has been 
 paid by the University. One transfer in November and the second transfer in March 
-
-
-
 
  
 
@@ -1312,20 +1166,17 @@ paid by the University. One transfer in November and the second transfer in Marc
 Union. All money not claimed by individual clubs and societies shall be reallocated to clubs and 
 societies in the following year's budget. 
 
-
  
 
 11.13 Recognised clubs and societies shall submit budgets to the Clubs and Societies Development 
 Officer using the established procedures as agreed by the Clubs and Societies Council and 
 outlined in the Clubs & Societies Rulebook. 
 
-
  
 
 11.14 The Clubs and Societies Executive shall allocate funds to every club and society using the 
 established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs & 
 Societies Rulebook. 
-
 
  
 
@@ -1335,12 +1186,10 @@ accordance with the Clubs and Societies Rulebook. Allocations shall be made at t
 the Clubs and Societies Executive using the established procedures as agreed by the Clubs and 
 Societies Council. 
 
-
  
 
 11.16 A portion of the annual clubs and societies funds shall be retained for administration 
 purposes. 
-
 
  
 
@@ -1386,13 +1235,11 @@ be approved by Student Council, PSU Council and in the case of amendments relati
 Societies, Article 11 stipulates the amendments needs to be presented to Clubs & Societies 
 Council. 
 
-
  
 
 12.4 Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been 
 established for the purpose of dissolving the situation. The remit of the Commission of 
 Arbitration and its membership is outlined in Schedule VII of this Constitution. 
-
 
  
 
@@ -1426,7 +1273,6 @@ course of their term.
 13.2 The President shall, when required, withdraw monies to the total amount of €500 Euros for 
 daily expenses from petty cash 
 
-
  
 
  
@@ -1434,7 +1280,6 @@ daily expenses from petty cash
  
 
 13.3 This withdrawal shall share a dual mandate and be fulfilled by the Vice- President Treasurer 
-
 
  
 
@@ -1445,9 +1290,6 @@ daily expenses from petty cash
  
 
 13.3.1 In order to ensure continuity and in the case of absence of the Vice- President 
-
-
-
 
  
 
@@ -1463,7 +1305,6 @@ on the main PSU Forum Students’ Account
 13.4 Petty Cash and cheque expenditure shall be accounted for by the maintenance of budget 
 and expenditure sheets by the President, and the collection of all receipts and invoices 
 
-
  
 
  
@@ -1473,7 +1314,6 @@ and expenditure sheets by the President, and the collection of all receipts and 
 13.5 Budget and Expenditure sheets shall be overseen by the Vice-President/Treasurer of the PSU 
 as per constitutional remit and require monthly assessment and approval 
 
-
  
 
  
@@ -1481,7 +1321,6 @@ as per constitutional remit and require monthly assessment and approval
  
 
 13.6 Purchases shall be agreed through the use of; 
-
 
  
 
@@ -1491,11 +1330,6 @@ as per constitutional remit and require monthly assessment and approval
 President and the Vice-President/Treasurer or another member of the Executive 
 Committee if the Vice-President/Treasurer is unavailable 
 
-
-
-
-
-
  
 
 ° Through virtual agreement by means of email where there is a need to pursue 
@@ -1504,11 +1338,6 @@ subsequently, the Vice-President Treasurer will sign after the fact. Should this
 required both the signed Purchase order and a dated, timed copy of the email 
 containing the purchase order sequence number must be maintained on records 
 for auditing and accountability 
-
-
-
-
-
 
  
 
@@ -1525,7 +1354,6 @@ for auditing and accountability
 value at the discretion of the Executive, should be subject to agreement by the PSU Executive 
 Committee 
 
-
  
 
  
@@ -1536,7 +1364,6 @@ Committee
 up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet 
 with the President to sign off on the Budget 
 
-
  
 
  
@@ -1546,7 +1373,6 @@ with the President to sign off on the Budget
 13.9 When paying by cheque, the President of the PSU is required to have a dual mandate which 
 is served by the Vice-President Treasurer of the PSU and in the case of the absence of the VP/T, 
 the financial controller of ULSU can sign as a third signee. 
-
 
  
 
@@ -1561,7 +1387,6 @@ is charged as one unit to the University of Limerick Students Union, then the Un
 Limerick Student Union must charge the PSU for their element of the cost depending on the 
 amount of members involved, and invoice as such. 
 
-
  
 
  
@@ -1572,7 +1397,6 @@ amount of members involved, and invoice as such.
 at the discretion of the Executive Committee, and that where possible invoices will be sought for 
 services procured 
 
-
  
 
  
@@ -1582,7 +1406,6 @@ services procured
 13.12 It is the responsibility of the President and the Vice-President/Treasurer to ensure that the 
 end of year accounts is subject to external scrutiny. Therefore, an external accountant must be 
 utilised to prepare the accounts for presentation at the AGM of the succeeding year. 
-
 
  
 
@@ -1598,7 +1421,6 @@ utilised to prepare the accounts for presentation at the AGM of the succeeding y
 13.13 The President should provide the external accountant with all relevant financial material 
 before the financial year end of May 31st. 
 
-
  
 
  
@@ -1607,34 +1429,21 @@ before the financial year end of May 31st.
 
 13.14 Those with a key role and oversight in the PSU finances are: 
 
-
  
 
 ° President, PSU 
-
-
-
 
  
 
 ° Vice-President/Treasurer, PSU 
 
-
-
-
  
 
 ° Executive Committee Members 
 
-
-
-
  
 
 ° External Accountant 
-
-
-
 
  
 
@@ -1647,47 +1456,25 @@ before the financial year end of May 31st.
 13.15 At the end of the financial year, the PSU audited accounts must be present to and passed by 
 the following: 
 
-
  
 
 i. PSU AGM 
-
-
-
-
-
 
  
 
 ii. PSU Council 
 
-
-
-
-
-
  
 
 iii. C&S Council 
-
-
-
-
-
 
  
 
 13.16 Additionally, audited accounts must be presented to 
 
-
  
 
 iv. ULSU Council 
-
-
-
-
-
 
  
 
@@ -1730,12 +1517,10 @@ start of each academic year.
 However, the members of the meeting may vote to hold a specific meeting or an item of a 
 meeting as a closed session. 
 
-
  
 
 14.4 The regulations for the organisation of PSU meetings shall be outlined in Schedule III (Meeting 
 Regulations) of this constitution. 
-
 
  
 
@@ -1754,29 +1539,24 @@ Article 15. Amendments
 15.1 Alterations to the articles of this constitution must be decided at an Annual General Meeting or 
 an Extra-ordinary General Meeting. 
 
-
  
 
 15.2 Approval of two thirds of members present and voting at an AGM or EGM is required for 
 Change. 
-
 
  
 
 15.3 Constitutional amendments come into effect the day after the Annual General Meeting or 
 Extra-ordinary General Meeting at which it is passed. 
 
-
  
 
 15.4 PSU Council can amend the schedules of this Constitution. 
-
 
  
 
 15.5 Approval of two thirds of eligible voting members present at the council meeting is required for 
 change 
-
 
  
 
@@ -1784,7 +1564,6 @@ change
 ratification of this Constitution and approved by the PSU Council. A special constitutional review 
 committee will be set up by PSU council in order to complete the review and shall have 
 representatives from clubs & societies and ULSU. 
-
 
  
 
@@ -1813,13 +1592,11 @@ upon the declaration of the Returning Officer. A quorum for the removal of an of
 approved, s/he will be deemed to have resigned and may not stand for re-election in any 
 subsequent election. 
 
-
  
 
 16.2 The indirectly elected executive officers and council members shall be liable to be removed 
 from office on a proposal to that effect to PSU Council approved by their constituencies and 
 Schedule I (Election Regulations) of the Constitution. 
-
 
  
 
@@ -1827,12 +1604,10 @@ Schedule I (Election Regulations) of the Constitution.
 excluded from representing postgrads on PSU and University committees. The PSU could then 
 seek the PSU Executive to nominate a replacement representative. 
 
-
  
 
 16.4 The regulations for a ballot to remove a member of the executive from office shall be 
 determined by the returning officer, within the limits of this constitution. 
-
 
  
 
@@ -1875,104 +1650,84 @@ Article 18. Definitions
 1. Academic Year – Shall begin on the first day of the Autumn Semester and end on the last day of 
 the Spring Semester as defined by the University Academic Calendar. 
 
-
  
 
 2. Class – undergraduate and taught postgraduate classes for each year of every course as defined 
 by the University. In the case of Research Postgraduates a class shall be defined as their college 
 of research. 
 
-
  
 
 3. Class Representative – as defined in Article 9 
-
 
  
 
 4. Clubs and Societies Council – as defined in Article 11 
 
-
  
 
 5. Clubs & Societies Executive – as defined in Article 11 
-
 
  
 
 6. College – One of the constituent colleges of the University for the Plassey Campus 
 
-
  
 
 7. Constitution – This document in its entirety 
-
 
  
 
 8. Council – as defined in Article 7 
 
-
  
 
 9. Directly Elected – a union position elected from the entire student population 
-
 
  
 
 10. Executive – as defined in Article 8 
 
-
  
 
 11. General Meeting – as defined in Article 6 
-
 
  
 
 12. Non-Voting Member Status – shall have full member rights except the right to vote 
 
-
  
 
 13. Observer Status – shall have rights to attend and observe without communication 
-
 
  
 
 14. Policy- a course of action or guiding principle intended to determine the union’s opinion on a 
 matter. 
 
-
  
 
 15. Participant Status – shall have rights to attend and speak 
-
 
  
 
 16. Referendum – as defined in Article 5 
 
-
  
 
 17. Semester – is an academic semester as defined by the University academic calendar. 
-
 
  
 
 18. Teaching Week – Any week in which scheduled teaching takes place during a semester. 
 
-
  
 
 19. PSU – The Postgraduate Students’ Union 
 
-
  
 
 20. PSU office – The President’s office in the PSU Common Room 
-
 
  
 
@@ -1993,7 +1748,6 @@ matter.
 
 28. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the 
 semester, excluding University Holidays. 
-
 
  
 
@@ -2152,7 +1906,6 @@ Schedule I: Membership Rights
 
 1. Only full members shall have voting rights as prescribed in Schedule I. 
 
-
  
 
  
@@ -2164,7 +1917,6 @@ Schedule I: Membership Rights
 2. Only full members on the date of polling shall be entitled to stand for election to the 
 position of President. 
 
-
  
 
  
@@ -2174,7 +1926,6 @@ position of President.
 3. Members running for election to the Executive must be full members of the Union on the 
 date of election 
 
-
  
 
  
@@ -2183,7 +1934,6 @@ date of election
 
 4. The Executive reserves the right to verify postgraduate status at the University before 
 continuing representation of any individual. 
-
 
  
 
@@ -2286,11 +2036,9 @@ President and shall have the sole interpretation of the election regulations. Th
 full member of the union. The returning officer may appoint a deputy and assistants to support 
 them in their duties. 
 
-
  
 
 2. The Returning Officer shall 
-
 
  
 
@@ -2326,11 +2074,9 @@ the elections Electoral and Referenda Board
 3. Under article 11, there shall be an Electoral and Referenda Board to liaise with the returning 
 officer in the running of Elections and Referenda of the Union. 
 
-
  
 
 4. The membership of the Electoral and Referenda Board shall be: 
-
 
  
 
@@ -2361,19 +2107,16 @@ referendum for which it has been established. The Electoral and Referenda Board 
 number, select a chair. The Returning Officer shall have participant status on the Electoral and 
 Referenda Board. 
 
-
  
 
 6. The Electoral and Referenda Board shall be in place before each election and shall implement the 
 election rules and regulations for the academic year in accordance to this constitution, through 
 the Returning Officer. 
 
-
  
 
 7. Where an election is in progress under this constitution, the Returning Officer under the direction 
 of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may 
-
 
  
 
@@ -2402,7 +2145,6 @@ removal of officers then article 16 takes effect.
 be checked by PSU Council and may be altered if it is considered ambiguous, so long as the 
 intention of the original motion is not changed. 
 
-
  
 
 10. Arrangements: At least five days’ notice of a referendum shall be given. The referendum wording 
@@ -2410,7 +2152,6 @@ is to be posted at least five days before the referendum. A referendum shall be 
 than two and not more than four teaching weeks after it has been called. All referenda will be 
 carried out by electronic voting. The union shall advertise the upcoming referendum. Referenda 
 shall be restricted to one per topic per academic year. 
-
 
  
 
@@ -2423,17 +2164,14 @@ When should elections happen?
 11. President and Vice-President Elections take place no later than Week 5 in Second Semester of 
 the academic year. 
 
-
  
 
 12. The Election of the Executive and Council takes place at AGM no later than week 6 of Semester 1 
 of the Academic Year. 
 
-
  
 
 13. The election dates shall be agreed upon at AGM. 
-
 
  
 
@@ -2523,11 +2261,9 @@ positions: 1° President
 16. Reopen nominations (RON) shall be a candidate in all union elections when the electronic voting 
 system allows for this option to run effectively. 
 
-
  
 
 17. Clubs and Societies Officers are elected by Clubs & Societies Council as outlined in Article 12 of 
-
 
  
 
@@ -2575,18 +2311,13 @@ of
 2 nominations weeks, 2 weeks prior to Election week in Semester 2. Candidates for these posts 
 shall be proposed and seconded by the signatures of 20 members of the PSU. 
 
-
  
 
 21. The nomination forms shall contain the election rules and regulations set down by the Electoral 
 
-
  
 
 & Referendum Board, a copy of the Job descriptions for each position in the election should be 
-
-
-
 
  
 
@@ -2607,12 +2338,10 @@ make available to each candidate.
 seconders, the candidate's name as registered with the University, ID number, Course, and the 
 name of the candidate's campaign manager. 
 
-
  
 
 23. A member may not propose more than one candidate to the same position for a given election. 
 A nominated candidate cannot nominate anyone to the same position that he/she is running for. 
-
 
  
 
@@ -2622,12 +2351,10 @@ open for 2 weeks. The election week for the election of President (and Vice-Pres
 shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day 
 taking place on the fourth University day after the close of nominations. 
 
-
  
 
 25. Should no nomination forms be returned by close of nominations, an Election Convention 
 consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be 
-
 
  
 
@@ -2647,18 +2374,15 @@ Publicity about an upcoming election
 election timetable and a copy of the election rules and regulations, job descriptions etc. shall be 
 posted on the union website and social media outlets. 
 
-
  
 
 27. The returning officer shall produce a list of candidates (together with the proposers and 
 seconders) which shall be displayed on the union notice-boards within 48 hours of the close of 
 nominations. 
 
-
  
 
 28. The ERB can run a campaign to promote voting on the day and the existence of the election in 
-
 
  
 
@@ -2680,11 +2404,9 @@ Campaigning Rules and Regulations
 29. The canvassing and campaigning rules and regulations shall be contained in the election rules 
 and regulations set down by the Electoral & Referendum Board. 
 
-
  
 
 30. Election candidates may commence campaigning at the close of nominations. 
-
 
  
 
@@ -2693,11 +2415,9 @@ direction of the Electoral and Referenda Board, may at his or her discretion, ma
 regulations as may be appropriate to govern the canvassing or other activities of candidates or 
 their agents in seeking election. 
 
-
  
 
 32. No canvassing shall take place on polling day within a 10-metre radius of any polling station. 
-
 
  
 
@@ -2709,18 +2429,15 @@ Candidate’s Campaign Materials
 Campaign Manager”, Campaign Manager for “Name of Candidate”", so it is clearly identifiable 
 from where the material is coming. 
 
-
  
 
 34. The Returning Officer shall, where possible, make it public knowledge where any defamatory 
 material is coming from. 
 
-
  
 
 35. All election material shall be approved by the Returning Officer under the guidelines laid out by 
 the Electoral and Referenda Board before it can be distributed on campus. 
-
 
  
 
@@ -2732,12 +2449,10 @@ Candidate’s Electoral Spending
 Executive. It is an offence for any candidate to be in receipt of sponsorship, gifts or a benefit-in-
 kind from vested commercial, political or outside interests. 
 
-
  
 
 37. If the candidate is found to have breached the provisions of this constitution, she/he shall be 
 disqualified immediately by the Returning Officer on the order of the Electoral and Referenda 
-
 
  
 
@@ -2751,7 +2466,6 @@ The Public Debate or ‘Hustings’
 
 38. The public debates with or between candidates or interested parties in an election or referendum 
 held by the Union shall be called ‘Hustings’ and shall be convened by the Electoral 
-
 
  
 
@@ -2812,12 +2526,10 @@ complaint being lodged by any full member or the candidate or their nominee. Any
 against the conduct or administration of the election should be received by the returning officer 
 before the start of the count. 
 
-
  
 
 41. The Electoral and Referenda Board shall have the power to discipline or disqualify any member 
 of the Union who: 
-
 
  
 
@@ -2866,7 +2578,6 @@ the disciplinary board (see the appendix 1 of this constitution).
 43. All decisions regarding enforcement of regulations, bye laws and spoiled votes shall be binding 
 on all parties and shall be made by the Returning Officer under the direction of the Electoral and 
 
-
  
 
 Referenda Board after consultation with the campaign manager(s) concerned. 
@@ -2880,13 +2591,11 @@ Voting Procedures
 44. All elections shall be by a secret ballot and by the system of proportional representation by 
 single transferable vote as governed by the Oireachtas for Dáil elections. 32 
 
-
  
 
 45. For a paper election: a voting paper will be issued to each voter, which shall bear the union 
 stamp and votes will be cast in sealed ballot boxes. Ballot papers shall bear the name of each 
 candidate and the office being contested. There will be a facility for reopening nominations 
-
 
  
 
@@ -2897,7 +2606,6 @@ ballot should, at least bear the name of each candidate and the office being con
 candidate will have the provision to submit additional election material as outlined in the rules 
 and regulations set down by the Electoral & Referendum Board. There will be a facility for 
 reopening nominations 
-
 
  
 
@@ -2916,25 +2624,21 @@ When there is a Paper Poll
 between 7am and 11am and shall close between 7pm and 9pm, having remained open for a 
 duration of at least ten hours. 
 
-
  
 
 49. The location of the polling stations shall be decided by the Electoral and Referenda Board and be 
 published by the Returning Officer in advance of Polling Day. 
-
 
  
 
 50. No other polling station can be opened other than those authorised by the Electoral and 
 Referenda Board. 
 
-
  
 
 51. In any paper election, voters shall produce a University ID Card before being allowed to vote. 
 Only a University ID Card or a letter from the University Administration confirming student 
 status shall be accepted as authentication of a student’s ID number. 
-
 
  
 
@@ -2944,18 +2648,15 @@ When there is an Electronic Poll
 
 52. Electronic Polling will follow the same polling principles as a paper election, in so far as possible. 
 
-
  
 
 53. All computer labs on campus and off will be considered polling stations. 
-
 
  
 
 54. The electronic electorate will be based on the registered students in the University of Limerick 
 database held and updated by the IT Department and Student Academic Affairs. Only 
 students who have registered will be in the database on the day of polling. 
-
 
  
 
@@ -2965,24 +2666,20 @@ The Election counting and declaring of votes for a paper ballot
 
 55. The counting of votes shall take place immediately after the closing of the polling stations. 
 
-
  
 
 56. The only people allowed within the designated area of the count shall be the Returning Officer, 
 the Electoral and Referenda Board, their staff, plus the campaign managers for each of the 
 declared candidates for that particular count. 
 
-
  
 
 57. The counting procedures shall be in accordance with the procedures for elections to Dáil Éireann 
 as governed by the Oireachtas: ascertaining total poll, valid poll, and quotas for each position. 
 
-
  
 
 58. The official results being declared by the Returning Officer after each count. 
-
 
  
 
@@ -2996,18 +2693,15 @@ as governed by the Oireachtas: ascertaining total poll, valid poll, and quotas f
 59. Campaign Managers have the sole right to call a recount on behalf of their candidate up to six 
 hours after the result of the count has been announced. 
 
-
  
 
 60. The Returning Officer alone shall make the decision as to when the recount shall take place. A 
 recount shall take place within one University day of the official results being declared for a 
 paper ballot. 
 
-
  
 
 61. A space adjacent to the designated area of the count shall be reserved for tally persons. 34 
-
 
  
 
@@ -3023,12 +2717,10 @@ The Election counting and declaring of votes for an electronic ballot
 
 62. With an electronic election count there is no count and the results are immediate. 
 
-
  
 
 63. In the case of an electronic ballot the recount facility is more time consuming and therefore the 
 recount shall take place within four University days. 
-
 
  
 
@@ -3164,37 +2856,31 @@ AGM
 1. The AGM shall be held on a University day no later than the end of the Month of October of 
 each year 
 
-
  
 
 2. The President of the Union is the convenor of the AGM and shall give Ten working days 
 prior notice to all members by means of notices in conspicuous locations throughout the 
 University, and through available official online media resources 
 
-
  
 
 3. The President of the Union shall chair the AGM, or if so wished, a nominee of the President 
 may chair the AGM 
-
 
  
 
 4. Constitutional Amendments will be submitted in writing to the president at least Ten days 
 before the AGM 
 
-
  
 
 5. All business of the meeting must be submitted to the President at least Seven working days 
 before the date of the AGM and be published in the agenda 
 
-
  
 
 6. The Agenda must be published at least five working days before the meeting date and be 
 generally available 
-
 
  
 
@@ -3217,11 +2903,9 @@ generally available
 working days before the meeting, and published at least One working day before the 
 meeting 
 
-
  
 
 8. Quorum shall be required to carry any motions put forward 
-
 
  
 
@@ -3229,20 +2913,17 @@ meeting
 
 9. Quorum shall be Thirty full members 
 
-
  
 
  
 
 10. The meeting shall elect the Executive Officers 
 
-
  
 
  
 
 11. The incumbent Executive shall pass over annual reports to newly elected Executive Officer 
-
 
  
 
@@ -3254,13 +2935,11 @@ Council
 
 11. Council shall meet at least three times per semester but ideally four times per semester. 
 
-
  
 
 12. Voting at Council shall be by simple majority of voting members present. Each member of council 
 shall have one vote each and the Executive shall be non-voting members. Council shall be 
 deemed Quorate if there is a majority of elected council members present. 
-
 
  
 
@@ -3271,18 +2950,15 @@ for the Chairperson of Council in all matters where the Chair is not available. 
 Chairperson or Deputy-Chairperson of Council is not available the meeting shall elect, from its 
 number, an alternative chair for that meeting. 
 
-
  
 
 14. Executive shall approve all council meeting agendas and decide the arrangements for the council 
 meetings for the year. The final agenda for a council meeting shall be posted at least two 
 university days before the meeting. 
 
-
  
 
 15. The standing agenda for a council meeting shall always contain the following: 
-
 
  
 
@@ -3329,18 +3005,15 @@ be put on the agenda. The motion has to be proposed and seconded by two council 
 opened to the floor for discussion and the votes will be cast by all council members (excluding 
 the executive). All motions shall include a reference to the relevant article in the Constitution. 
 
-
  
 
 17. A motion shall be deemed to be carried when a majority of council members present vote in its 
 favour in a quorate Council. 
 
-
  
 
 18. At least three University days’ notice shall be given by the vice president academic for all 
 council meetings. 
-
 
  
 
@@ -3349,17 +3022,14 @@ or one third of student councillors by way of petition to the Chair of Council. 
 meeting should deal with one topic usually and can have related motions put to it but discussion 
 has to be allowed on the topic. 
 
-
  
 
 20. The Executive will act on behalf of the council when council members are not on campus. 
-
 
  
 
 21. Policy decisions made by the Executive, out of term, shall be presented to Council at the earliest 
 opportunity and shall cease to have effect unless ratified by the Council at that time. Council 
-
 
  
 
@@ -3386,12 +3056,10 @@ Executive
 meetings may be called by a written request of a majority of Executive members to the 
 president. 
 
-
  
 
 2. All members of Executive excluding the full time ULSU Staff member who sits with participant 
 status can vote 
-
 
  
 
@@ -3401,12 +3069,10 @@ from a decision if there is a conflict of interest. All nominations to committee
 proposer and seconder. All decisions passed by the Executive shall specify the person who is to 
 be responsible for their implementation. 
 
-
  
 
 4. The Vice-President Treasurer (or President in his/her absence) shall be responsible for the agenda 
 and shall call the meeting. 
-
 
  
 
@@ -3414,18 +3080,15 @@ and shall call the meeting.
 chairperson shall rule on the procedure to be adopted. Such ruling could be subject to the 
 approval of PSU Council. 
 
-
  
 
 6. In the event of the chair being in conflict or alleged to be in conflict with the item under 
 discussion, the chair should be resigned for the duration of the item under discussion to the 
 deputy chair. 
 
-
  
 
 7. The agenda of meetings shall include: 
-
 
  
 
@@ -3479,7 +3142,6 @@ shall organise, at Union expense, an alternative meeting type, such as a confere
 online meeting. There should be no need for an emergency meeting unless there is an urgent 
 political crisis. 
 
-
  
 
  
@@ -3500,7 +3162,6 @@ Schedule IV: Council and Executive Job descriptions and terms of office
 week in order to fulfil the responsibilities that are outlined in their respective job 
 descriptions 
 
-
  
 
 Job Descriptions 
@@ -3517,21 +3178,17 @@ Responsibilities
 
 - Be the chief representative of Postgraduates in the University. 
 
-
  
 
 - Be chairperson of the Executive Committee and General Meetings. 
-
 
  
 
 - Be the principle initiator of policy for the Union. 
 
-
  
 
 - Represent the Union’s members on the University’s Governing Authority, Academic 
-
 
  
 
@@ -3552,11 +3209,9 @@ Council and other boards and committees of the University as required.
 activities. He/She may, with the consent of the Executive Committee, form sub-
 committees, which may include any full members of the Union, for this purpose. 
 
-
  
 
 - Train his/her replacement for a period of two weeks during the changeover. 
-
 
  
 
@@ -3565,15 +3220,11 @@ his/her studies for the duration of his/her tenure as President, and shall not e
 any employment, which is in conflict with, or impinges upon, his/her duties as President 
 of the Union. 
 
-
  
 
  
 
 2. The Vice-President and Treasurer 
-
-
-
 
  
 
@@ -3586,40 +3237,33 @@ Responsibilities
 - On the instruction of the President or in his/her absence the Executive, deputise for 
 the President in all matters. 
 
-
  
 
 - Co-ordinate the activities of Union representatives on Faculty Boards. He/She shall chair 
 the Union Council and convene such meetings with the agreement of the executive. 
-
 
  
 
 - Act as the Union’s Secretary and shall hold overall responsibility for all the Union office 
 records. 
 
-
  
 
 - Notify relevant University bodies, of the results of relevant Union elections and of 
 changes to the Constitution of the Union. 
 
-
  
 
 - Be jointly responsible with the President for all financial matters relating to the Union. 
-
 
  
 
 - Report regularly to the Executive Committee on the financial state of the Union and shall 
 provide a written report of income and expenditure after each semester with the President. 
 
-
  
 
 - At the end of each financial year (end of September), prepare and submit the accounts 
-
 
  
 
@@ -3637,7 +3281,6 @@ these accounts are submitted to the next meeting of the incoming Executive Commi
 - Become a co signee on the Unions current account and cheques and be requested 
 to approve purchases. 
 
-
  
 
  
@@ -3645,7 +3288,6 @@ to approve purchases.
  
 
 3. The Events and Publicities Officer 
-
 
  
 
@@ -3657,22 +3299,18 @@ Responsibilities
 
 - Be responsible for publicising all meetings and all social events of the Union. 
 
-
  
 
 - Be responsible for organising all trips, receptions and other social activities of the Union. 
-
 
  
 
 - Plan, develop, put into place and evaluate information and communication strategies 
 that present an organisation to the members of the Union. 
 
-
  
 
 - Promote good information flow within the organisation. 
-
 
  
 
@@ -3680,17 +3318,14 @@ that present an organisation to the members of the Union.
 course the Union itself. The Events and PRO work in ensuring that in your time here at UL 
 you experience a balance between your academic and social life. 
 
-
  
 
 - This officer will also help in maintaining our social network outlets; the website, 
 Facebook and twitter. 
 
-
  
 
 - This officer will sit on the executive which meets once every 2 weeks. 
-
 
  
 
@@ -3713,17 +3348,14 @@ Responsibilities
 - This position represents all faculties on the Executive and their own individual faculty on 
 our Council. 
 
-
  
 
 - They attend Executive meetings once every 2 weeks. 
-
 
  
 
 - They communicate to the exec the concerns and issues of their fellow 
 faculty representatives. 
-
 
  
 
@@ -3740,7 +3372,6 @@ faculty representatives.
 
 - They have a vote at Exec on behalf of all the Faculties and on council on behalf of their own 
 faculty. 
-
 
  
 
@@ -3760,17 +3391,14 @@ Responsibilities
 
 - Represents and communicates between the ULSU and PSU 
 
-
  
 
 - Has full voting rights on Executive on behalf of the greater student body 
-
 
  
 
 - The SU, through its representative on the PSU executive, shall endeavour to put forward the 
 views of the SU so that fully informed decisions can be made by the PSU 
-
 
  
 
@@ -3794,7 +3422,6 @@ Officer, as a member of the PSU Executive will be full voting members and entitl
 as part of the executive except for in the case of decisions directly effecting, and then it is 
 their responsibility to ensure Clubs & Societies Council is consulted. 
 
-
  
 
  
@@ -3813,27 +3440,22 @@ Responsibilities
 
 - Chairing PSU Council 
 
-
  
 
 - Chairing General Meetings of the PSU Union 
-
 
  
 
 - Responsible for calling Council meetings and forming the agenda with the input of 
 other council and exec members 
 
-
  
 
 - Attending scheduled Executive meetings 
 
-
  
 
 - Maintaining a close working relationship with the other Council members 
-
 
  
 
@@ -3841,7 +3463,6 @@ other council and exec members
 
 
 - Working as part of the PSU Union team to ensure the effective democracy and engagement 
-
 
  
 
@@ -3867,12 +3488,10 @@ Responsibilities
 
 - Faculty Representatives from each academic faculty shall be elected at the AGM. 
 
-
  
 
 - Faculty representatives shall serve as post-graduate representatives on Faculty Boards 
 as nominees of the Postgraduate Students’ Union. 
-
 
  
 
@@ -3880,38 +3499,31 @@ as nominees of the Postgraduate Students’ Union.
 representative who regularly does not attend meetings of the committee(s) to 
 which he/she was elected or appointed. 
 
-
  
 
 - The term of office of a Faculty representative is one calendar year. 
-
 
  
 
 - In the event of there being no Faculty Representative for a college, the President shall 
 take on this role in addition to his normal duties 
 
-
  
 
 - They will sit on our council which meets 4 times a semester. 
-
 
  
 
 - They liaise with the President during the department hubs that take place during 
 the semester. 
 
-
  
 
 - They will act as the closest point of contact for our class reps, should any issues arise. 
 
-
  
 
 - One Faculty Rep will be elected as the Faculties Officer on the PSU Executive 
-
 
  
 
@@ -3923,9 +3535,6 @@ the semester.
 
 9. Grad Entry School Representative 
 
-
-
-
  
 
  
@@ -3936,16 +3545,13 @@ Responsibilities
 
 - Develop forums to get feedback from students for their particular area 
 
-
  
 
 - Attends and participates at PSU Council and relevant council sub-committee meetings 
 
-
  
 
 - Research and promote initiatives within UL and outside of UL that could benefit UL Students 
-
 
  
 
@@ -3961,7 +3567,6 @@ Responsibilities
 - Liaise with and meet regularly with the President to communicate arising issues within 
 the Gems or Grad Entry Law classes 
 
-
  
 
  
@@ -3969,9 +3574,6 @@ the Gems or Grad Entry Law classes
  
 
 10. International Officer 
-
-
-
 
  
 
@@ -3985,18 +3587,15 @@ Responsibilities
 with our executive, in particular our Events and PRO officer throughout the year in order to 
 organise events and activities for our international postgrads here on campus. 
 
-
  
 
 - They will provide support for our international students. 
-
 
  
 
 - They will also communicate with the International Office and Anne O Dwyer in the 
 Grad school in order to ensure all international postgraduate students on campus are 
 represented fully 
-
 
  
 
@@ -4014,23 +3613,19 @@ Responsibilities
 
 - The PHD Officer will support our PHD students here on campus. 
 
-
  
 
 - This person will sit on our council which meets 4 times a semester. 
-
 
  
 
 - Should any PHD specific issues arise, this person will assist the executive in coming to 
 the best solution. 
 
-
  
 
 - They will also work closely with the Events and PRO officer in order to hold 
 events specifically for our PHD students to encourage them to get involved. 
-
 
  
 
@@ -4062,17 +3657,14 @@ Responsibilities
 - Be responsible for representing Mary Immaculate College postgraduate students and for 
 promoting the PSU on the MIC Campus. 
 
-
  
 
 - Attend Council meetings 
-
 
  
 
 - They will encourage Mary Immaculate Postgraduate Students to get involved in events run 
 by the PSU 
-
 
  
 
@@ -4105,7 +3697,6 @@ Terms of Office
 1. President; the term of office of the president shall be from June 1 to June 1 of the following year. 
 A week of handover is accounted for from June 1st. 
 
-
  
 
  
@@ -4117,7 +3708,6 @@ A week of handover is accounted for from June 1st.
 2. Other Executive Officers; the other Executive Officers shall hold office from the end of the Annual 
 General Meeting of their election to the end of the Following AGM. 
 
-
  
 
  
@@ -4126,7 +3716,6 @@ General Meeting of their election to the end of the Following AGM.
 
 3. College Representatives; the College Representatives shall hold office from the end of the Annual 
 General Meeting of their election to the end of the Following AGM. 
-
 
  
 
@@ -4484,7 +4073,6 @@ As such we commit to adhering to the following:
 
 2. Working relationship 
 
-
  
 
 a. In order to ensure that the two unions avoid disrepute, and work together to 
@@ -4492,41 +4080,26 @@ promote the interests of the students, both unions formally agree to continue to
 cooperate in the general area of student representation and commit to an open 
 exchange of information on matters pertaining to the student population 
 
-
-
-
  
 
 b. The PSU, through its representative on the SU Executive, shall strive to promote the 
 view of the PSU so as to ensure that all SU decisions are made in the interest of the 
 whole student body 
 
-
-
-
  
 
 c. The SU, through its representative on the PSU Executive, shall endeavour to put 
 forward the views of the SU so that fully informed decisions can be made by the PSU 
-
-
-
 
  
 
 d. It has been suggested that in order to maintain continuity year on year, a position 
 for a full time staff member of the SU should be created on the PSU Executive 
 
-
-
-
  
 
 e. Should both Unions come into conflict, a meeting of the Commission of Arbitration 
 shall be called in order to relieve the situation 
-
-
-
 
  
 
@@ -4534,37 +4107,24 @@ shall be called in order to relieve the situation
 
 3. Representation of Student Body 
 
-
  
 
 a. While it is the role of ULSU to represent all students, both bodies shall recognise the 
 PSU as the primary body for Postgraduate Students internally and externally 
-
-
-
 
  
 
 b. As such, PSU shall have the leading responsibility in all matters relating to 
 Postgraduate Students 
 
-
-
-
  
 
 c. On matters relating to all students, both bodies shall cooperate in working for the 
 interests and needs of all students. 
 
-
-
-
  
 
 d. Postgraduate students are entitled to vote on all ULSU issues and elections as well as 
-
-
-
 
  
 
@@ -4579,9 +4139,6 @@ Undergraduate students will not be permitted a seat on PSU Executive or Council
 with the exception of the elected positions of ULSU Executive Representative and 
 the C&S Executive Representative. 
 
-
-
-
  
 
  
@@ -4592,19 +4149,16 @@ the C&S Executive Representative.
 
 a. PSU shall be funded by the capitation contribution of Postgraduate Students 
 
-
  
 
 b. The wages of the PSU President shall come directly from the Postgraduate Student 
 Capitation 
-
 
  
 
 c. Once the Presidents wages have been deducted, the PSU will make a 2/3 
 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S). 
 This will be made in 2 instalments; one in November and one in March. 
-
 
  
 
@@ -4617,79 +4171,40 @@ d. Once the Presidents wages and the C&S Contribution have been deducted, the PS
 will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services 
 and support to be paid in Semester 1. 
 
-
-
-
  
 
 e. PSU shall take responsibility for the book-keeping of all PSU finances with the 
 exceptions of; 
 
-
-
-
  
 
 i. The ULSU Financial Accountant shall maintain the Payroll of the PSU 
-
-
-
-
-
 
  
 
 ii. The ULSU Financial Accountant shall also oversee the activity within the PSU 
 Financial Aid Account 
 
-
-
-
-
-
  
 
 f. At the end of the financial year, the PSU shall present audited accounts to the 
 following: 
 
-
-
-
  
 
 i. PSU AGM 
-
-
-
-
-
 
  
 
 ii. PSU Council 
 
-
-
-
-
-
  
 
 iii. ULSU Council 
 
-
-
-
-
-
  
 
 iv. C&S Council 
-
-
-
-
-
 
  
 
@@ -4699,15 +4214,11 @@ iv. C&S Council
 
 5. Clubs and Societies 
 
-
  
 
 a. A PSU Representative shall sit as a voting member of the Clubs & Societies Executive 
 to contribute to the decisions made by C&S Executive in the interest of Postgraduate 
 Students 
-
-
-
 
  
 
@@ -4715,16 +4226,10 @@ b. A Clubs & Societies Representative shall sit as a voting member of the PSU Ex
 representing the views of Clubs & Societies and bringing forward information where 
 necessary to ensure informed decisions are made by the PSU Executive. 
 
-
-
-
  
 
 c. The C & S representative on the PSU executive will work to promote and engage 
 with postgraduate students about clubs and societies. 
-
-
-
 
  
 
@@ -5074,7 +4579,6 @@ Commission of Arbitration
 1. There shall be a commission of arbitration, hereafter known as the Commission, whose role is 
 to make judgements on: 
 
-
  
 
 1° Disputes that arise between the Postgraduate Students’ Union and the University of Limerick 
@@ -5086,7 +4590,6 @@ Students’ Union
  
 
 2. It has been suggested that the following people may form the membership of the commission: 
-
 
  
 
@@ -5107,7 +4610,6 @@ conflict
 3. The term of office of the Commission shall be from the fourth week of the autumn semester 
 for a period of one year. This will ensure that all positions have been elected from both sides. 
 
-
  
 
  
@@ -5119,14 +4621,12 @@ Commission Officials
 4. The Chairperson of the Commission shall be the (independent member or senior University 
 nominee). 
 
-
  
 
  
 
 5. If the Chairperson of the Commission is not available, then the Commission shall elect an 
 alternative Chair for that meeting. 
-
 
  
 
@@ -5135,7 +4635,6 @@ alternative Chair for that meeting.
 6. A member of the Commission, except the Chairperson of the Commission, shall be deemed to 
 have resigned upon the presentation of a letter of resignation to the Chairperson of the 
 Commission and to their nominating body. 
-
 
  
 
@@ -5186,7 +4685,6 @@ Commission Proceedings
 
 7. The Commission shall have the right to decide whether cases are held in public or private. 
 
-
  
 
  
@@ -5194,16 +4692,13 @@ Commission Proceedings
 8. The Commission shall have access to all relevant documentation in the possession of either 
 Union that it feels necessary for deciding the outcome of the case. 
 
-
  
 
 9. The Commission shall retain the services of a solicitor for clarification on points of Law. 
 
-
  
 
 10. Access to Commission minutes shall be restricted to: 
-
 
  
 
@@ -5224,7 +4719,6 @@ Union that it feels necessary for deciding the outcome of the case.
 11. Hearings may be requested in writing to the Chairperson of the Commission 
 by: 1° Affected Parties 
 
-
  
 
 2° Council 3° 
@@ -5241,11 +4735,9 @@ Executive
 12. The Commission shall deliberate and come to a simple majority (of all Commission members) 
 ruling on all cases. 
 
-
  
 
 13. All decisions of the Commission are final. 
-
 
  
 
@@ -5253,7 +4745,6 @@ ruling on all cases.
 
 14. Commission reports and judgements shall maintain confidentiality of all confidential 
 material sought and presented to them. 
-
 
  
 
@@ -5327,7 +4818,6 @@ face of the Union and as the source of accountability and responsibility for the
 maintain oversight of the details that are placed in hard or soft format regarding the 
 presence of the PSU. 
 
-
  
 
  
@@ -5336,7 +4826,6 @@ presence of the PSU.
 
 2. The President shall have final say on the details and content of information pertaining to the 
 PSU 
-
 
  
 
@@ -5347,7 +4836,6 @@ PSU
 3. The Public Relations Officer shall carry out the terms of their office in due course to the 
 Constitution (Publicity Officer) and in working with the President 
 
-
  
 
  
@@ -5356,7 +4844,6 @@ Constitution (Publicity Officer) and in working with the President
 
 4. The President and Public Relations Officer shall work together to ensure that the availability 
 of information to the members of the Union is fulfilled 
-
 
  
 
@@ -5368,7 +4855,6 @@ of information to the members of the Union is fulfilled
 President should seek advice from the Executive Committee with regard to any information 
 or communications which they are unsure of or feels is not conducive to fairness, equality 
 and legality 
-
 
  
 
@@ -5393,7 +4879,6 @@ and legality
 without 
 proper authorisation by those responsible will be seen as contrary to the provisions of the 
 Executive Management of the Union and a breach of these guidelines 
-
 
  
 
