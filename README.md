@@ -474,7 +474,7 @@ change
 
 21. University – University of Limerick, as defined in the Universities Act 1997
 
-22. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
+22. University Day – is 09:00 to 17:00 on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
 
 ## Schedule 1: Membership Rights
 
@@ -594,9 +594,9 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 22. A member may not propose more than one candidate to the same position for a given election. A nominated candidate cannot nominate anyone to the same position that he/she is running for.
 
-23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 5.00pm on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
+23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 17:00 on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
 
-24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open.
+24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open. TODO: What's RODM?
 
 25. The returning officer shall ensure the dates of elections for executive members, a copy of the election timetable and a copy of the election rules and regulations, job descriptions etc. shall be posted on the union website and social media outlets.
 
@@ -612,7 +612,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 31. No canvassing shall take place on polling day within a 10-metre radius of any polling station.
 
-32. Nothing shall be published unless it is accompanied by the clear insertion "Issued By “Name of Campaign Manager”, Campaign Manager for “Name of Candidate”", so it is clearly identifiable from where the material is coming.
+32. Nothing shall be published unless it is accompanied by the clear insertion "Issued By 'Name of Campaign Manager', Campaign Manager for 'Name of Candidate'", so it is clearly identifiable from where the material is coming.
 
 33. The Returning Officer shall, where possible, make it public knowledge where any defamatory material is coming from.
 
@@ -678,7 +678,7 @@ Board and the below standing orders will be followed for the hustings:
 
 46. The Electoral and Referendum Board will decide if there is a need for an electronic or paper ballot.
 
-47. Polling stations shall be situated in areas giving greatest convenience to members and shall open between 7am and 11am and shall close between 7pm and 9pm, having remained open for a duration of at least ten hours.
+47. Polling stations shall be situated in areas giving greatest convenience to members and shall open between 07:00 and 11:00 and shall close between 19:00 and 21:00, having remained open for a duration of at least ten hours.
 
 48. The location of the polling stations shall be decided by the Electoral and Referenda Board and be published by the Returning Officer in advance of Polling Day.
 
