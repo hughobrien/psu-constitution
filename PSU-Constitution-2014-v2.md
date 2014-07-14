@@ -370,29 +370,20 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 4. The regulations for the organisation of PSU meetings shall be outlined in Schedule III (Meeting Regulations) of this constitution.
 
-Article 15. Amendments
+## Article 15: Amendments
 
-15.1 Alterations to the articles of this constitution must be decided at an Annual General Meeting or
-an Extra-ordinary General Meeting.
+1. Alterations to the articles of this constitution must be decided at an Annual General Meeting or an Extra-ordinary General Meeting.
 
-15.2 Approval of two thirds of members present and voting at an AGM or EGM is required for
-Change.
+2. Approval of two thirds of members present and voting at an AGM or EGM is required for Change.
 
-15.3 Constitutional amendments come into effect the day after the Annual General Meeting or
-Extra-ordinary General Meeting at which it is passed.
+3. Constitutional amendments come into effect the day after the Annual General Meeting or Extra-ordinary General Meeting at which it is passed.
 
-15.4 PSU Council can amend the schedules of this Constitution.
+4. PSU Council can amend the schedules of this Constitution.
 
-15.5 Approval of two thirds of eligible voting members present at the council meeting is required for
+5. Approval of two thirds of eligible voting members present at the council meeting is required for
 change
 
-15.6 The constitution shall be reviewed by the union at least every three years from the date of
-ratification of this Constitution and approved by the PSU Council. A special constitutional review
-committee will be set up by PSU council in order to complete the review and shall have
-representatives from clubs & societies and ULSU.
-
-19
-
+6. The constitution shall be reviewed by the union at least every three years from the date of ratification of this Constitution and approved by the PSU Council. A special constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from clubs & societies and ULSU.
 
 Article 16. Removal of an Officer
 
