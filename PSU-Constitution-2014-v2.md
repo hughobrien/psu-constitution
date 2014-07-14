@@ -395,14 +395,9 @@ change
 
 4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this constitution.
 
-Article 17. Interpretation
+## Article 17: Interpretation
 
-17.1 In the event of a challenge to any part of this constitution it shall be the role of the President to
-interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling
-may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU
-
-Council. If a member of the union remains unsatisfied with the ruling of union council they put
-forward a motion to general meeting.
+1. In the event of a challenge to any part of this constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of union council they put forward a motion to general meeting.
 
 Article 18. Definitions
 
