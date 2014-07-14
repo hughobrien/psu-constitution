@@ -360,28 +360,15 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 	1. ULSU Council
 
-Article 14. Minutes
+## Article 14: Minutes
 
-14.1 At all meetings of the PSU minutes shall be taken which shall be circulated and any necessary
-corrections made, at the next appropriate meeting. Confirmed minutes shall be filed and made
-available to all students. From the meeting documentation, an Executive and Council summary
-report will be complied by the secretariat and made available on the PSU website at the end of
-the academic year.
+1. At all meetings of the PSU minutes shall be taken which shall be circulated and any necessary corrections made, at the next appropriate meeting. Confirmed minutes shall be filed and made available to all students. From the meeting documentation, an Executive and Council summary report will be complied by the secretariat and made available on the PSU website at the end of the academic year.
 
-18
+2. A copy of the constitution, including any amendments, a copy of the annual report and any plans for the PSU’s activities, including the budget, shall be made available to all students at the start of each academic year.
 
+3. All meeting materials of the PSU meeting shall be considered open to all members of the PSU. However, the members of the meeting may vote to hold a specific meeting or an item of a meeting as a closed session.
 
-
-14.2 A copy of the constitution, including any amendments, a copy of the annual report and any
-plans for the PSU’s activities, including the budget, shall be made available to all students at the
-start of each academic year.
-
-14.3 All meeting materials of the PSU meeting shall be considered open to all members of the PSU.
-However, the members of the meeting may vote to hold a specific meeting or an item of a
-meeting as a closed session.
-
-14.4 The regulations for the organisation of PSU meetings shall be outlined in Schedule III (Meeting
-Regulations) of this constitution.
+4. The regulations for the organisation of PSU meetings shall be outlined in Schedule III (Meeting Regulations) of this constitution.
 
 Article 15. Amendments
 
