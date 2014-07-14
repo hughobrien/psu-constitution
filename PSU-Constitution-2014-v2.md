@@ -248,15 +248,11 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 8. Class Reps are bound by the class rep code of conduct which is held by Vice President Academic and approved by the Student Council.
 
-Article 10. Electoral and Referenda Board
+## Article 10: Electoral and Referenda Board
 
-10.1 There shall be an Electoral and Referendum Board as outlined in Schedule II (Election
-Regulations) of this Constitution. The procedure for all elections and referenda shall be
-determined by the Electoral & Referendum Board.
+1. There shall be an Electoral and Referendum Board as outlined in Schedule II (Election Regulations) of this Constitution. The procedure for all elections and referenda shall be determined by the Electoral & Referendum Board, hereafter referred to as 'ERB'.
 
-10.2 A representative from the PSU, not involved in the running or organising of any campaign and
-elected from Council or the Executive will sit as a voting member on the ERB representing the
-PSU.
+2. A representative from the PSU, not involved in the running or organising of any campaign and elected from Council or the Executive will sit as a voting member on the ERB representing the PSU.
 
 Article 11. Clubs and Societies
 
