@@ -305,7 +305,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 2: Election Regulations, by the clubs or societies delegates.
 
-10. The PSU President or his/her executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs and Societies Executive is determined by Clubs and Societies Council and is outlined in the Clubs and Societies Rulebook.
+10. The PSU President or their executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs and Societies Executive is determined by Clubs and Societies Council and is outlined in the Clubs and Societies Rulebook.
 
 11. The members of the Clubs and Societies Executive elected by clubs and societies may only be removed by Clubs and Societies Council by the rules outlined in the Clubs and Societies Rulebook.
 
@@ -522,7 +522,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 6. The Electoral and Referenda Board shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
 
-7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
+7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
 8. For the result of a referendum to be valid, at least fifteen per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect.
 
@@ -608,7 +608,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 29. Election candidates may commence campaigning at the close of nominations.
 
-30. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board, may at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
+30. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board, may at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
 31. No canvassing shall take place on polling day within a 10-metre radius of any polling station.
 
@@ -778,7 +778,7 @@ Board and the below standing orders will be followed for the hustings:
 
 3. All decisions made by the Executive must be voted on and the number of votes cast for and against and abstinent votes shall be noted in the minutes. Executive members can only abstain from a decision if there is a conflict of interest. All nominations to committees must have a proposer and seconder. All decisions passed by the Executive shall specify the person who is to be responsible for their implementation.
 
-4. The Vice-President/Treasurer (or President in his/her absence) shall be responsible for the agenda and shall call the meeting.
+4. The Vice-President/Treasurer (or President in their absence) shall be responsible for the agenda and shall call the meeting.
 
 5. In the event of any situation arising not being covered by meeting regulations then the chairperson shall rule on the procedure to be adopted. Such ruling could be subject to the approval of PSU Council.
 
@@ -814,13 +814,13 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. He/She may, with the consent of the Executive Committee, form sub- committees, which may include any full members of the Union, for this purpose.
 
-	6. Train his/her replacement for a period of two weeks during the changeover.
+	6. Train their replacement for a period of two weeks during the changeover.
 
-	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from his/her studies for the duration of his/her tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, his/her duties as President of the Union.
+	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from their studies for the duration of their tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, their duties as President of the Union.
 
 2. The Vice-President/Treasurer:
 
-	1. On the instruction of the President or in his/her absence the Executive, deputise for the President in all matters.
+	1. On the instruction of the President or in their absence the Executive, deputise for the President in all matters.
 
 	2. Co-ordinate the activities of Union representatives on Faculty Boards. He/She shall chair the Union Council and convene such meetings with the agreement of the executive.
 
@@ -898,7 +898,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	4. The term of office of a Faculty representative is one calendar year.
 
-	5. In the event of there being no Faculty Representative for a college, the President shall take on this role in addition to his normal duties.
+	5. In the event of there being no Faculty Representative for a college, the President shall take on this role in addition to their normal duties.
 
 	6. They will sit on our council which meets four times a semester.
 
