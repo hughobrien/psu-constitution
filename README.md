@@ -476,8 +476,6 @@ change
 
 22. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
 
-----
-
 ## Schedule 1: Membership Rights
 
 1. Only full members shall have voting rights as prescribed in Schedule 1.
