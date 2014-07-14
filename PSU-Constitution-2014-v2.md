@@ -127,23 +127,23 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 5. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule IV (Council and Executive Job Descriptions and terms of Office):
 
-* PSU Executive Committee (10 members)
+	* PSU Executive Committee (10 members)
 
-* Arts Humanities and Social Sciences Representative
+	* Arts Humanities and Social Sciences Representative
 
-* Education and Health Sciences Representative
+	* Education and Health Sciences Representative
 
-* Kemmy Business School Representative
+	* Kemmy Business School Representative
 
-* Science and Engineering Representative
+	* Science and Engineering Representative
 
-* Graduate Entry School Representative
+	* Graduate Entry School Representative
 
-* PhD. Representative
+	* PhD. Representative
 
-* International Representative
+	* International Representative
 
-* Council Members (Two in Total)
+	* Council Members (Two in Total)
 
 6. The Executive shall be non-voting members of Council except for the faculties’ officer who represents their own faculty on Council and the chairperson’s casting vote. All PSU members shall have participant status at Council, but can be asked to leave at the request of the Chairperson. Council may grant Participant or Observer status on any other person as deemed appropriate.
 
@@ -161,11 +161,11 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 10. The PSU Council is required to meet three times in the semester on select dates which are agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are required to take place:
 
-* One in Semester One following Filling of Posts
+	* One in Semester One following Filling of Posts
 
-* One preceding the conduction of Election for the position of President to the PSU for the coming year
+	* One preceding the conduction of Election for the position of President to the PSU for the coming year
 
-* One as a final meeting before the end of Year
+	* One as a final meeting before the end of Year
 
 11. Absence from more than two consecutive meetings in the year without apologies by an eligible member shall be deemed a submission of and automatic acceptance of resignation.
 
