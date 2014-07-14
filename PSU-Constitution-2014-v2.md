@@ -70,7 +70,9 @@ The Union alone shall represent and defend the interests of postgraduate student
 2. A referendum shall be held on any issue, if:
 
 	1. PSU council or general meeting decides by a two thirds majority to call a referendum
+
 *OR*
+
 	2. A petition of at least 80 students who are members is signed by the individual students.
 
 3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling station on campus.
