@@ -51,20 +51,17 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 ## Article 4: Governance of the PSU
 
-4.1 The Governance of the PSU shall be based on the democratic principle that every member shall
-have the fullest opportunity to directly participate in PSU affairs.
+1. The Governance of the PSU shall be based on the democratic principle that every member shall have the fullest opportunity to directly participate in PSU affairs.
 
-4.2 Subject to this constitution, the powers of government of the PSU shall be vested in, and
-exercised by the organs established by this constitution; namely in descending order of
-authority:
+2. Subject to this constitution, the powers of government of the PSU shall be vested in, and exercised by the organs established by this constitution; namely in descending order of authority:
 
-1° Referendum
+	1. Referendum
 
-2° General Meeting
+	2. General Meeting
 
-3° PSU Council
+	3. PSU Council
 
-4° PSU Executive
+	4. PSU Executive
 
 Article 5. Referendum
 
