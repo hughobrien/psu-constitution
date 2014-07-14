@@ -444,6 +444,9 @@ change
 21. University – University of Limerick, as defined in the Universities Act 1997
 
 22. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
+
+----
+
 # Schedules
 
 1. Membership rights
