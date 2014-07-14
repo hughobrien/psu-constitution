@@ -39,6 +39,17 @@ The Union alone shall represent and defend the interests of postgraduate student
 17. Interpretation
 18. Definitions
 
+## Schedules
+
+1. Membership rights
+2. Election Regulations
+3. Meeting Regulations
+4. Council and Executive Job descriptions and terms of office
+5. PSU Motion to C&S
+6. Memorandum of Understanding
+7. Commission of Arbitration
+8. Publications
+
 ## Article 1: Name and status
 
 1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
@@ -466,17 +477,6 @@ change
 22. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the semester, excluding University Holidays.
 
 ----
-
-# Schedules
-
-1. Membership rights
-2. Election Regulations
-3. Meeting Regulations
-4. Council and Executive Job descriptions and terms of office
-5. PSU Motion to C&S
-6. Memorandum of Understanding
-7. Commission of Arbitration
-8. Publications
 
 ## Schedule 1: Membership Rights
 
