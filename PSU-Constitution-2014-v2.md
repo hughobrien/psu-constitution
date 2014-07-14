@@ -67,11 +67,9 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 1. A referendum shall be of all members and shall be the supreme authority on all matters relating to the government of the PSU.
 
-2. A referendum shall be held on any issue, if:
+2. A referendum shall be held on any issue, if any of the following criteria are met:
 
-	1. PSU council or general meeting decides by a two thirds majority to call a referendum
-
-*OR*
+	1. PSU council or general meeting decides by a two thirds majority to call a referendum.
 
 	2. A petition of at least 80 students who are members is signed by the individual students.
 
