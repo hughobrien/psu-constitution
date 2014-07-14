@@ -3,17 +3,17 @@
 
 ## Preamble
 
-We, the Postgraduate Students of the University of Limerick, do hereby adopt, enact and give to ourselves this Constitution, revoking all previous Constitutions for the Postgraduate Students' Union of the University of Limerick, and notwithstanding any provisions which shall be made for the Union by the Governing Authority of the University of Limerick.
+1. We, the Postgraduate Students of the University of Limerick, do hereby adopt, enact and give to ourselves this Constitution, revoking all previous Constitutions for the Postgraduate Students' Union of the University of Limerick, and notwithstanding any provisions which shall be made for the Union by the Governing Authority of the University of Limerick.
 
-The Constitution derives its authority from the Postgraduate Student Body of the University of Limerick.
+2. The Constitution derives its authority from the Postgraduate Student Body of the University of Limerick.
 
-The articles of this constitution may be amended by Referendum or General Meeting.
+3. The articles of this constitution may be amended by Referendum or General Meeting.
 
-The schedules and appendices of this constitution may be amended by Referendum, General Meeting or by Student Council.
+4. The schedules and appendices of this constitution may be amended by Referendum, General Meeting or by Student Council.
 
-Any member seeking a copy of the Constitution is entitled to one from the President of the Postgraduate Students’ Union.
+5. Any member seeking a copy of the Constitution is entitled to one from the President of the Postgraduate Students’ Union.
 
-This Constitution shall be published electronically.
+6. This Constitution shall be published electronically.
 
 ## Statement of Purpose
 
@@ -21,33 +21,33 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 ## Article 1: Name and status
 
-1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
+1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
 
 ## Article 2: Aims and Objectives
 
-1 To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
+1. To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
 
-2 To provide a means of communication between postgraduate students and the academic community, the University administration and other bodies concerned with postgraduate study.
+2. To provide a means of communication between postgraduate students and the academic community, the University administration and other bodies concerned with postgraduate study.
 
-3 To promote the development of a postgraduate 'culture' and community at the University and in both national and international forums.
+3. To promote the development of a postgraduate 'culture' and community at the University and in both national and international forums.
 
-4 To elect or nominate postgraduate students to representative committees, both within the University and elsewhere, where provision has been made for PSU representatives.
+4. To elect or nominate postgraduate students to representative committees, both within the University and elsewhere, where provision has been made for PSU representatives.
 
-5 To promote and actively pursue the betterment of the welfare of its members.
+5. To promote and actively pursue the betterment of the welfare of its members.
 
-6 To promote, encourage and facilitate student Clubs and Societies equally.
+6. To promote, encourage and facilitate student Clubs and Societies equally.
 
-7 These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
+7. These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
 
-8 The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
+8. The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
 
 ## Article 3: Membership
 
-1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule I (Membership Rights) of this constitution.
+1. All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule I (Membership Rights) of this constitution.
 
 	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
 
-2 Any person sitting on the Executive shall be a member while they hold their position on the Executive.
+2. Any person sitting on the Executive shall be a member while they hold their position on the Executive.
 
 ## Article 4: Governance of the PSU
 
