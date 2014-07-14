@@ -259,7 +259,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 10. PSU Officers shall not serve as Officers of other University of Limerick Student Representative bodies unless it is in fulfilment of their role on the PSU Executive.
 
-11. The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice President- Treasurer is a part time position of the PSU). The President (and Vice- President) shall not be eligible to stand for and serve more than two sabbatical terms of office. The President (and Vice-President) shall be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage/ reimbursement/ bonuses/allowance or any possible payment other than the allowance agreed by council. The PSU President (and Vice- President) positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
+11. The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice President- Treasurer is a part time position of the PSU). The President (and Vice-President/Treasurer) shall not be eligible to stand for and serve more than two sabbatical terms of office. The President (and Vice-President/Treasurer) shall be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage/ reimbursement/ bonuses/allowance or any possible payment other than the allowance agreed by council. The PSU President (and Vice-President/Treasurer) positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
 
 ## Article 9: Class Representatives
 
@@ -353,13 +353,13 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	1. Purchase Orders to the value of 30€ or more which are co-signed by the President and the Vice-President/Treasurer or another member of the Executive Committee if the Vice-President/Treasurer is unavailable.
 
-	2. Through virtual agreement by means of email where there is a need to pursue a purchase, the President may email the Vice-President/Treasurer, and subsequently, the Vice-President Treasurer will sign after the fact. Should this be required both the signed Purchase order and a dated, timed copy of the email containing the purchase order sequence number must be maintained on records for auditing and accountability.
+	2. Through virtual agreement by means of email where there is a need to pursue a purchase, the President may email the Vice-President/Treasurer, and subsequently, the Vice-President/Treasurer will sign after the fact. Should this be required both the signed Purchase order and a dated, timed copy of the email containing the purchase order sequence number must be maintained on records for auditing and accountability.
 
 7. In order to maintain accountability and transparency, all purchases deemed significant in value at the discretion of the Executive, should be subject to agreement by the PSU Executive Committee.
 
 8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the Budget.
 
-9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
+9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President/Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
 
 10. Due to the nature of the PSU working in close quarters alongside the University of Limerick Students Union, it can happen that joint initiatives are undertaken such as the facilitation of Training and skill development exercises. If it is the case that such initiatives occur, and the cost is charged as one unit to the University of Limerick Students Union, then the University of Limerick Student Union must charge the PSU for their element of the cost depending on the amount of members involved, and invoice as such.
 
@@ -371,9 +371,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 14. Those with a key role and oversight in the PSU finances are:
 
-	1. President, PSU
+	1. PSU President
 
-	2. Vice-President/Treasurer, PSU
+	2. PSU Vice-President/Treasurer
 
 	3. Executive Committee Members
 
@@ -530,7 +530,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 10. At least five days’ notice of a referendum shall be given. The referendum wording is to be posted at least five days before the referendum. A referendum shall be held not less than two and not more than four teaching weeks after it has been called. All referenda will be carried out by electronic voting. The union shall advertise the upcoming referendum. Referenda shall be restricted to one per topic per academic year.
 
-11. President and Vice-President Elections take place no later than Week 5 in Semester 2 of the academic year.
+11. President and Vice-President/Treasurer elections take place no later than Week 5 in Semester 2 of the academic year.
 
 12. The Election of the Executive and Council takes place at AGM no later than Week 6 of Semester 1 of the Academic Year.
 
@@ -586,7 +586,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 4. A Graduate Entry Medical School Representative
 
-19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at 21:00 of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
+19. Nomination forms for the position of President (and Vice-President/Treasurer) will be available from the President and the main Students Union Reception on Monday at 21:00 of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
 
 20. The nomination forms shall contain the election rules and regulations set down by the Electoral and Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
 
@@ -594,7 +594,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 22. A member may not propose more than one candidate to the same position for a given election. A nominated candidate cannot nominate anyone to the same position that he/she is running for.
 
-23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 17:00 on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
+23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 17:00 on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President/Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
 
 24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open. TODO: What's RODM?
 
@@ -778,7 +778,7 @@ Board and the below standing orders will be followed for the hustings:
 
 3. All decisions made by the Executive must be voted on and the number of votes cast for and against and abstinent votes shall be noted in the minutes. Executive members can only abstain from a decision if there is a conflict of interest. All nominations to committees must have a proposer and seconder. All decisions passed by the Executive shall specify the person who is to be responsible for their implementation.
 
-4. The Vice-President Treasurer (or President in his/her absence) shall be responsible for the agenda and shall call the meeting.
+4. The Vice-President/Treasurer (or President in his/her absence) shall be responsible for the agenda and shall call the meeting.
 
 5. In the event of any situation arising not being covered by meeting regulations then the chairperson shall rule on the procedure to be adopted. Such ruling could be subject to the approval of PSU Council.
 
@@ -818,7 +818,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from his/her studies for the duration of his/her tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, his/her duties as President of the Union.
 
-2. The Vice-President and Treasurer:
+2. The Vice-President/Treasurer:
 
 	1. On the instruction of the President or in his/her absence the Executive, deputise for the President in all matters.
 
