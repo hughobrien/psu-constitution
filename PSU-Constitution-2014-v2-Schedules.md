@@ -487,61 +487,27 @@ General Meeting of their election to the end of the Following AGM.
 3. College Representatives: the College Representatives shall hold office from the end of the Annual
 General Meeting of their election to the end of the Following AGM.
 
+## Schedule 5: PSU Motion to Clubs and Societies
 
-Schedule V: PSU Motion to C&S
+The PSU Executive would like to bring forward the following motion to Clubs & Societies Council:
 
-PSU Executive’s Motion
-
-to Clubs & Societies
-
-Council
-
-The PSU Executive would like to bring forward the following motion to Clubs & Societies Council.
-
-‘Motion to grant a representative of the postgraduate students union a seat, as a voting member,
-
-on the Clubs and Societies Executive’
+*Motion to grant a representative of the postgraduate students union a seat, as a voting member, on the Clubs and Societies Executive*
 
 Justification and reasoning:
 
-The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge
-the work and commitment shown by not only the committee members of each individual Club
-& Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS
-Development Officer Paul Lee in the overall development of Clubs and Societies.
+The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club & Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies. 
 
+The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the 2/3 split in capitation provides C&S with approximately €77,000.
 
+Our accountant has advised us that due to this large portion of funding being transferred to C&S, we have a duty to our members to be able to provide oversight on how this money is administered. We have complete faith in the Clubs & Societies Executive in administering this money. Year after year, Clubs & Societies have proven themselves to be responsible with the money given to them. The PSU Executive is not implying that it is not done well, however we do have a duty to our members to be able to oversee the process.
 
+This will help to strengthen the ties between us and would be mutually beneficial as the PSU Executive would also like to create a position for a C&S Representative on our Executive. This individuals’ function would be similar to that of the Clubs Officer and Societies Officer on the SU
 
-The PSU receives approximately €140,000 annually from the University through student capitation
-which comes directly from our members. Following the wages of the PSU President, the 2/3 split in
-capitation provides C&S with approximately €77,000.
+Executive, but their focus would be on advising and helping the PSU Executive to promote and market C&S to the Universities postgraduate students. Given that only xxxxx of an estimated 4,000 postgraduate students are members we feel it is very important that this is accomplished.
 
-Our accountant has advised us that due to this large portion of funding being transferred to C&S,
-we have a duty to our members to be able to provide oversight on how this money is
-administered. We have complete faith in the Clubs & Societies Executive in administering this
-money. Year after year, Clubs & Societies have proven themselves to be responsible with the
-money given to them. The PSU Executive is not implying that it is not done well, however we do
-have a duty to our members to be able to oversee the process.
+Having representatives on one another’s executives will also provide us with an opportunity to learn from one another, but also to promote common causes between the PSU, C&S Exec and ULSU – most notably the student levy referendum to be put to the students next semester.
 
-This will help to strengthen the ties between us and would be mutually beneficial as the PSU
-Executive would also like to create a position for a C&S Representative on our Executive. This
-individuals’ function would be similar to that of the Clubs Officer and Societies Officer on the SU
-
-Executive, but their focus would be on advising and helping the PSU Executive to promote and
-market C&S to the Universities postgraduate students. Given that only ***** of an estimated
-4,000 postgraduate students are members we feel it is very important that this is accomplished.
-
-Having representatives on one another’s executives will also provide us with an opportunity to learn
-from one another, but also to promote common causes between the PSU, CSEXEC and SU – most
-notably the student levy referendum to be put to the students next semester.
-
-According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2007 (pg42), the
-
-Students’ Union President has full voting rights as an SU Representative and we would seek that
-our representative from the PSU would be granted these same rights.
-
-
-
+According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an SU Representative and we would seek that our representative from the PSU would be granted these same rights.
 
 Schedule Vi: PSU & ULSU Memorandum of Understanding
 
