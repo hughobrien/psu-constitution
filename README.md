@@ -17,10 +17,10 @@
 
 ## Statement of Purpose
 
-The Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University & other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
+The Postgraduate Student's Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University and other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
 
 ## Articles
-1. Name and status
+1. Name and Status
 2. Aims and Objectives
 3. Membership
 4. Governance of the PSU
@@ -41,16 +41,16 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 ## Schedules
 
-1. Membership rights
+1. Membership Rights
 2. Election Regulations
 3. Meeting Regulations
-4. Council and Executive Job descriptions and terms of office
+4. Council and Executive Job Descriptions and Terms of Office
 5. PSU Motion to C&S
 6. Memorandum of Understanding
 7. Commission of Arbitration
 8. Publications
 
-## Article 1: Name and status
+## Article 1: Name and Status
 
 1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
 
@@ -798,7 +798,7 @@ notice is given in advance of the meeting.
 
 10. Where a quorum cannot be reached for an Executive meeting outside semester, the President shall organise, at Union expense, an alternative meeting type, such as a conference call or an online meeting. There should be no need for an emergency meeting unless there is an urgent political crisis.
 
-## Schedule 4: Council and Executive Job descriptions and terms of office
+## Schedule 4: Council and Executive Job Descriptions and Terms of Office
 
 It is requested that volunteering members of the Council and Executive dedicate 3 hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
 
@@ -976,7 +976,7 @@ Having representatives on one another’s executives will also provide us with a
 
 According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an SU Representative and we would seek that our representative from the PSU would be granted these same rights.
 
-## Schedule 6: PSU & ULSU Memorandum of Understanding
+## Schedule 6: PSU and ULSU Memorandum of Understanding
 
 Memorandum of Understanding (MoU) Between ULSU & PSU.
 
@@ -1042,7 +1042,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. A Clubs & Societies Representative shall sit as a voting member of the PSU Executive, representing the views of Clubs & Societies and bringing forward information where necessary to ensure informed decisions are made by the PSU Executive.
 
-	3. The C & S representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
+	3. The C&S representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
 
 ##  Schedule VII: Commission of Arbitration for PSU & ULSU
 
