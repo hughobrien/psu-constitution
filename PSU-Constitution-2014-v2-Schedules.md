@@ -243,170 +243,93 @@ Board and the below standing orders will be followed for the hustings:
 
 62. In the case of an electronic ballot the recount facility is more time consuming and therefore the recount shall take place within four University days.
 
-Schedule III: Meeting Regulations
+## Schedule 3: Meeting Regulations
 
-AGM
+### AGM
 
-1. The AGM shall be held on a University day no later than the end of the Month of October of
-each year
+1. The AGM shall be held on a University day no later than the end of the Month of October of each year.
 
-2. The President of the Union is the convenor of the AGM and shall give Ten working days
-prior notice to all members by means of notices in conspicuous locations throughout the
-University, and through available official online media resources
+2. The President of the Union is the convenor of the AGM and shall give Ten working days prior notice to all members by means of notices in conspicuous locations throughout the University, and through available official online media resources.
 
-3. The President of the Union shall chair the AGM, or if so wished, a nominee of the President
-may chair the AGM
+3. The President of the Union shall chair the AGM, or if so wished, a nominee of the President may chair the AGM.
 
-4. Constitutional Amendments will be submitted in writing to the president at least Ten days
-before the AGM
+4. Constitutional Amendments will be submitted in writing to the president at least Ten days before the AGM.
 
-5. All business of the meeting must be submitted to the President at least Seven working days
-before the date of the AGM and be published in the agenda
+5. All business of the meeting must be submitted to the President at least Seven working days before the date of the AGM and be published in the agenda.
 
-6. The Agenda must be published at least five working days before the meeting date and be
-generally available
+6. The Agenda must be published at least five working days before the meeting date and be generally available.
 
-34
+7. Amendments to the published agenda must be received by the President no later than Three working days before the meeting, and published at least One working day before the meeting.
 
+8. Quorum shall be required to carry any motions put forward.
 
+9. Quorum shall be Thirty full members.
 
-7. Amendments to the published agenda must be received by the President no later than Three
-working days before the meeting, and published at least One working day before the
-meeting
+10. The meeting shall elect the Executive Officers.
 
-8. Quorum shall be required to carry any motions put forward
+11. The incumbent Executive shall pass over annual reports to newly elected Executive Officer.
 
-9. Quorum shall be Thirty full members
+### Council
 
-10. The meeting shall elect the Executive Officers
+1. Council shall meet at least three times per semester but ideally four times per semester.
 
-11. The incumbent Executive shall pass over annual reports to newly elected Executive Officer
+2. Voting at Council shall be by simple majority of voting members present. Each member of council shall have one vote each and the Executive shall be non-voting members. Council shall be deemed Quorate if there is a majority of elected council members present.
 
-Council
+3. The Chairperson of the Council shall chair all meetings of Council. The Chairperson shall be responsible for the agenda and shall call the meetings. The Deputy-Chairperson of Council shall be elected from PSU council at the first Council Meeting and shall deputise, as instructed by and, for the Chairperson of Council in all matters where the Chair is not available. Where either the Chairperson or Deputy-Chairperson of Council is not available the meeting shall elect, from its number, an alternative chair for that meeting.
 
-11. Council shall meet at least three times per semester but ideally four times per semester.
+4. Executive shall approve all council meeting agendas and decide the arrangements for the council meetings for the year. The final agenda for a council meeting shall be posted at least two university days before the meeting.
 
-12. Voting at Council shall be by simple majority of voting members present. Each member of council
-shall have one vote each and the Executive shall be non-voting members. Council shall be
-deemed Quorate if there is a majority of elected council members present.
+5. The standing agenda for a council meeting shall always contain the following:
 
-13. The Chairperson of the Council shall chair all meetings of Council. The Chairperson shall be
-responsible for the agenda and shall call the meetings. The Deputy-Chairperson of Council shall
-be elected from PSU council at the first Council Meeting and shall deputise, as instructed by and,
-for the Chairperson of Council in all matters where the Chair is not available. Where either the
-Chairperson or Deputy-Chairperson of Council is not available the meeting shall elect, from its
-number, an alternative chair for that meeting.
+	1. Apologies
+	2. Minutes
+	3. Matters arising from the minutes
+	4. Monthly Management Accounts
+	5. Motions & Resolutions
+	6. Sub Committee Reports
+	7. Items for Discussion
+	8. Officers’ Reports & Questions to officers
+	9. Any Other Business
 
-14. Executive shall approve all council meeting agendas and decide the arrangements for the council
-meetings for the year. The final agenda for a council meeting shall be posted at least two
-university days before the meeting.
+6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members (excluding the executive). All motions shall include a reference to the relevant article in the Constitution. 
 
-15. The standing agenda for a council meeting shall always contain the following:
+7. A motion shall be deemed to be carried when a majority of council members present vote in its favour in a quorate Council.
 
-1° Apologies;
+8. At least three University days’ notice shall be given by the vice president academic for all council meetings.
 
-2° Minutes;
+9. An Emergency Council Meeting may be called by the president; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic. 
 
-35
+10. The Executive will act on behalf of the council when council members are not on campus.
 
+11. Policy decisions made by the Executive, out of term, shall be presented to Council at the earliest opportunity and shall cease to have effect unless ratified by the Council at that time. Council shall be notified of all operational changes at the earliest possible opportunity.
 
+### Executive
 
-3° Matters arising from the minutes;
-4° Monthly Management Accounts
-5° Motions & Resolutions
+1. Executive shall meet at least 6 times per semester preferably on a bi-weekly basis. Further meetings may be called by a written request of a majority of Executive members to the president.
 
-6° Sub Committee Reports
+2. All members of Executive excluding the full time ULSU Staff member who sits with participant status can vote
 
-7° Items for Discussion
+3. All decisions made by the Executive must be voted on and the number of votes cast for and against and abstinent votes shall be noted in the minutes. Executive members can only abstain from a decision if there is a conflict of interest. All nominations to committees must have a proposer and seconder. All decisions passed by the Executive shall specify the person who is to be responsible for their implementation.
 
-8° Officers’ Reports & Questions to officers;
+4. The Vice-President Treasurer (or President in his/her absence) shall be responsible for the agenda and shall call the meeting.
 
-9° AOB- Any Other Business
+5. In the event of any situation arising not being covered by meeting regulations then the chairperson shall rule on the procedure to be adopted. Such ruling could be subject to the approval of PSU Council.
 
-16. A motion will have to be put on the agenda from any council members. The motion has to be
-submitted in writing to the vice president five days before the council meeting in order for it to
-be put on the agenda. The motion has to be proposed and seconded by two council members,
-opened to the floor for discussion and the votes will be cast by all council members (excluding
-the executive). All motions shall include a reference to the relevant article in the Constitution.
-
-17. A motion shall be deemed to be carried when a majority of council members present vote in its
-favour in a quorate Council.
-
-18. At least three University days’ notice shall be given by the vice president academic for all
-council meetings.
-
-19. An Emergency Council Meeting may be called by the president; a majority of Executive members
-or one third of student councillors by way of petition to the Chair of Council. An emergency
-meeting should deal with one topic usually and can have related motions put to it but discussion
-has to be allowed on the topic.
-
-20. The Executive will act on behalf of the council when council members are not on campus.
-
-21. Policy decisions made by the Executive, out of term, shall be presented to Council at the earliest
-opportunity and shall cease to have effect unless ratified by the Council at that time. Council
-
-shall be notified of all operational changes at the earliest possible opportunity.
-
-Executive
-
-36
-
-
-
-1. Executive shall meet at least 6 times per semester preferably on a bi-weekly basis. Further
-meetings may be called by a written request of a majority of Executive members to the
-president.
-
-2. All members of Executive excluding the full time ULSU Staff member who sits with participant
-status can vote
-
-3. All decisions made by the Executive must be voted on and the number of votes cast for and
-against and abstinent votes shall be noted in the minutes. Executive members can only abstain
-from a decision if there is a conflict of interest. All nominations to committees must have a
-proposer and seconder. All decisions passed by the Executive shall specify the person who is to
-be responsible for their implementation.
-
-4. The Vice-President Treasurer (or President in his/her absence) shall be responsible for the agenda
-and shall call the meeting.
-
-5. In the event of any situation arising not being covered by meeting regulations then the
-chairperson shall rule on the procedure to be adopted. Such ruling could be subject to the
-approval of PSU Council.
-
-6. In the event of the chair being in conflict or alleged to be in conflict with the item under
-discussion, the chair should be resigned for the duration of the item under discussion to the
-deputy chair.
+6. In the event of the chair being in conflict or alleged to be in conflict with the item under discussion, the chair should be resigned for the duration of the item under discussion to the deputy chair.
 
 7. The agenda of meetings shall include:
 
-1° Apologies
+	1. Apologies
+	2. Minutes of the previous meeting
+	3. Matters arising from the minutes
+	4. Any other business
 
-2° Minutes of the previous meeting
-3° Matters arising from the minutes
-4° Any other business
-
-8. Other agenda items should be derived for events at council, updates from university committees
-or upcoming campaigns/ meetings of elections. Any member may request any item to the
-
-37
-
-
-
-agenda and submit the item to the president that item must be discussed in full, provided that
+8. Other agenda items should be derived for events at council, updates from university committees or upcoming campaigns/ meetings of elections. Any member may request any item to the agenda and submit the item to the president that item must be discussed in full, provided that
 notice is given in advance of the meeting.
 
-9. At least 3 University days’ notice shall be provided to all Executive members before ordinary
+9. At least 3 University days’ notice shall be provided to all Executive members before ordinary Executive meetings during semester, the set schedule and time for the meeting is considered notice. At least 2 hours’ notice shall be provided to all Executive members before extraordinary Executive Meetings during semester. At least 7 days’ notice shall be provided to all Executive members before Executive meetings outside semester.
 
-Executive meetings during semester, the set schedule and time for the meeting is considered
-notice. At least 2 hours’ notice shall be provided to all Executive members before extraordinary
-
-Executive Meetings during semester. At least 7 days’ notice shall be provided to all Executive
-members before Executive meetings outside semester.
-
-10. Where a quorum cannot be reached for an Executive meeting outside semester, the President
-shall organise, at Union expense, an alternative meeting type, such as a conference call or an
-online meeting. There should be no need for an emergency meeting unless there is an urgent
-political crisis.
+10. Where a quorum cannot be reached for an Executive meeting outside semester, the President shall organise, at Union expense, an alternative meeting type, such as a conference call or an online meeting. There should be no need for an emergency meeting unless there is an urgent political crisis.
 
 Schedule IV: Council and Executive Job descriptions and terms of office
 
