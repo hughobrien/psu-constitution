@@ -63,34 +63,21 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 	4. PSU Executive
 
-Article 5. Referendum
+## Article 5: Referendum
 
-5.1 A referendum shall be of all members and shall be the supreme authority on all matters relating
-to the government of the PSU.
+1. A referendum shall be of all members and shall be the supreme authority on all matters relating to the government of the PSU.
 
-5.2 A referendum shall be held on any issue, if
+2. A referendum shall be held on any issue, if:
 
-1° PSU council or general meeting decides by a two thirds majority to call a referendum
+	1. PSU council or general meeting decides by a two thirds majority to call a referendum
+*OR*
+	2. A petition of at least 80 students who are members is signed by the individual students.
 
-OR
+3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling station on campus.
 
-4
+4. The rules and regulations for the referendum shall be outlined in Schedule II (Election Regulations) of the constitution and not be in conflict with the aims and objectives of the PSU.
 
-
-2° a petition of at least 80 students who are members is signed by the individual students.
-
-5.3 The returning officer shall be responsible for deciding the wording of the question on the
-referendum ballot paper. The referendum shall be supervised by the returning officer. The
-polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling
-station on campus.
-
-5.4 The rules and regulations for the referendum shall be outlined in Schedule II (Election
-Regulations) of the constitution and not be in conflict with the aims and objectives of the PSU.
-
-5.5 The result of a referendum will take priority over any existing PSU policy on the same issue and
-the constitution will be amended according to the motion put forward. After all referenda,
-appendix I (Results and Referenda) of this constitution will also be updated with the referendum
-results.
+5. The result of a referendum will take priority over any existing PSU policy on the same issue and the constitution will be amended according to the motion put forward. After all referenda, appendix I (Results and Referenda) of this constitution will also be updated with the referendum results.
 
 Article 6. General Meetings
 
