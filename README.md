@@ -674,7 +674,7 @@ Board and the below standing orders will be followed for the hustings:
 
 44. For a paper election: a voting paper will be issued to each voter, which shall bear the union stamp and votes will be cast in sealed ballot boxes. Ballot papers shall bear the name of each candidate and the office being contested. There will be a facility for reopening nominations.
 
-45. For an electronic election: an electronic ballot (or e-ballot) will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The e-ballot should, at least bear the name of each candidate and the office being contested, the candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the Electoral and Referendum Board. There will be a facility for reopening nominations.
+45. For an electronic election: an electronic ballot will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The electronic ballot should, at least bear the name of each candidate and the office being contested, the candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the Electoral and Referendum Board. There will be a facility for reopening nominations.
 
 46. The Electoral and Referendum Board will decide if there is a need for an electronic or paper ballot.
 
