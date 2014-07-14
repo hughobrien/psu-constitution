@@ -102,9 +102,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	1. PSU council or general meeting decides by a two thirds majority to call a referendum.
 
-	2. A petition of at least 80 students who are members is signed by the individual students.
+	2. A petition of at least eighty students who are members is signed by the individual students.
 
-3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling station on campus.
+3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for twenty-eight hours, at least ten of which shall include a manned polling station on campus.
 
 4. The rules and regulations for the referendum shall be outlined in Schedule 2: Election Regulations, of the Constitution and not be in conflict with the aims and objectives of the PSU.
 
@@ -156,9 +156,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Council shall have the power to mandate the Executive.
 
-4. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule 4: Council and Executive Job Descriptions and Terms of Office.
+4. The structure of the Council shall be no smaller than eight and no larger than eighteen members. Job descriptions for each member are outlined in Schedule 4: Council and Executive Job Descriptions and Terms of Office.
 
-	1. PSU Executive Committee (10 members)
+	1. PSU Executive Committee (Ten Members)
 
 	2. Arts Humanities and Social Sciences Representative
 
@@ -269,7 +269,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
-4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5: Representatives.
+4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5: Representatives. TODO: Find Schedule 5.
 
 5. All Union members shall have participant status at Class Reps Forum but can be asked to leave at the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
@@ -524,7 +524,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
-8. For the result of a referendum to be valid, at least 15 per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect.
+8. For the result of a referendum to be valid, at least fifteen per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect.
 
 9. The motion to be put in a referendum shall be worded by the returning officer and shall be checked by PSU Council and may be altered if it is considered ambiguous, so long as the intention of the original motion is not changed.
 
@@ -532,7 +532,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 11. President and Vice-President Elections take place no later than Week 5 in Second Semester of the academic year.
 
-12. The Election of the Executive and Council takes place at AGM no later than week 6 of Semester 1 of the Academic Year.
+12. The Election of the Executive and Council takes place at AGM no later than Week 6 of Semester 1 of the Academic Year.
 
 13. The election dates shall be agreed upon at AGM.
 
@@ -584,9 +584,9 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 	3. An International Representative
 
-	4. A GEMS Representative
+4. A Graduate Entry Medical School Representative
 
-19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at 9 O’clock of the 1st of 2 nominations weeks, 2 weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of 20 members of the PSU.
+19. Nomination forms for the position of President (and Vice-President Treasurer) will be available from the President and the main Students Union Reception on Monday at nine O’clock of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
 
 20. The nomination forms shall contain the election rules and regulations set down by the Electoral and Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
 
@@ -594,7 +594,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 22. A member may not propose more than one candidate to the same position for a given election. A nominated candidate cannot nominate anyone to the same position that he/she is running for.
 
-23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 5.00pm on the close of nominations. The nomination period for the PSU elections shall be open for 2 weeks. The election week for the election of President (and Vice-President Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
+23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 5.00pm on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
 
 24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open.
 
@@ -772,7 +772,7 @@ Board and the below standing orders will be followed for the hustings:
 
 ### Executive
 
-1. Executive shall meet at least 6 times per semester preferably on a bi-weekly basis. Further meetings may be called by a written request of a majority of Executive members to the president.
+1. Executive shall meet at least six times per semester preferably on a bi-weekly basis. Further meetings may be called by a written request of a majority of Executive members to the president.
 
 2. All members of Executive excluding the full time ULSU Staff member who sits with participant status can vote
 
@@ -794,13 +794,13 @@ Board and the below standing orders will be followed for the hustings:
 8. Other agenda items should be derived for events at council, updates from university committees or upcoming campaigns/ meetings of elections. Any member may request any item to the agenda and submit the item to the president that item must be discussed in full, provided that
 notice is given in advance of the meeting.
 
-9. At least 3 University days’ notice shall be provided to all Executive members before ordinary Executive meetings during semester, the set schedule and time for the meeting is considered notice. At least 2 hours’ notice shall be provided to all Executive members before extraordinary Executive Meetings during semester. At least 7 days’ notice shall be provided to all Executive members before Executive meetings outside semester.
+9. At least three University days' notice shall be provided to all Executive members before ordinary Executive meetings during semester, the set schedule and time for the meeting is considered notice. At least two hours’ notice shall be provided to all Executive members before extraordinary Executive Meetings during semester. At least seven days’ notice shall be provided to all Executive members before Executive meetings outside semester.
 
 10. Where a quorum cannot be reached for an Executive meeting outside semester, the President shall organise, at Union expense, an alternative meeting type, such as a conference call or an online meeting. There should be no need for an emergency meeting unless there is an urgent political crisis.
 
 ## Schedule 4: Council and Executive Job Descriptions and Terms of Office
 
-It is requested that volunteering members of the Council and Executive dedicate 3 hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
+It is requested that volunteering members of the Council and Executive dedicate three hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
 
 1. The President:
 
@@ -850,13 +850,13 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	6. This officer will also help in maintaining our social network outlets; the website, Facebook and twitter.
 
-	7. This officer will sit on the executive which meets once every 2 weeks.
+	7. This officer will sit on the executive which meets once every two weeks.
 
 4. Faculties Officer:
 
 	1. This position represents all faculties on the Executive and their own individual faculty on our Council.
 
-	2. They attend Executive meetings once every 2 weeks.
+	2. They attend Executive meetings once every two weeks.
 
 	3. They communicate to the exec the concerns and issues of their fellow faculty representatives.
 
@@ -900,7 +900,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	5. In the event of there being no Faculty Representative for a college, the President shall take on this role in addition to his normal duties.
 
-	6. They will sit on our council which meets 4 times a semester.
+	6. They will sit on our council which meets four times a semester.
 
 	7. They liaise with the President during the department hubs that take place during the semester.
 
@@ -908,7 +908,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	9. One Faculty Rep will be elected as the Faculties Officer on the PSU Executive.
 
-9. Grad Entry School Representative:
+9. Graduate Entry School Representative:
 
 	1. Develop forums to get feedback from students for their particular area
 
@@ -916,21 +916,21 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	3. Research and promote initiatives within UL and outside of UL that could benefit UL Students
 
-	4. Liaise with and meet regularly with the President to communicate arising issues within the Gems or Grad Entry Law classes
+	4. Liaise with and meet regularly with the President to communicate arising issues within the Graduate Entry Medical School or Graduate Entry Law classes
 
 10. International Officer:
 
-	1. This person will sit on our council which meets 4 times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgrads here on campus.
+	1. This person will sit on our council which meets four times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgraduates here on campus.
 
 	2. They will provide support for our international students.
 
-	3. They will also communicate with the International Office and Anne O Dwyer in the Grad school in order to ensure all international postgraduate students on campus are represented fully.
+	3. They will also communicate with the International Office and Anne O'Dwyer in the Graduate school in order to ensure all international postgraduate students on campus are represented fully.
 
 11. PhD Officer:
 
 	1. The PHD Officer will support our PHD students here on campus.
 
-	2. This person will sit on our council which meets 4 times a semester.
+	2. This person will sit on our council which meets four times a semester.
 
 	3. Should any PHD specific issues arise, this person will assist the executive in coming to the best solution.
 
@@ -946,7 +946,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 ### Terms of Office
 
-1. President: the term of office of the president shall be from June 1 to June 1 of the following year. A week of handover is accounted for from June 1st.
+1. President: the term of office of the president shall be from the first of June to the first of June of the following year. A week of handover is accounted for from the first of June.
 
 2. Other Executive Officers: the other Executive Officers shall hold office from the end of the Annual
 General Meeting of their election to the end of the Following AGM.
@@ -964,7 +964,7 @@ Justification and reasoning:
 
 The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club or Society, but also the Clubs and Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies.
 
-The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the 2/3 split in capitation provides Clubs and Societies with approximately €77,000.
+The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the two-thirds split in capitation provides Clubs and Societies with approximately €77,000.
 
 Our accountant has advised us that due to this large portion of funding being transferred to Clubs and Societies, we have a duty to our members to be able to provide oversight on how this money is administered. We have complete faith in the Clubs and Societies Executive in administering this money. Year after year, Clubs and Societies have proven themselves to be responsible with the money given to them. The PSU Executive is not implying that it is not done well, however we do have a duty to our members to be able to oversee the process.
 
@@ -1016,7 +1016,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. The wages of the PSU President shall come directly from the Postgraduate Student Capitation
 
-	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs and Societies. This will be made in 2 instalments; one in November and one in March.
+	3. Once the Presidents wages have been deducted, the PSU will make a two-thirds contribution from Postgraduate student capitation to UL Clubs and Societies. This will be made in two instalments; one in November and one in March.
 
 	4. Once the Presidents wages and the Clubs and Societies Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
@@ -1052,7 +1052,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 2. It has been suggested that the following people may form the membership of the commission:
 
-	1. One former president from each union (PSU and ULSU) from 3 years or more previous to the conflict
+	1. One former president from each union (PSU and ULSU) from three years or more previous to the conflict
 
 	2. One independent member or One Senior University nominee
 
@@ -1076,7 +1076,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. Previous Commission Members for Minutes from their term of office
 
-	3. Current Sabbatical Officers, once 6 months has passed since the date of ruling
+	3. Current Sabbatical Officers, once six months has passed since the date of ruling
 
 11. Hearings may be requested in writing to the Chairperson of the Commission by:
 
