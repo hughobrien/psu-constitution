@@ -7,9 +7,9 @@
 
 2. The Constitution derives its authority from the Postgraduate Student Body of the University of Limerick.
 
-3. The Articles of this constitution may be amended by Referendum or General Meeting.
+3. The Articles of this Constitution may be amended by Referendum or General Meeting.
 
-4. The schedules and appendices of this constitution may be amended by Referendum, General Meeting or by Student Council.
+4. The schedules and appendices of this Constitution may be amended by Referendum, General Meeting or by Student Council.
 
 5. Any member seeking a copy of the Constitution is entitled to one from the President of the Postgraduate Students’ Union.
 
@@ -52,7 +52,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 1: Name and Status
 
-1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
+1. The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this Constitution the Union shall be referred to as the PSU.
 
 ## Article 2: Aims and Objectives
 
@@ -74,7 +74,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 3: Membership
 
-1. All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule 1 (Membership Rights) of this constitution.
+1. All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule 1: Membership Rights.
 
 	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
 
@@ -84,7 +84,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The Governance of the PSU shall be based on the democratic principle that every member shall have the fullest opportunity to directly participate in PSU affairs.
 
-2. Subject to this constitution, the powers of government of the PSU shall be vested in, and exercised by the organs established by this constitution; namely in descending order of authority:
+2. Subject to this Constitution, the powers of government of the PSU shall be vested in, and exercised by the organs established by this Constitution; namely in descending order of authority:
 
 	1. Referendum
 
@@ -106,15 +106,15 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for 28 hours, at least 10 of which shall include a manned polling station on campus.
 
-4. The rules and regulations for the referendum shall be outlined in Schedule 2 (Election Regulations) of the constitution and not be in conflict with the aims and objectives of the PSU.
+4. The rules and regulations for the referendum shall be outlined in Schedule 2: Election Regulations, of the Constitution and not be in conflict with the aims and objectives of the PSU.
 
-5. The result of a referendum will take priority over any existing PSU policy on the same issue and the constitution will be amended according to the motion put forward. After all referenda, appendix I (Results and Referenda) of this constitution will also be updated with the referendum results.
+5. The result of a referendum will take priority over any existing PSU policy on the same issue and the Constitution will be amended according to the motion put forward. After all referenda, a new appendix will be added to this Constitution with the referendum results.
 
 ## Article 6: General Meetings
 
 1. The Annual General Meeting (AGM) of the PSU shall contain members of the population of postgraduate students and the new President of the PSU and where possible the outgoing Executive Committee Members.
 
-2. There shall be general meetings of the PSU, the duties and regulations of which shall be defined by Schedule 3 (Meeting Regulations) of this constitution and not be in conflict with the aims and objectives of the PSU.
+2. There shall be general meetings of the PSU, the duties and regulations of which shall be defined by Schedule 3: Meeting Regulations, and not be in conflict with the aims and objectives of the PSU.
 
 3. The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to allow transparency and accountability to members of the PSU on Constitutional, Representational and Financial areas. Due to the transient nature of postgraduate students, this may not always be possible, but should be encouraged where it is. The function of the AGM is to fulfil these criteria in the following manner:
 
@@ -132,7 +132,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	7. To approve changes or amendments to the President’s Wages.
 
-4. The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year according to Schedule 2 (Election Regulations) of this constitution.
+4. The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year according to Schedule 2: Election Regulations.
 
 5. Special or Emergency General Meetings (EGM) provide a forum to address an issue or issues which have arisen which require a general meeting to facilitate that process. As with the General Meeting the rules of procedure and process apply. The special EGM may be called by any of the following groups:
 
@@ -156,7 +156,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Council shall have the power to mandate the Executive.
 
-4. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule 4 (Council and Executive Job Descriptions and terms of Office):
+4. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule 4: Council and Executive Job Descriptions and Terms of Office.
 
 	1. PSU Executive Committee (10 members)
 
@@ -200,7 +200,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 10. Absence from more than two consecutive meetings in the year without apologies by an eligible member shall be deemed a submission of and automatic acceptance of resignation.
 
-11. The PSU shall follow the procedures and processes as outlined in Schedule 3 (Meeting Regulations) of this constitution.
+11. The PSU shall follow the procedures and processes as outlined in Schedule 3: Meeting Regulations.
 
 ## Article 8: Executive
 
@@ -243,11 +243,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 		1. Continued focus on Budget expenses to be part of Meetings
 
-3. The Executive Committee must fulfil its function and remit paying heed to this constitution.
+3. The Executive Committee must fulfil its function and remit paying heed to this Constitution.
 
 4. The Executive is required to meet a minimum of six times a semester. This does not limit the number of meetings to only six but is a requisite of the executive’s procedural operations.
 
-5. All members of the Executive Committee are required to attend all Executive Committee Meetings and perform duties as per constitution.
+5. All members of the Executive Committee are required to attend all Executive Committee Meetings and perform duties as per Constitution.
 
 6. Absence from more than two consecutive meetings without apologies by an executive officer shall be deemed a submission of and automatic acceptance of resignation.
 
@@ -269,7 +269,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
-4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5 (Representatives) of this constitution.
+4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5: Representatives.
 
 5. All Union members shall have participant status at Class Reps Forum but can be asked to leave at the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
@@ -281,7 +281,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 10: Electoral and Referenda Board
 
-1. There shall be an Electoral and Referendum Board as outlined in Schedule 2 (Election Regulations) of this Constitution. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board, hereafter referred to as 'ERB'.
+1. There shall be an Electoral and Referendum Board as outlined in Schedule 2: Election Regulations. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board, hereafter referred to as 'ERB'.
 
 2. A representative from the PSU, not involved in the running or organising of any campaign and elected from Council or the Executive will sit as a voting member on the ERB representing the PSU.
 
@@ -291,9 +291,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. The PSU recognises the autonomy of Clubs and Societies Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union.
 
-3. Under the new Memorandum of Understanding in Schedule 6, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive and reports to both councils. The PSU Officer, as a member of the Clubs and Societies Executive will be a full voting member on the Executive. It is then their responsibility to ensure PSU Council is consulted.
+3. Under the new Memorandum of Understanding in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive and reports to both councils. The PSU Officer, as a member of the Clubs and Societies Executive will be a full voting member on the Executive. It is then their responsibility to ensure PSU Council is consulted.
 
-4. Under the new Memorandum of Understanding in Schedule 6, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the Executive. It is then their responsibility to ensure Clubs and Societies Council is consulted.
+4. Under the new Memorandum of Understanding in Schedule 6: Memorandum of Understanding, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the Executive. It is then their responsibility to ensure Clubs and Societies Council is consulted.
 
 5. The Clubs and Societies Council shall consist of the Clubs and Societies Executive, and at least one liaison officer from each club and society.
 
@@ -303,7 +303,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 8. Clubs and Societies Council Meetings shall be run in accordance with the procedures and standing orders contained within the Clubs and Societies Rulebook.
 
-9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 1 (Election Regulations) by the clubs or societies delegates.
+9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 2: Election Regulations, by the clubs or societies delegates.
 
 10. The PSU President or his/her executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs and Societies Executive is determined by Clubs and Societies Council and is outlined in the Clubs and Societies Rulebook.
 
@@ -329,11 +329,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU recognises the University of Limerick Students' Union, hereafter known as ULSU as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
-2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with Schedule 6 of this constitution, the Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
+2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with Schedule 6: Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
 
-3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule 6 of this Constitution. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to Clubs and Societies Council.
+3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule 6: Memorandum of Understanding. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to Clubs and Societies Council.
 
-4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule 7 of this Constitution.
+4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule 7: Commission of Arbitration.
 
 ## Article 13: Financial Procedures
 
@@ -347,7 +347,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 4. Petty Cash and cheque expenditure shall be accounted for by the maintenance of budget and expenditure sheets by the President, and the collection of all receipts and invoices.
 
-5. Budget and Expenditure sheets shall be overseen by the Vice-President/Treasurer of the PSU as per constitutional remit and require monthly assessment and approval.
+5. Budget and Expenditure sheets shall be overseen by the Vice-President/Treasurer of the PSU as per Constitutional remit and require monthly assessment and approval.
 
 6. Purchases shall be agreed through the use of:
 
@@ -395,15 +395,15 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. At all meetings of the PSU minutes shall be taken which shall be circulated and any necessary corrections made, at the next appropriate meeting. Confirmed minutes shall be filed and made available to all students. From the meeting documentation, an Executive and Council summary report will be complied by the secretariat and made available on the PSU website at the end of the academic year.
 
-2. A copy of the constitution, including any amendments, a copy of the annual report and any plans for the PSU’s activities, including the budget, shall be made available to all students at the start of each academic year.
+2. A copy of the Constitution, including any amendments, a copy of the annual report and any plans for the PSU’s activities, including the budget, shall be made available to all students at the start of each academic year.
 
 3. All meeting materials of the PSU meeting shall be considered open to all members of the PSU. However, the members of the meeting may vote to hold a specific meeting or an item of a meeting as a closed session.
 
-4. The regulations for the organisation of PSU meetings shall be outlined in Schedule 3 (Meeting Regulations) of this constitution.
+4. The regulations for the organisation of PSU meetings shall be outlined in Schedule 3: Meeting Regulations.
 
 ## Article 15: Amendments
 
-1. Alterations to the Articles of this constitution must be decided at an Annual General Meeting or an Extra-ordinary General Meeting.
+1. Alterations to the Articles of this Constitution must be decided at an Annual General Meeting or an Extra-ordinary General Meeting.
 
 2. Approval of two thirds of members present and voting at an AGM or EGM is required for Change.
 
@@ -414,21 +414,21 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 5. Approval of two thirds of eligible voting members present at the council meeting is required for
 change
 
-6. The constitution shall be reviewed by the union at least every three years from the date of ratification of this Constitution and approved by the PSU Council. A special constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from Clubs and Societies and ULSU.
+6. The Constitution shall be reviewed by the union at least every three years from the date of ratification of the Constitution and approved by the PSU Council. A special Constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from Clubs and Societies and ULSU.
 
 ## Article 16: Removal of an Officer
 
-1. Every directly elected Executive Officer or Council members shall be liable to be removed from office on a proposal to that effect approved by a Referendum held in accordance with Schedule 1 (Election Regulations) of this Constitution. Where such a proposal is approved it shall take effect upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be 50% of the total valid poll in the previous election of the position. Where such a proposal is approved, s/he will be deemed to have resigned and may not stand for re-election in any subsequent election.
+1. Every directly elected Executive Officer or Council members shall be liable to be removed from office on a proposal to that effect approved by a Referendum held in accordance with Schedule 2: Election Regulations. Where such a proposal is approved it shall take effect upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be 50% of the total valid poll in the previous election of the position. Where such a proposal is approved, s/he will be deemed to have resigned and may not stand for re-election in any subsequent election.
 
-2. The indirectly elected executive officers and council members shall be liable to be removed from office on a proposal to that effect to PSU Council approved by their constituencies and Schedule 1 (Election Regulations) of the Constitution.
+2. The indirectly elected executive officers and council members shall be liable to be removed from office on a proposal to that effect to PSU Council approved by their constituencies and Schedule 1: Election Regulations, of the Constitution.
 
 3. The PSU Executive Nominee, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
 
-4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this constitution.
+4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this Constitution.
 
 ## Article 17: Interpretation
 
-1. In the event of a challenge to any part of this constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of union council they put forward a motion to general meeting.
+1. In the event of a challenge to any part of this Constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of union council they put forward a motion to general meeting.
 
 ## Article 18: Definitions
 
@@ -478,7 +478,7 @@ change
 
 ## Schedule 1: Membership Rights
 
-1. Only full members shall have voting rights as prescribed in Schedule 1.
+1. Only full members shall have voting rights.
 
 2. Only full members on the date of polling shall be entitled to stand for election to the position of President.
 
@@ -520,9 +520,9 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 5. No member of the Electoral and Referenda Board may be seeking or involved in the election or referendum for which it has been established. The Electoral and Referenda Board shall, from its number, select a chair. The Returning Officer shall have participant status on the Electoral and Referenda Board.
 
-6. The Electoral and Referenda Board shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this constitution, through the Returning Officer.
+6. The Electoral and Referenda Board shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
 
-7. Where an election is in progress under this constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
+7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
 8. For the result of a referendum to be valid, at least 15 per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect.
 
@@ -620,7 +620,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 35. The Union shall provide limited electoral assistance to each candidate as agreed by the Executive. It is an offence for any candidate to be in receipt of sponsorship, gifts or a benefit-in- kind from vested commercial, political or outside interests.
 
-36. If the candidate is found to have breached the provisions of this constitution, she/he shall be disqualified immediately by the Returning Officer on the order of the Electoral and Referenda Board.
+36. If the candidate is found to have breached the provisions of this Constitution, she/he shall be disqualified immediately by the Returning Officer on the order of the Electoral and Referenda Board.
 
 37. The public debates with or between candidates or interested parties in an election or referendum held by the Union shall be called ‘Hustings’ and shall be convened by the Electoral and Referenda Board, subject to the direction of the Returning Officer, and shall be chaired by
 his/her nominee. Arrangements for the Hustings set down by the Electoral and Referendum
@@ -666,7 +666,7 @@ Board and the below standing orders will be followed for the hustings:
 
 	4. Disqualification from the election
 
-	5. Appeals may be made against disciplinary actions of the Electoral and Referenda Board to the disciplinary board (see the appendix 1 of this constitution).
+	5. Appeals may be made against disciplinary actions of the Electoral and Referenda Board to the disciplinary board.
 
 42. All decisions regarding enforcement of regulations, bye laws and spoiled votes shall be binding on all parties and shall be made by the Returning Officer under the direction of the Electoral and Referenda Board after consultation with the campaign manager(s) concerned.
 
