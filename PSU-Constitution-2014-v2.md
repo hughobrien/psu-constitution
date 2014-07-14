@@ -117,91 +117,59 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 6. Should it be required, by-elections for vacant posts on the Executive Committee or on Council can be sought.
 
-Article 7. PSU Council
+## Article 7: PSU Council
 
-7.1 The PSU Council will exist to facilitate democracy and representation in terms of policy making
-and transparency.
+1. The PSU Council will exist to facilitate democracy and representation in terms of policy making and transparency.
 
-7.2 The PSU Council, hereafter known as Council, shall be the supreme decision making body of the
-PSU, except for a decision that is made in a referendum or general meeting. It shall also raise
-issues that are of concern to its members to the senior management team of the University
-through the Executive and the President.
+2. The PSU Council, hereafter known as 'Council', shall be the supreme decision making body of the PSU, except for a decision that is made in a referendum or general meeting. It shall also raise issues that are of concern to its members to the senior management team of the University through the Executive and the President.
 
-7.3 Council shall have the power to mandate the Executive.
+3. Council shall have the power to mandate the Executive.
 
-7.5 The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job
-descriptions for each member are outlined in Schedule IV (Council and Executive Job
-Descriptions and terms of Office) :
+5. The structure of the Council shall be no smaller than 8 and no larger than 18 members. Job descriptions for each member are outlined in Schedule IV (Council and Executive Job Descriptions and terms of Office):
 
-° PSU Executive Committee (10 members)
+* PSU Executive Committee (10 members)
 
-° Arts Humanities and Social Sciences Representative
+* Arts Humanities and Social Sciences Representative
 
-° Education and Health Sciences Representative
+* Education and Health Sciences Representative
 
-° Kemmy Business School Representative
+* Kemmy Business School Representative
 
-7
+* Science and Engineering Representative
 
+* Graduate Entry School Representative
 
-° Science and Engineering Representative
+* PhD. Representative
 
-° Graduate Entry School Representative
+* International Representative
 
-° PHD Representative
+* Council Members (Two in Total)
 
-° International Representative
+6. The Executive shall be non-voting members of Council except for the faculties’ officer who represents their own faculty on Council and the chairperson’s casting vote. All PSU members shall have participant status at Council, but can be asked to leave at the request of the Chairperson. Council may grant Participant or Observer status on any other person as deemed appropriate.
 
-° Council Members (Two in Total)
+7. The PSU Council members shall be elected at the AGM in Semester 1.
 
-7.6 The Executive shall be non-voting members of Council except for the faculties’ officer who
-represents their own faculty on Council and the chairperson’s casting vote. All PSU members
+8. The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students are represented to the PSU Officers.
 
-shall have participant status at Council, but can be asked to leave at the request of the
-Chairperson. Council may grant Participant or Observer status on any other person as deemed
-appropriate.
+	1. The PSU Council shall act as a Forum within which the PSU Executive and Faculty Representatives shall engage in discussion on PSU policy.
 
-7.7 The PSU Council members shall be elected at the AGM in Semester 1.
+	2. The PSU Council shall debate University activities which effect the Postgraduate population.
 
-7.8 The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students
-are represented to the PSU Officers.
+	3. The PSU Council by including Faculty Representatives, provides the Postgraduate Executive of details on the student experience of postgraduates, which can be represented back to the Faculty boards and fundamentally, the University structures with which they are interacting with. 
 
-1° The PSU Council shall act as a Forum within which the PSU Executive and Faculty
-Representatives shall engage in discussion on PSU policy
+9. The quorum for PSU Council shall be a simple majority of eligible council members. Each member has one vote and voting results are based on a simple majority of eligible voting council members. The Chair of Council shall have the casting vote where necessary.
 
-2° The PSU Council shall debate University activities which effect the Postgraduate
-population.
+10. The PSU Council is required to meet three times in the semester on select dates which are agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are required to take place:
 
-3° The PSU Council by including Faculty Representatives, provides the Postgraduate
+* One in Semester One following Filling of Posts
 
-Executive of details on the student experience of postgraduates, which can be
-represented back to the Faculty boards and fundamentally, the University structures with
-which they are interacting with.
+* One preceding the conduction of Election for the position of President to the PSU for the coming year
 
-7.9 The quorum for PSU Council shall be a simple majority of eligible council members. Each
-member has one vote and voting results are based on a simple majority of eligible voting council
-members. The Chair of Council shall have the casting vote where necessary.
+* One as a final meeting before the end of Year
 
-8
+11. Absence from more than two consecutive meetings in the year without apologies by an eligible member shall be deemed a submission of and automatic acceptance of resignation.
 
-
-
-7.10 The PSU Council is required to meet three times in the semester on select dates which are
-agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are
-required to take place;
-
-° One in Semester One following Filling of Posts
-
-° One preceding the conduction of Election for the position of President to the PSU for the
-coming year
-
-° One as a final meeting before the end of Year
-
-7.11 Absence from more than two consecutive meetings in the year without apologies by an
-eligible member shall be deemed a submission of and automatic acceptance of resignation.
-
-7.12 The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting
-Regulations) of this constitution.
+12. The PSU shall follow the procedures and processes as outlined in Schedule III (Meeting Regulations) of this constitution.
 
 Article 8. Executive
 
