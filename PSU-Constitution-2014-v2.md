@@ -103,7 +103,7 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 4. The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year according to Schedule II (Election Regulations) of this constitution.
 
-4. Special or Emergency General Meetings (EGM) provide a forum to address an issue or issues which have arisen which require a general meeting to facilitate that process. As with the General Meeting the rules of procedure and process apply. The special EGM may be called by any of the following groups:
+5. Special or Emergency General Meetings (EGM) provide a forum to address an issue or issues which have arisen which require a general meeting to facilitate that process. As with the General Meeting the rules of procedure and process apply. The special EGM may be called by any of the following groups:
 
 	1. The Executive Committee.
 
@@ -115,7 +115,7 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 		2. Should the meeting be requested in writing by Fifty members to the President, the President must call a Special EGM within fifteen days from receiving that request.
 
-		3. Should it be required, by-elections for vacant posts on the Executive Committee or on Council can be sought and subject to the same criteria as laid out in section 6.1.
+6. Should it be required, by-elections for vacant posts on the Executive Committee or on Council can be sought.
 
 Article 7. PSU Council
 
