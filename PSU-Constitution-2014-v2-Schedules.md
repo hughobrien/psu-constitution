@@ -1,44 +1,25 @@
-Schedules
+# Schedules
 
-Schedule I Membership rights
+1. Membership rights
+2. Election Regulations
+3. Meeting Regulations
+4. Council and Executive Job descriptions and terms of office
+5. PSU Motion to C&S
+6. Memorandum of Understanding
+7. Commission of Arbitration
+8. Publications
 
-22
+## Schedule 1: Membership Rights
 
+1. Only full members shall have voting rights as prescribed in Schedule 1.
 
-Schedule II Election Regulations
+2. Only full members on the date of polling shall be entitled to stand for election to the position of President.
 
-Schedule III Meeting Regulations
+3. Members running for election to the Executive must be full members of the Union on the date of election
 
-Schedule IV Council and Executive Job descriptions and
+4. The Executive reserves the right to verify postgraduate status at the University before continuing representation of any individual.
 
-terms of office
-
-Schedule V PSU Motion to C&S
-
-Schedule VI Memorandum of Understanding
-
-Schedule VII Commission of Arbitration
-
-Schedule VIII Publications
-
-Schedule I: Membership Rights
-
-1. Only full members shall have voting rights as prescribed in Schedule I.
-
-2. Only full members on the date of polling shall be entitled to stand for election to the
-position of President.
-
-3. Members running for election to the Executive must be full members of the Union on the
-date of election
-
-4. The Executive reserves the right to verify postgraduate status at the University before
-continuing representation of any individual.
-
-23
-
-
-
-Schedule II: Election Regulations
+# Schedule 2: Election Regulations
 
 This schedule outlines what to do for all referenda and elections and for all positions in the union.
 It also outlines the procedures to follow if a vacancy occurs in any position.
