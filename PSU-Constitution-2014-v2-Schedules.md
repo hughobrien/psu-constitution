@@ -57,7 +57,7 @@ This schedule outlines what to do for all referenda and elections and for all po
 
 7. Where an election is in progress under this constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at his or her discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
-8. For the result of a referendum to be valid, at least 15 per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then article 16 takes effect. 
+8. For the result of a referendum to be valid, at least 15 per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then article 16 takes effect.
 
 9. The motion to be put in a referendum shall be worded by the returning officer and shall be checked by PSU Council and may be altered if it is considered ambiguous, so long as the intention of the original motion is not changed.
 
@@ -181,7 +181,7 @@ Board and the below standing orders will be followed for the hustings:
 
 	1. Breaks the election or referendum regulations
 
-	2. Obstructs members of the Electoral and Referenda Board in furtherance of their duties 
+	2. Obstructs members of the Electoral and Referenda Board in furtherance of their duties
 
 	3. Disobeys a legitimate instruction from the Electoral and Referenda Board
 
@@ -219,7 +219,7 @@ Board and the below standing orders will be followed for the hustings:
 
 50. In any paper election, voters shall produce a University ID Card before being allowed to vote. Only a University ID Card or a letter from the University Administration confirming student status shall be accepted as authentication of a student’s ID number.
 
-51. Electronic Polling will follow the same polling principles as a paper election, in so far as possible. 
+51. Electronic Polling will follow the same polling principles as a paper election, in so far as possible.
 
 52. All computer labs on campus and off will be considered polling stations.
 
@@ -291,13 +291,13 @@ Board and the below standing orders will be followed for the hustings:
 	8. Officers’ Reports & Questions to officers
 	9. Any Other Business
 
-6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members (excluding the executive). All motions shall include a reference to the relevant article in the Constitution. 
+6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members (excluding the executive). All motions shall include a reference to the relevant article in the Constitution.
 
 7. A motion shall be deemed to be carried when a majority of council members present vote in its favour in a quorate Council.
 
 8. At least three University days’ notice shall be given by the vice president academic for all council meetings.
 
-9. An Emergency Council Meeting may be called by the president; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic. 
+9. An Emergency Council Meeting may be called by the president; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic.
 
 10. The Executive will act on behalf of the council when council members are not on campus.
 
@@ -365,7 +365,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	6. Report regularly to the Executive Committee on the financial state of the Union and shall provide a written report of income and expenditure after each semester with the President.
 
-	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee. 
+	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee.
 
 	8. Become a co signee on the Unions current account and cheques and be requested to approve purchases.
 
@@ -495,7 +495,7 @@ The PSU Executive would like to bring forward the following motion to Clubs & So
 
 Justification and reasoning:
 
-The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club & Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies. 
+The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club & Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies.
 
 The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the 2/3 split in capitation provides C&S with approximately €77,000.
 
@@ -515,7 +515,7 @@ Memorandum of Understanding (MoU) Between ULSU & PSU.
 
 This Memorandum of Understanding is entered into by and between the President of the Postgraduate Students’ Union (PSU) and the President of the Students’ Union (ULSU) in the academic year 2013/2014. It has been drawn on an account of a previous MoU being deemed void and dissolved by both bodies.
 
-This Memorandum recognises the historical and continued representation of all University of Limerick (UL) Students by both the ULSU and the PSU. 
+This Memorandum recognises the historical and continued representation of all University of Limerick (UL) Students by both the ULSU and the PSU.
 
 In order to ensure clear communication and efficient representation on behalf of the students we represent, this document should lay down the roles of both bodies and our working relationship. As such we commit to adhering to the following:
 
@@ -549,7 +549,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. The wages of the PSU President shall come directly from the Postgraduate Student Capitation
 
-	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S). This will be made in 2 instalments; one in November and one in March. 
+	3. Once the Presidents wages have been deducted, the PSU will make a 2/3 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S). This will be made in 2 instalments; one in November and one in March.
 
 	4. Once the Presidents wages and the C&S Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
@@ -625,38 +625,16 @@ In order to ensure clear communication and efficient representation on behalf of
 14. Commission reports and judgements shall maintain confidentiality of all confidential material sought and presented to them.
 
 
-SCHEDULE VIII: PUBLICATIONS
+## Schedule 8: Publications
 
-1. The Business of the Union requires openness and availability, as well as the provision of
-information on a wide range of issues. As such, the utility of an online presence alongside
-traditional mechanisms for media and communication are available. The President as the
-face of the Union and as the source of accountability and responsibility for the Union shall
-maintain oversight of the details that are placed in hard or soft format regarding the
-presence of the PSU.
+1. The Business of the Union requires openness and availability, as well as the provision of information on a wide range of issues. As such, the utility of an online presence alongside traditional mechanisms for media and communication are available. The President as the face of the Union and as the source of accountability and responsibility for the Union shall maintain oversight of the details that are placed in hard or soft format regarding the presence of the PSU.
 
-2. The President shall have final say on the details and content of information pertaining to the
-PSU
+2. The President shall have final say on the details and content of information pertaining to the PSU.
 
-3. The Public Relations Officer shall carry out the terms of their office in due course to the
-Constitution (Publicity Officer) and in working with the President
+3. The Public Relations Officer shall carry out the terms of their office in due course to the Constitution (Publicity Officer) and in working with the President.
 
-4. The President and Public Relations Officer shall work together to ensure that the availability
-of information to the members of the Union is fulfilled
+4. The President and Public Relations Officer shall work together to ensure that the availability of information to the members of the Union is fulfilled.
 
-5. Accountability for the content of any information rests with the President and as such, the
-President should seek advice from the Executive Committee with regard to any information
-or communications which they are unsure of or feels is not conducive to fairness, equality
-and legality
+5. Accountability for the content of any information rests with the President and as such, the President should seek advice from the Executive Committee with regard to any information or communications which they are unsure of or feels is not conducive to fairness, equality and legality.
 
-
-
-6. Use of the Facilities for communication whether in hard format or soft format2
-without
-proper authorisation by those responsible will be seen as contrary to the provisions of the
-Executive Management of the Union and a breach of these guidelines
-
-55
-
-
-
-Appendix I: Results and Referenda
+6. Use of the Facilities for communication whether in hard format or soft format without proper authorisation by those responsible will be seen as contrary to the provisions of the Executive Management of the Union and a breach of these guidelines
