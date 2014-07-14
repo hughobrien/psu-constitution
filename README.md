@@ -1,4 +1,4 @@
-# Postgraduate Students’ Union University of Limerick Constitution
+# postgraduate Students’ Union University of Limerick Constitution
 # Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
 
 ## Preamble
@@ -74,9 +74,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 3: Membership
 
-1. All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule 1: Membership Rights.
+1. All postgraduate students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule 1: Membership Rights.
 
-	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students have attained an undergraduate degree before commencing on a Postgraduate Programme.
+	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students have attained an undergraduate degree before commencing on a postgraduate programme.
 
 2. Any person sitting on the Executive shall be a member while they hold their position on the Executive.
 
@@ -118,7 +118,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. The remit of the AGM is to a clear indication of the state of the PSU to its members. It provides opportunities for discussion on issues brought to the Agenda prior to the meeting. It functions to allow transparency and accountability to members of the PSU on Constitutional, Representational and Financial areas. The function of the AGM is to fulfil these criteria in the following manner:
 
-	1. To change the Constitution and adopt amendments proposed by the Postgraduate population.
+	1. To change the Constitution and adopt amendments proposed by the postgraduate population.
 
 	2. To elect new Executive Officers to posts.
 
@@ -180,11 +180,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 6. The PSU Council members shall be elected at the AGM in Semester 1.
 
-7. The PSU Council is responsible for ensuring that the view and opinions of Postgraduate Students are represented to the PSU Officers.
+7. The PSU Council is responsible for ensuring that the view and opinions of postgraduate students are represented to the PSU Officers.
 
 	1. The PSU Council shall act as a Forum within which the PSU Executive and Faculty Representatives shall engage in discussion on PSU policy.
 
-	2. The PSU Council shall debate University activities which effect the Postgraduate population.
+	2. The PSU Council shall debate University activities which effect the postgraduate population.
 
 	3. The PSU Council by including Faculty Representatives, provides the Postgraduate Executive of details on the student experience of postgraduates, which can be represented back to the Faculty boards and fundamentally, the University structures with which they are interacting with.
 
@@ -804,7 +804,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 1. The President:
 
-	1. Be the chief representative of Postgraduates in the University.
+	1. Be the chief representative of postgraduates in the University.
 
 	2. Be chairperson of the Executive Committee and General Meetings.
 
@@ -1000,9 +1000,9 @@ In order to ensure clear communication and efficient representation on behalf of
 
 2. Representation of Student Body
 
-	1. While it is the role of ULSU to represent all students, both bodies shall recognise the PSU as the primary body for Postgraduate Students internally and externally.
+	1. While it is the role of ULSU to represent all students, both bodies shall recognise the PSU as the primary body for postgraduate students internally and externally.
 
-	2. As such, PSU shall have the leading responsibility in all matters relating to Postgraduate Students.
+	2. As such, PSU shall have the leading responsibility in all matters relating to postgraduate students.
 
 	3. On matters relating to all students, both bodies shall cooperate in working for the interests and needs of all students.
 
@@ -1012,11 +1012,11 @@ In order to ensure clear communication and efficient representation on behalf of
 
 3. Financial Agreement
 
-	1. PSU shall be funded by the capitation contribution of Postgraduate Students
+	1. PSU shall be funded by the capitation contribution of postgraduate students
 
-	2. The wages of the PSU President shall come directly from the Postgraduate Student Capitation
+	2. The wages of the PSU President shall come directly from the postgraduate Student Capitation
 
-	3. Once the Presidents wages have been deducted, the PSU will make a two-thirds contribution from Postgraduate student capitation to UL Clubs and Societies. This will be made in two instalments; one in November and one in March.
+	3. Once the Presidents wages have been deducted, the PSU will make a two-thirds contribution from postgraduate student capitation to UL Clubs and Societies. This will be made in two instalments; one in November and one in March.
 
 	4. Once the Presidents wages and the Clubs and Societies Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
@@ -1038,7 +1038,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 4. Clubs and Societies
 
-	1. A PSU Representative shall sit as a voting member of the Clubs and Societies Executive to contribute to the decisions made by Clubs and Societies Executive in the interest of Postgraduate Students.
+	1. A PSU Representative shall sit as a voting member of the Clubs and Societies Executive to contribute to the decisions made by Clubs and Societies Executive in the interest of postgraduate students.
 
 	2. A Clubs and Societies Representative shall sit as a voting member of the PSU Executive, representing the views of Clubs and Societies and bringing forward information where necessary to ensure informed decisions are made by the PSU Executive.
 
