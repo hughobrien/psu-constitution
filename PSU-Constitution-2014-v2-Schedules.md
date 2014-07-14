@@ -331,260 +331,161 @@ notice is given in advance of the meeting.
 
 10. Where a quorum cannot be reached for an Executive meeting outside semester, the President shall organise, at Union expense, an alternative meeting type, such as a conference call or an online meeting. There should be no need for an emergency meeting unless there is an urgent political crisis.
 
-Schedule IV: Council and Executive Job descriptions and terms of office
+## Schedule 4: Council and Executive Job descriptions and terms of office
 
-1. It is requested that volunteering members of the Council and Executive dedicate 3 hours per
-week in order to fulfil the responsibilities that are outlined in their respective job
-descriptions
+It is requested that volunteering members of the Council and Executive dedicate 3 hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
 
-Job Descriptions
+1. The President:
 
-1. The President,
+	1. Be the chief representative of Postgraduates in the University.
 
-Responsibilities
+	2. Be chairperson of the Executive Committee and General Meetings.
 
-- Be the chief representative of Postgraduates in the University.
+	3. Be the principle initiator of policy for the Union.
 
-- Be chairperson of the Executive Committee and General Meetings.
+	4. Represent the Union’s members on the University’s Governing Authority, Academic Council and other boards and committees of the University as required.
 
-- Be the principle initiator of policy for the Union.
+	5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. He/She may, with the consent of the Executive Committee, form sub- committees, which may include any full members of the Union, for this purpose.
 
-- Represent the Union’s members on the University’s Governing Authority, Academic
+	6. Train his/her replacement for a period of two weeks during the changeover.
 
-Council and other boards and committees of the University as required.
+	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from his/her studies for the duration of his/her tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, his/her duties as President of the Union.
 
-38
+2. The Vice-President and Treasurer:
 
+	1. On the instruction of the President or in his/her absence the Executive, deputise for the President in all matters.
 
+	2. Co-ordinate the activities of Union representatives on Faculty Boards. He/She shall chair the Union Council and convene such meetings with the agreement of the executive.
 
-- Be the first spokesperson of the Union and be responsible for the co-ordination of all Union
-activities. He/She may, with the consent of the Executive Committee, form sub-
-committees, which may include any full members of the Union, for this purpose.
+	3. Act as the Union’s Secretary and shall hold overall responsibility for all the Union office records.
 
-- Train his/her replacement for a period of two weeks during the changeover.
+	4. Notify relevant University bodies, of the results of relevant Union elections and of changes to the Constitution of the Union.
 
-- Be a full-time Sabbatical Officer. The President shall take a leave of absence from
-his/her studies for the duration of his/her tenure as President, and shall not enter into
-any employment, which is in conflict with, or impinges upon, his/her duties as President
-of the Union.
+	5. Be jointly responsible with the President for all financial matters relating to the Union.
 
-2. The Vice-President and Treasurer
+	6. Report regularly to the Executive Committee on the financial state of the Union and shall provide a written report of income and expenditure after each semester with the President.
 
-Responsibilities
+	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee. 
 
-- On the instruction of the President or in his/her absence the Executive, deputise for
-the President in all matters.
+	8. Become a co signee on the Unions current account and cheques and be requested to approve purchases.
 
-- Co-ordinate the activities of Union representatives on Faculty Boards. He/She shall chair
-the Union Council and convene such meetings with the agreement of the executive.
+3. The Events and Publicities Officer:
 
-- Act as the Union’s Secretary and shall hold overall responsibility for all the Union office
-records.
+	1. Be responsible for publicising all meetings and all social events of the Union.
 
-- Notify relevant University bodies, of the results of relevant Union elections and of
-changes to the Constitution of the Union.
+	2. Be responsible for organising all trips, receptions and other social activities of the Union.
 
-- Be jointly responsible with the President for all financial matters relating to the Union.
+	3. Plan, develop, put into place and evaluate information and communication strategies that present an organisation to the members of the Union.
 
-- Report regularly to the Executive Committee on the financial state of the Union and shall
-provide a written report of income and expenditure after each semester with the President.
+	4. Promote good information flow within the organisation.
 
-- At the end of each financial year (end of September), prepare and submit the accounts
+	5. Responsible for the organisation and promotion of the events within the Union and of course the Union itself. The Events and PRO work in ensuring that in your time here at UL you experience a balance between your academic and social life.
 
-to the Executive Committee for its approval. The accounts shall include all income and
-expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that
-these accounts are submitted to the next meeting of the incoming Executive Committee.
+	6. This officer will also help in maintaining our social network outlets; the website, Facebook and twitter.
 
-39
+	7. This officer will sit on the executive which meets once every 2 weeks.
 
+4. Faculties Officer:
 
+	1. This position represents all faculties on the Executive and their own individual faculty on our Council.
 
-- Become a co signee on the Unions current account and cheques and be requested
-to approve purchases.
+	2. They attend Executive meetings once every 2 weeks.
 
-3. The Events and Publicities Officer
+	3. They communicate to the exec the concerns and issues of their fellow faculty representatives.
 
-Responsibilities
+	4. They have a vote at Exec on behalf of all the Faculties and on council on behalf of their own faculty.
 
-- Be responsible for publicising all meetings and all social events of the Union.
+5. Students Union Representative:
 
-- Be responsible for organising all trips, receptions and other social activities of the Union.
+	1. Represents and communicates between the ULSU and PSU
 
-- Plan, develop, put into place and evaluate information and communication strategies
-that present an organisation to the members of the Union.
+	2. Has full voting rights on Executive on behalf of the greater student body
 
-- Promote good information flow within the organisation.
+	3. The ULSU, through its representative on the PSU executive, shall endeavour to put forward the views of the ULSU so that fully informed decisions can be made by the PSU
 
-- Responsible for the organisation and promotion of the events within the Union and of
-course the Union itself. The Events and PRO work in ensuring that in your time here at UL
-you experience a balance between your academic and social life.
+6. The Clubs and Societies Officer:
 
-- This officer will also help in maintaining our social network outlets; the website,
-Facebook and twitter.
+	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, Clubs and Societies Executive, SU Executive and report to both councils. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs & Societies Council is consulted.
 
-- This officer will sit on the executive which meets once every 2 weeks.
+7. Chairperson of Council:
 
-4. Faculties Officer
+	1. Chairing PSU Council
 
-Responsibilities
+	2. Chairing General Meetings of the PSU Union
 
-- This position represents all faculties on the Executive and their own individual faculty on
-our Council.
+	3. Responsible for calling Council meetings and forming the agenda with the input of other council and exec members
 
-- They attend Executive meetings once every 2 weeks.
+	4. Attending scheduled Executive meetings
 
-- They communicate to the exec the concerns and issues of their fellow
-faculty representatives.
+	5. Maintaining a close working relationship with the other Council members
 
-40
+	6. Working as part of the PSU Union team to ensure the effective democracy and engagement
 
+8. The Faculty Representatives:
 
+	1. Faculty Representatives from each academic faculty shall be elected at the AGM.
 
-- They have a vote at Exec on behalf of all the Faculties and on council on behalf of their own
-faculty.
+	2. Faculty representatives shall serve as post-graduate representatives on Faculty Boards as nominees of the Postgraduate Students’ Union.
 
-5. Students Union Representative
+	3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which he/she was elected or appointed.
 
-Responsibilities
+	4. The term of office of a Faculty representative is one calendar year.
 
-- Represents and communicates between the ULSU and PSU
+	5. In the event of there being no Faculty Representative for a college, the President shall take on this role in addition to his normal duties.
 
-- Has full voting rights on Executive on behalf of the greater student body
+	6. They will sit on our council which meets 4 times a semester.
 
-- The SU, through its representative on the PSU executive, shall endeavour to put forward the
-views of the SU so that fully informed decisions can be made by the PSU
+	7. They liaise with the President during the department hubs that take place during the semester.
 
-6. The Clubs and Societies Officer
+	8. They will act as the closest point of contact for our class reps, should any issues arise.
 
-Responsibilities
+	9. One Faculty Rep will be elected as the Faculties Officer on the PSU Executive.
 
-- There will be a Clubs and Societies Officer that sits on the PSU Executive, Clubs and
-Societies Executive, SU Executive and report to both councils. The Clubs and Societies
-Officer, as a member of the PSU Executive will be full voting members and entitled to vote
-as part of the executive except for in the case of decisions directly effecting, and then it is
-their responsibility to ensure Clubs & Societies Council is consulted.
+9. Grad Entry School Representative:
 
-7. Chairperson of Council
+	1. Develop forums to get feedback from students for their particular area
 
-Responsibilities
+	2. Attends and participates at PSU Council and relevant council sub-committee meetings
 
-- Chairing PSU Council
+	3. Research and promote initiatives within UL and outside of UL that could benefit UL Students
 
-- Chairing General Meetings of the PSU Union
+	4. Liaise with and meet regularly with the President to communicate arising issues within the Gems or Grad Entry Law classes
 
-- Responsible for calling Council meetings and forming the agenda with the input of
-other council and exec members
+10. International Officer:
 
-- Attending scheduled Executive meetings
+	1. This person will sit on our council which meets 4 times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgrads here on campus.
 
-- Maintaining a close working relationship with the other Council members
+	2. They will provide support for our international students.
 
-41
+	3. They will also communicate with the International Office and Anne O Dwyer in the Grad school in order to ensure all international postgraduate students on campus are represented fully.
 
+11. PhD Officer:
 
-- Working as part of the PSU Union team to ensure the effective democracy and engagement
+	1. The PHD Officer will support our PHD students here on campus.
 
-8. The Faculty Representatives
+	2. This person will sit on our council which meets 4 times a semester.
 
-Responsibilities
+	3. Should any PHD specific issues arise, this person will assist the executive in coming to the best solution.
 
-- Faculty Representatives from each academic faculty shall be elected at the AGM.
+	4. They will also work closely with the Events and PRO officer in order to hold events specifically for our PHD students to encourage them to get involved.
 
-- Faculty representatives shall serve as post-graduate representatives on Faculty Boards
-as nominees of the Postgraduate Students’ Union.
+12. Mary Immaculate Representative:
 
-- The Executive Committee shall be empowered to remove from office a faculty
-representative who regularly does not attend meetings of the committee(s) to
-which he/she was elected or appointed.
+	1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the MIC Campus.
 
-- The term of office of a Faculty representative is one calendar year.
+	2. Attend Council meetings
 
-- In the event of there being no Faculty Representative for a college, the President shall
-take on this role in addition to his normal duties
+	2. They will encourage Mary Immaculate Postgraduate Students to get involved in events run by the PSU
 
-- They will sit on our council which meets 4 times a semester.
+### Terms of Office
 
-- They liaise with the President during the department hubs that take place during
-the semester.
+1. President: the term of office of the president shall be from June 1 to June 1 of the following year. A week of handover is accounted for from June 1st.
 
-- They will act as the closest point of contact for our class reps, should any issues arise.
-
-- One Faculty Rep will be elected as the Faculties Officer on the PSU Executive
-
-9. Grad Entry School Representative
-
-Responsibilities
-
-- Develop forums to get feedback from students for their particular area
-
-- Attends and participates at PSU Council and relevant council sub-committee meetings
-
-- Research and promote initiatives within UL and outside of UL that could benefit UL Students
-
-42
-
-
-
-- Liaise with and meet regularly with the President to communicate arising issues within
-the Gems or Grad Entry Law classes
-
-10. International Officer
-
-Responsibilities
-
-- This person will sit on our council which meets 4 times a semester and will communicate
-with our executive, in particular our Events and PRO officer throughout the year in order to
-organise events and activities for our international postgrads here on campus.
-
-- They will provide support for our international students.
-
-- They will also communicate with the International Office and Anne O Dwyer in the
-Grad school in order to ensure all international postgraduate students on campus are
-represented fully
-
-11. PHD Officer
-
-Responsibilities
-
-- The PHD Officer will support our PHD students here on campus.
-
-- This person will sit on our council which meets 4 times a semester.
-
-- Should any PHD specific issues arise, this person will assist the executive in coming to
-the best solution.
-
-- They will also work closely with the Events and PRO officer in order to hold
-events specifically for our PHD students to encourage them to get involved.
-
-12. Mary Immaculate Representative
-
-Responsibilities
-
-43
-
-
-
-- Be responsible for representing Mary Immaculate College postgraduate students and for
-promoting the PSU on the MIC Campus.
-
-- Attend Council meetings
-
-- They will encourage Mary Immaculate Postgraduate Students to get involved in events run
-by the PSU
-
-Terms of Office
-
-1. President; the term of office of the president shall be from June 1 to June 1 of the following year.
-A week of handover is accounted for from June 1st.
-
-2. Other Executive Officers; the other Executive Officers shall hold office from the end of the Annual
+2. Other Executive Officers: the other Executive Officers shall hold office from the end of the Annual
 General Meeting of their election to the end of the Following AGM.
 
-3. College Representatives; the College Representatives shall hold office from the end of the Annual
+3. College Representatives: the College Representatives shall hold office from the end of the Annual
 General Meeting of their election to the end of the Following AGM.
-
-44
-
 
 
 Schedule V: PSU Motion to C&S
@@ -608,7 +509,6 @@ the work and commitment shown by not only the committee members of each individu
 & Society, but also the Clubs & Societies Executive, CS Administrator Michelle Whyte and CS
 Development Officer Paul Lee in the overall development of Clubs and Societies.
 
-45
 
 
 
@@ -640,7 +540,6 @@ According to the Guide to C&S Administration 2012/2013 (pg40) and C&S Rulebook 2
 Students’ Union President has full voting rights as an SU Representative and we would seek that
 our representative from the PSU would be granted these same rights.
 
-46
 
 
 
@@ -659,7 +558,6 @@ void and dissolved by both bodies.
 This Memorandum recognises the historical and continued representation of all University of
 Limerick (UL) Students by both the ULSU and the PSU.
 
-47
 
 
 
@@ -720,7 +618,6 @@ c. Once the Presidents wages have been deducted, the PSU will make a 2/3
 contribution from Postgraduate student capitation to UL Clubs & Societies(C&S).
 This will be made in 2 instalments; one in November and one in March.
 
-48
 
 
 
@@ -764,7 +661,6 @@ Date: ______________________
 
 Signed
 
-49
 
 
 _________________________
@@ -791,12 +687,10 @@ SU Deputy President
 
 Catriona Ní Dhonnchú
 
-50
 
 
 Schedule VII: Commission of Arbitration for PSU & ULSU
 
-51
 
 
 
@@ -832,7 +726,6 @@ alternative Chair for that meeting.
 have resigned upon the presentation of a letter of resignation to the Chairperson of the
 Commission and to their nominating body.
 
-52
 
 
 Commission Proceedings
@@ -868,7 +761,6 @@ ruling on all cases.
 14. Commission reports and judgements shall maintain confidentiality of all confidential
 material sought and presented to them.
 
-53
 
 
 
@@ -895,7 +787,6 @@ President should seek advice from the Executive Committee with regard to any inf
 or communications which they are unsure of or feels is not conducive to fairness, equality
 and legality
 
-54
 
 
 6. Use of the Facilities for communication whether in hard format or soft format2
