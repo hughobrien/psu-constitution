@@ -21,35 +21,35 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 ## Article 1: Name and status
 
-1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
+1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm as Gaelige. Therein, for the purpose of this constitution the Union shall be referred to as 'the PSU'.
 
 ## Article 2: Aims and Objectives
 
-2.1 To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
+1 To represent postgraduate students (collectively and individually) in all matters relating to the postgraduate experience.
 
-2.2 To provide a means of communication between postgraduate students and the academic community, the University administration and other bodies concerned with postgraduate study.
+2 To provide a means of communication between postgraduate students and the academic community, the University administration and other bodies concerned with postgraduate study.
 
-2.3 To promote the development of a postgraduate 'culture' and community at the University and in both national and international forums.
+3 To promote the development of a postgraduate 'culture' and community at the University and in both national and international forums.
 
-2.4 To elect or nominate postgraduate students to representative committees, both within the University and elsewhere, where provision has been made for PSU representatives.
+4 To elect or nominate postgraduate students to representative committees, both within the University and elsewhere, where provision has been made for PSU representatives.
 
-2.5 To promote and actively pursue the betterment of the welfare of its members.
+5 To promote and actively pursue the betterment of the welfare of its members.
 
-2.6 To promote, encourage and facilitate student Clubs and Societies equally.
+6 To promote, encourage and facilitate student Clubs and Societies equally.
 
-2.7 These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
+7 These aims and objects shall be practiced without discrimination on the grounds of age, sex, race, religion, creed, sexual orientation, disability or medical condition, except that action may be taken to promote equality of opportunity
 
-2.8 The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
+8 The PSU shall practice the above aims and objectives independent of any political party or religious organisation.
 
 ## Article 3: Membership
 
-3.1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule I (Membership Rights) of this constitution.
+1 All Postgraduate Students currently registered at the University of Limerick shall be deemed to be full members of the PSU. Members are entitled to the rights as outlined in Schedule I (Membership Rights) of this constitution.
 
-3.1.1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
+	1. To be considered as a postgraduate student and therefore a member of the PSU, it is a requirement that students should have attained an undergraduate degree before commencing on a Postgraduate Programme.
 
-3.2 Any person sitting on the Executive shall be a member while they hold their position on the Executive.
+2 Any person sitting on the Executive shall be a member while they hold their position on the Executive.
 
-Article 4. Governance of the PSU
+## Article 4: Governance of the PSU
 
 4.1 The Governance of the PSU shall be based on the democratic principle that every member shall
 have the fullest opportunity to directly participate in PSU affairs.
