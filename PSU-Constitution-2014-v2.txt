@@ -12,7 +12,7 @@ by the Governing Authority of the University of Limerick.
 
 1
 
-
+
 
 The Constitution derives its authority from the Postgraduate student body of the University of
 Limerick
@@ -37,7 +37,7 @@ remuneration for such employment within the University.
 
 2
 
-
+
 Article 1. Name and status
 
 1.1 The name in English is the Postgraduate Students’ Union. Is é Cumann na nIarchéimithe an t-ainm
@@ -78,7 +78,7 @@ be full members of the PSU. Members are entitled to the rights as outlined in Sc
 
 3
 
-
+
 
 3.1.1. To be considered as a postgraduate student and therefore a member of the PSU, it is a
 requirement that students should have attained an undergraduate degree before commencing
@@ -117,7 +117,7 @@ OR
 
 4
 
-
+
 2° a petition of at least 80 students who are members is signed by the individual students.
 
 5.3 The returning officer shall be responsible for deciding the wording of the question on the
@@ -157,7 +157,7 @@ be encouraged where it is.
 
 5
 
-
+
 
 1° To change the Constitution and adopt amendments proposed by the
 Postgraduate population
@@ -192,7 +192,7 @@ OR
 
 6
 
-
+
 3° Fifty Members of the population of the PSU
 
 a. If being requested by Fifty members of the population, the submission must be
@@ -231,7 +231,7 @@ Descriptions and terms of Office) :
 
 7
 
-
+
 ° Science and Engineering Representative
 
 ° Graduate Entry School Representative
@@ -272,7 +272,7 @@ members. The Chair of Council shall have the casting vote where necessary.
 
 8
 
-
+
 
 7.10 The PSU Council is required to meet three times in the semester on select dates which are
 agreed upon the fulfilment of posts required by the PSU Council. The following core meetings are
@@ -320,7 +320,7 @@ members listed above. Management of the Union consists of responsibilities inclu
 
 9
 
-
+
 ° Reserve functions where long term policy is prime
 
 ° Executive functions focusing on decisions regarding day to day activity of the PSU
@@ -355,7 +355,7 @@ shall be deemed a submission of and automatic acceptance of resignation
 
 10
 
-
+
 
 8.9 No Executive Committee Member shall hold a simultaneous position on the Committee
 
@@ -387,7 +387,7 @@ Department Representatives, and all Class Representatives.
 
 11
 
-
+
 
 9.4 Class Representatives shall be directly elected by the members of the union in their constituency
 as outlined in Schedule V (Representatives) of this constitution.
@@ -424,7 +424,7 @@ the PSU Council or Executive the issue shall go to general meeting.
 
 12
 
-
+
 
 11.2 The PSU recognises the autonomy of Clubs and Societies Council in determining Clubs and
 Societies policy and coordination of Clubs and Societies activities, under the auspices of the
@@ -462,7 +462,7 @@ societies delegates.
 
 13
 
-
+
 
 11.9 The PSU President or his/her executive nominee shall be member on the Clubs and Societies
 Executive, the rest of the membership of the Clubs & Societies Executive is determined by Clubs
@@ -504,14 +504,14 @@ purposes.
 
 14
 
-
+
 
 11.17 The PSU President shall present the annual budget for the following academic year to Clubs
 and Societies Council during the spring semester.
 
 Article 12. University of Limerick Students Union
 
-12.1 The PSU recognises the University of Limerick Students’ Union, hereafter known as ULSU, as the
+
 representative body for all students in the University. The PSU is recognised by the ULSU as fully
 autonomous and as the representative body for all postgraduate students in the University on
 all postgraduate issues.
@@ -541,7 +541,7 @@ course of their term.
 
 15
 
-
+
 
 13.2 The President shall, when required, withdraw monies to the total amount of €500 Euros for
 daily expenses from petty cash
@@ -574,7 +574,7 @@ for auditing and accountability
 
 16
 
-
+
 
 13.7 In order to maintain accountability and transparency, all purchases deemed significant in
 value at the discretion of the Executive, should be subject to agreement by the PSU Executive
@@ -605,7 +605,7 @@ utilised to prepare the accounts for presentation at the AGM of the succeeding y
 
 17
 
-
+
 
 13.13 The President should provide the external accountant with all relevant financial material
 before the financial year end of May 31st.
@@ -643,7 +643,7 @@ the academic year.
 
 18
 
-
+
 
 14.2 A copy of the constitution, including any amendments, a copy of the annual report and any
 plans for the PSU’s activities, including the budget, shall be made available to all students at the
@@ -679,7 +679,7 @@ representatives from clubs & societies and ULSU.
 
 19
 
-
+
 Article 16. Removal of an Officer
 
 16.1 Every directly elected Executive Officer or Council members shall be liable to be removed from
@@ -714,7 +714,7 @@ Article 18. Definitions
 
 20
 
-
+
 
 1. Academic Year – Shall begin on the first day of the Autumn Semester and end on the last day of
 the Spring Semester as defined by the University Academic Calendar.
@@ -764,7 +764,7 @@ matter.
 
 21
 
-
+
 
 28. University Day – is 9am – 5pm on a Monday, Tuesday, Wednesday, Thursday or Friday during the
 semester, excluding University Holidays.
@@ -775,7 +775,7 @@ Schedule I Membership rights
 
 22
 
-
+
 Schedule II Election Regulations
 
 Schedule III Meeting Regulations
@@ -807,7 +807,7 @@ continuing representation of any individual.
 
 23
 
-
+
 
 Schedule II: Election Regulations
 
@@ -837,7 +837,7 @@ the elections Electoral and Referenda Board
 
 24
 
-
+
 
 3. Under article 11, there shall be an Electoral and Referenda Board to liaise with the returning
 officer in the running of Elections and Referenda of the Union.
@@ -880,7 +880,7 @@ removal of officers then article 16 takes effect.
 
 25
 
-
+
 
 9. Motion: The motion to be put in a referendum shall be worded by the returning officer and shall
 be checked by PSU Council and may be altered if it is considered ambiguous, so long as the
@@ -925,14 +925,14 @@ o Chair of Council
 
 o Full time member of staff in an observing capacity
 
-
+
 15. All members of the Union are eligible to stand for any of the following executive
 
 positions: 1° President
 
 26
 
-
+
 2° Vice President- Treasurer
 
 3° Events Officer
@@ -980,7 +980,7 @@ shall be proposed and seconded by the signatures of 20 members of the PSU.
 
 27
 
-
+
 available from the website which shall also contain information on the facilities the union will
 
 make available to each candidate.
@@ -1023,7 +1023,7 @@ Campaigning Rules and Regulations
 
 28
 
-
+
 
 29. The canvassing and campaigning rules and regulations shall be contained in the election rules
 and regulations set down by the Electoral & Referendum Board.
@@ -1067,7 +1067,7 @@ held by the Union shall be called ‘Hustings’ and shall be convened by the El
 
 29
 
-
+
 
 and Referenda Board, subject to the direction of the Returning Officer, and shall be chaired by
 his/her nominee. Arrangements for the Hustings set down by the Electoral and Referendum
@@ -1111,7 +1111,7 @@ duties 3° Disobeys a legitimate instruction from the Electoral and Referenda Bo
 
 30
 
-
+
 
 4° Obstructs a candidate or a candidate’s agent or members of a referendum campaign
 in their campaigning for an election or referendum
@@ -1153,7 +1153,7 @@ reopening nominations
 
 31
 
-
+
 47. The Electoral & Referendum Board will decide if there is a need for an electronic or paper ballot.
 
 When there is a Paper Poll
@@ -1197,7 +1197,7 @@ as governed by the Oireachtas: ascertaining total poll, valid poll, and quotas f
 
 32
 
-
+
 
 59. Campaign Managers have the sole right to call a recount on behalf of their candidate up to six
 hours after the result of the count has been announced.
@@ -1217,7 +1217,7 @@ recount shall take place within four University days.
 
 33
 
-
+
 
 Schedule III: Meeting Regulations
 
@@ -1244,7 +1244,7 @@ generally available
 
 34
 
-
+
 
 7. Amendments to the published agenda must be received by the President no later than Three
 working days before the meeting, and published at least One working day before the
@@ -1285,7 +1285,7 @@ university days before the meeting.
 
 35
 
-
+
 
 3° Matters arising from the minutes;
 4° Monthly Management Accounts
@@ -1327,7 +1327,7 @@ Executive
 
 36
 
-
+
 
 1. Executive shall meet at least 6 times per semester preferably on a bi-weekly basis. Further
 meetings may be called by a written request of a majority of Executive members to the
@@ -1366,7 +1366,7 @@ or upcoming campaigns/ meetings of elections. Any member may request any item to
 
 37
 
-
+
 
 agenda and submit the item to the president that item must be discussed in full, provided that
 notice is given in advance of the meeting.
@@ -1408,7 +1408,7 @@ Council and other boards and committees of the University as required.
 
 38
 
-
+
 
 - Be the first spokesperson of the Union and be responsible for the co-ordination of all Union
 activities. He/She may, with the consent of the Executive Committee, form sub-
@@ -1450,7 +1450,7 @@ these accounts are submitted to the next meeting of the incoming Executive Commi
 
 39
 
-
+
 
 - Become a co signee on the Unions current account and cheques and be requested
 to approve purchases.
@@ -1491,7 +1491,7 @@ faculty representatives.
 
 40
 
-
+
 
 - They have a vote at Exec on behalf of all the Faculties and on council on behalf of their own
 faculty.
@@ -1534,7 +1534,7 @@ other council and exec members
 
 41
 
-
+
 - Working as part of the PSU Union team to ensure the effective democracy and engagement
 
 8. The Faculty Representatives
@@ -1576,7 +1576,7 @@ Responsibilities
 
 42
 
-
+
 
 - Liaise with and meet regularly with the President to communicate arising issues within
 the Gems or Grad Entry Law classes
@@ -1615,7 +1615,7 @@ Responsibilities
 
 43
 
-
+
 
 - Be responsible for representing Mary Immaculate College postgraduate students and for
 promoting the PSU on the MIC Campus.
@@ -1638,7 +1638,7 @@ General Meeting of their election to the end of the Following AGM.
 
 44
 
-
+
 
 Schedule V: PSU Motion to C&S
 
@@ -1663,7 +1663,7 @@ Development Officer Paul Lee in the overall development of Clubs and Societies.
 
 45
 
-
+
 
 The PSU receives approximately €140,000 annually from the University through student capitation
 which comes directly from our members. Following the wages of the PSU President, the 2/3 split in
@@ -1695,7 +1695,7 @@ our representative from the PSU would be granted these same rights.
 
 46
 
-
+
 
 Schedule Vi: PSU & ULSU Memorandum of Understanding
 
@@ -1714,7 +1714,7 @@ Limerick (UL) Students by both the ULSU and the PSU.
 
 47
 
-
+
 
 In order to ensure clear communication and efficient representation on behalf of the students we
 represent, this document should lay down the roles of both bodies and our working relationship.
@@ -1775,7 +1775,7 @@ This will be made in 2 instalments; one in November and one in March.
 
 48
 
-
+
 
 d. Once the Presidents wages and the C&S Contribution have been deducted, the PSU
 will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services
@@ -1819,7 +1819,7 @@ Signed
 
 49
 
-
+
 _________________________
 
 PSU President
@@ -1846,12 +1846,12 @@ Catriona Ní Dhonnchú
 
 50
 
-
+
 Schedule VII: Commission of Arbitration for PSU & ULSU
 
 51
 
-
+
 
 Commission of Arbitration
 
@@ -1887,7 +1887,7 @@ Commission and to their nominating body.
 
 52
 
-
+
 Commission Proceedings
 
 7. The Commission shall have the right to decide whether cases are held in public or private.
@@ -1923,7 +1923,7 @@ material sought and presented to them.
 
 53
 
-
+
 
 SCHEDULE VIII: PUBLICATIONS
 
@@ -1950,7 +1950,7 @@ and legality
 
 54
 
-
+
 6. Use of the Facilities for communication whether in hard format or soft format2
 without
 proper authorisation by those responsible will be seen as contrary to the provisions of the
@@ -1958,10 +1958,10 @@ Executive Management of the Union and a breach of these guidelines
 
 55
 
-
+
 
 Appendix I: Results and Referenda
 
 56
 
-
+
