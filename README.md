@@ -265,19 +265,19 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. All Postgraduate Class Representatives are members of the Class Representative Forum Facilitated by ULSU. The PSU President will address postgraduate issues in this forum.
 
-2. This body shall be known as the Class Representative Forum, hereafter called 'Class Reps Forum'. Class Reps Forum shall be a forum to open the channel of communication between department reps and the class reps within their respective departments.
+2. This body shall be known as the Class Representative Forum. Class Representatives Forum shall be a forum to open the channel of communication between department representatives and the Class Representatives within their respective departments.
 
-3. Class Reps Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
+3. Class Representatives Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
 4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5: Representatives. TODO: Find Schedule 5.
 
-5. All Union members shall have participant status at Class Reps Forum but can be asked to leave at the request of the Chairperson. Class Reps Forum may grant Participant or Observer status on any other person as deemed appropriate.
+5. All Union members shall have participant status at Class Representatives Forum but can be asked to leave at the request of the Chairperson. Class Representatives Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
 6. Postgraduate class representatives are welcomed to the training that is provided by ULSU on agreement with the ULSU.
 
-7. There will be two class reps forums per semester but at a least at a minimum the forum shall be called at least once per semester by the Vice President Academic.
+7. There will be two Class Representatives forums per semester but at a least at a minimum the forum shall be called at least once per semester by the Vice President Academic.
 
-8. Class Reps are bound by the class rep code of conduct which is held by Vice President Academic and approved by the Student Council.
+8. Class Representatives are bound by the class rep code of conduct which is held by Vice President Academic and approved by the Student Council.
 
 ## Article 10: Electoral and Referenda Board
 
@@ -904,7 +904,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	7. They liaise with the President during the department hubs that take place during the semester.
 
-	8. They will act as the closest point of contact for our class reps, should any issues arise.
+	8. They will act as the closest point of contact for our Class Representatives, should any issues arise.
 
 	9. One Faculty Rep will be elected as the Faculties Officer on the PSU Executive.
 
