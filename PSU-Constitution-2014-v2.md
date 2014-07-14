@@ -304,105 +304,61 @@ The Union alone shall represent and defend the interests of postgraduate student
 
 4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule VII of this Constitution.
 
-Article 13. Financial Procedures
+## Article 13: Financial Procedures
 
-13.1 The PSU requires that there is oversight on all purchases made by the President during the
+1. The PSU requires that there is oversight on all purchases made by the President during the course of their term.
 
-course of their term.
+2. The President shall, when required, withdraw monies to the total amount of €500 Euros for daily expenses from petty cash.
 
-15
+3. This withdrawal shall share a dual mandate and be fulfilled by the Vice-President/Treasurer.
 
+	1. In order to ensure continuity, and in the case of absence of the Vice-President/Treasurer, the Financial Controller in the Students’ Union shall sign as a third signee on the main PSU Forum Students’ Account.
 
+4. Petty Cash and cheque expenditure shall be accounted for by the maintenance of budget and expenditure sheets by the President, and the collection of all receipts and invoices.
 
-13.2 The President shall, when required, withdraw monies to the total amount of €500 Euros for
-daily expenses from petty cash
+5. Budget and Expenditure sheets shall be overseen by the Vice-President/Treasurer of the PSU as per constitutional remit and require monthly assessment and approval.
 
-13.3 This withdrawal shall share a dual mandate and be fulfilled by the Vice- President Treasurer
+6. Purchases shall be agreed through the use of:
 
-13.3.1 In order to ensure continuity and in the case of absence of the Vice- President
+	1. Purchase Orders to the value of 30€ or more which are co-signed by the President and the Vice-President/Treasurer or another member of the Executive Committee if the Vice-President/Treasurer is unavailable.
 
-Treasurer, the Financial Controller in the Students’ Union shall sign as a third signee
-on the main PSU Forum Students’ Account
+	2. Through virtual agreement by means of email where there is a need to pursue a purchase, the President may email the Vice-President/Treasurer, and subsequently, the Vice-President Treasurer will sign after the fact. Should this be required both the signed Purchase order and a dated, timed copy of the email containing the purchase order sequence number must be maintained on records for auditing and accountability.
 
-13.4 Petty Cash and cheque expenditure shall be accounted for by the maintenance of budget
-and expenditure sheets by the President, and the collection of all receipts and invoices
+7. In order to maintain accountability and transparency, all purchases deemed significant in value at the discretion of the Executive, should be subject to agreement by the PSU Executive Committee.
 
-13.5 Budget and Expenditure sheets shall be overseen by the Vice-President/Treasurer of the PSU
-as per constitutional remit and require monthly assessment and approval
+8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the Budget.
 
-13.6 Purchases shall be agreed through the use of;
+9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
 
-° Purchase Orders to the value of 30€ or more which are co-signed by the
-President and the Vice-President/Treasurer or another member of the Executive
-Committee if the Vice-President/Treasurer is unavailable
+10. Due to the nature of the PSU working in close quarters alongside the University of Limerick Students Union, it can happen that joint initiatives are undertaken such as the facilitation of Training and skill development exercises. If it is the case that such initiatives occur, and the cost is charged as one unit to the University of Limerick Students Union, then the University of Limerick Student Union must charge the PSU for their element of the cost depending on the amount of members involved, and invoice as such.
 
-° Through virtual agreement by means of email where there is a need to pursue
-a purchase, the President may email the Vice-President/Treasurer, and
-subsequently, the Vice-President Treasurer will sign after the fact. Should this be
-required both the signed Purchase order and a dated, timed copy of the email
-containing the purchase order sequence number must be maintained on records
-for auditing and accountability
+11. It is expected that at all times completed receipts and invoices will be available for scrutiny at the discretion of the Executive Committee, and that where possible invoices will be sought for services procured.
 
-16
+12. It is the responsibility of the President and the Vice-President/Treasurer to ensure that the end of year accounts is subject to external scrutiny. Therefore, an external accountant must be utilised to prepare the accounts for presentation at the AGM of the succeeding year.
 
+13. The President should provide the external accountant with all relevant financial material before the financial year end of May 31st.
 
+14. Those with a key role and oversight in the PSU finances are:
 
-13.7 In order to maintain accountability and transparency, all purchases deemed significant in
-value at the discretion of the Executive, should be subject to agreement by the PSU Executive
-Committee
+	1. President, PSU
 
-13.8 The President of the PSU where possible should ensure that all invoices and expenditure are
-up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet
-with the President to sign off on the Budget
+	2. Vice-President/Treasurer, PSU
 
-13.9 When paying by cheque, the President of the PSU is required to have a dual mandate which
-is served by the Vice-President Treasurer of the PSU and in the case of the absence of the VP/T,
-the financial controller of ULSU can sign as a third signee.
+	3. Executive Committee Members
 
-13.10 Due to the nature of the PSU working in close quarters alongside the University of Limerick
-Students Union, it can happen that joint initiatives are undertaken such as the facilitation of
-Training and skill development exercises. If it is the case that such initiatives occur, and the cost
-is charged as one unit to the University of Limerick Students Union, then the University of
-Limerick Student Union must charge the PSU for their element of the cost depending on the
-amount of members involved, and invoice as such.
+	4. External Accountant
 
-13.11 It is expected that at all times completed receipts and invoices will be available for scrutiny
-at the discretion of the Executive Committee, and that where possible invoices will be sought for
-services procured
+15. At the end of the financial year, the PSU audited accounts must be present to and passed by the following:
 
-13.12 It is the responsibility of the President and the Vice-President/Treasurer to ensure that the
-end of year accounts is subject to external scrutiny. Therefore, an external accountant must be
-utilised to prepare the accounts for presentation at the AGM of the succeeding year.
+	1. PSU AGM
 
-17
+	2. PSU Council
 
+	3. C&S Council
 
+16. Additionally, audited accounts must be presented to
 
-13.13 The President should provide the external accountant with all relevant financial material
-before the financial year end of May 31st.
-
-13.14 Those with a key role and oversight in the PSU finances are:
-
-° President, PSU
-
-° Vice-President/Treasurer, PSU
-
-° Executive Committee Members
-
-° External Accountant
-
-13.15 At the end of the financial year, the PSU audited accounts must be present to and passed by
-the following:
-
-i. PSU AGM
-
-ii. PSU Council
-
-iii. C&S Council
-
-13.16 Additionally, audited accounts must be presented to
-
-iv. ULSU Council
+	1. ULSU Council
 
 Article 14. Minutes
 
