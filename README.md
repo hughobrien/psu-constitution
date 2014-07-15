@@ -45,7 +45,6 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 2. Election Regulations
 3. Meeting Regulations
 4. Council and Executive Job Descriptions and Terms of Office
-5. PSU Motion to Clubs and Societies
 6. Memorandum of Understanding
 7. Commission of Arbitration
 8. Publications
@@ -944,28 +943,6 @@ The other Executive Officers shall hold office from the end of the Annual Genera
 
 #### College Representatives
 The College Representatives shall hold office from the end of the Annual General Meeting of their election to the end of the Following AGM.
-
-## Schedule 5: PSU Motion to Clubs and Societies
-
-The PSU Executive would like to bring forward the following motion to Clubs and Societies Council:
-
-*Motion to grant a representative of the postgraduate students union a seat, as a voting member, on the Clubs and Societies Executive*
-
-Justification and reasoning:
-
-The University of Limerick Postgraduate Students’ Union (PSU) would first like to acknowledge the work and commitment shown by not only the committee members of each individual Club or Society, but also the Clubs and Societies Executive, CS Administrator Michelle Whyte and CS Development Officer Paul Lee in the overall development of Clubs and Societies.
-
-The PSU receives approximately €140,000 annually from the University through student capitation which comes directly from our members. Following the wages of the PSU President, the two-thirds split in capitation provides Clubs and Societies with approximately €77,000.
-
-Our accountant has advised us that due to this large portion of funding being transferred to Clubs and Societies, we have a duty to our members to be able to provide oversight on how this money is administered. We have complete faith in the Clubs and Societies Executive in administering this money. Year after year, Clubs and Societies have proven themselves to be responsible with the money given to them. The PSU Executive is not implying that it is not done well, however we do have a duty to our members to be able to oversee the process.
-
-This will help to strengthen the ties between us and would be mutually beneficial as the PSU Executive would also like to create a position for a Clubs and Societies Representative on our Executive. This individuals’ function would be similar to that of the Clubs Officer and Societies Officer on the ULSU.
-
-Executive, but their focus would be on advising and helping the PSU Executive to promote and market Clubs and Societies to the Universities postgraduate students. Given that only xxxxx of an estimated 4,000 postgraduate students are members we feel it is very important that this is accomplished.
-
-Having representatives on one another’s executives will also provide us with an opportunity to learn from one another, but also to promote common causes between the PSU, Clubs and Societies Exec and ULSU – most notably the student levy referendum to be put to the students next semester.
-
-According to the Guide to Clubs and Societies Administration 2012/2013 (pg40) and Clubs and Societies Rulebook 2007 (pg42), the Students’ Union President has full voting rights as an ULSU Representative and we would seek that our representative from the PSU would be granted these same rights.
 
 ## Schedule 6: PSU and ULSU Memorandum of Understanding
 
