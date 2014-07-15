@@ -17,7 +17,7 @@
 
 ## Statement of Purpose
 
-The Postgraduate Student's Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University and other committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
+The Postgraduate Student's Union alone shall represent and defend the interests of postgraduate students of the University of Limerick on Departmental, Faculty, University and other Committees and shall be empowered to negotiate on all matters concerning both the employment of postgraduate students and the remuneration for such employment within the University.
 
 ## Articles
 1. Name and Status
@@ -27,7 +27,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 5. Referendum
 6. General Meetings
 7. PSU Council
-8. Executive
+8. Executive Committee
 9. Class Representatives
 10. Electoral and Referenda Board
 11. Clubs and Societies
@@ -202,9 +202,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 11. The PSU shall follow the procedures and processes as outlined in Schedule 3: Meeting Regulations.
 
-## Article 8: Executive
+## Article 8: Executive Committee
 
-1. Executive shall consist of the President, Postgraduate Students Union and nine others:
+1. The Executive Committee (Executive) shall consist of the President, Postgraduate Students Union and nine others:
 
 	1. Vice-President/Treasurer
 
@@ -421,7 +421,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. The indirectly elected executive officers and council members shall be liable to be removed from office on a proposal to that effect to PSU Council approved by their constituencies and Schedule 1: Election Regulations, of the Constitution.
 
-3. The PSU Executive Nominees, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
+3. The PSU Executive Nominees, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University Committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
 
 4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this Constitution.
 
