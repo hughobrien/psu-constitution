@@ -291,9 +291,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. The PSU recognises the autonomy of C&S Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union. TODO: Which union?
 
-3. As per the Memorandum of Understanding (MoU) in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive (C&S Executive) and reports to both councils. The PSU Officer, as a member of the C&S Executive will be a full voting member on the C&S Executive. It is then their responsibility to ensure PSU Council is consulted.
+3. As per the Memorandum of Understanding (MoU) in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive (C&S Executive) and reports to both councils. The PSU Officer, as a member of the C&S Executive will be a full voting member on the C&S Executive. It is their responsibility to ensure PSU Council is consulted.
 
-4. As per the MoU, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the PSU Executive. It is then their responsibility to ensure C&S Council is consulted.
+4. As per the MoU, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the PSU Executive. It is their responsibility to ensure C&S Council is consulted.
 
 5. The C&S Council shall consist of the C&S Executive and at least one liaison officer from each club and society.
 
@@ -329,9 +329,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU recognises the University of Limerick Students' Union (ULSU) as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
-2. There should be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with Schedule 6: Memorandum of Understanding, a position of participant status for a full time member of the ULSU senior staff shall be created on the Executive in order to ensure continuity.
+2. There shall be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity.
 
-3. The Memorandum of Understanding between the PSU and ULSU is included in Schedule 6: Memorandum of Understanding. This memorandum describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the Memorandum of Understanding have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to Clubs and Societies Council.
+3. The MoU in Schedule 6: Memorandum of Understanding, describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the MoU have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to C&S Council.
 
 4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule 7: Commission of Arbitration.
 
