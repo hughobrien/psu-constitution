@@ -944,8 +944,6 @@ The College Representatives shall hold office from the end of the Annual General
 
 ## Schedule 6: PSU and ULSU Memorandum of Understanding
 
-### Memorandum of Understanding (MoU) Between ULSU and PSU.
-
 This Memorandum of Understanding is entered into by and between the President of the Postgraduate Students’ Union (PSU) and the President of the Students’ Union (ULSU) in the academic year 2013/2014. It has been drawn on an account of a previous MoU being deemed void and dissolved by both bodies.
 
 This Memorandum recognises the historical and continued representation of all University of Limerick (UL) Students by both the ULSU and the PSU.
