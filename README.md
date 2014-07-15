@@ -329,7 +329,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU recognises the University of Limerick Students' Union (ULSU) as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
-2. There shall be a PSU Executive Nominee on the ULSU Executive and Council. A representative of the Union shall be a member of the PSU's Executive and Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity.
+2. There shall be a PSU Executive Nominee on the ULSU Executive and ULSU Council. A representative of the Union shall be a member of the PSU Executive and PSU Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity.
 
 3. The MoU in Schedule 6: Memorandum of Understanding, describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the MoU have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to C&S Council.
 
@@ -339,11 +339,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU requires that there is oversight on all purchases made by the President during the course of their term.
 
-2. The President shall, when required, withdraw monies to the total amount of €500 Euros for daily expenses from petty cash.
+2. The President shall, when required, withdraw funds to the total amount of €500 Euro for daily expenses from petty cash.
 
 3. This withdrawal shall share a dual mandate and be fulfilled by the Vice-President/Treasurer.
 
-	1. In order to ensure continuity, and in the case of absence of the Vice-President/Treasurer, the Financial Controller in the Students’ Union shall sign as a third signee on the main PSU Forum Students’ Account.
+	1. In order to ensure continuity, and in the case of absence of the Vice-President/Treasurer, the Financial Controller in the ULSU shall sign as a third signee on the main PSU Forum Students’ Account.
 
 4. Petty Cash and cheque expenditure shall be accounted for by the maintenance of budget and expenditure sheets by the President, and the collection of all receipts and invoices.
 
@@ -351,23 +351,23 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 6. Purchases shall be agreed through the use of:
 
-	1. Purchase Orders to the value of 30€ or more which are co-signed by the President and the Vice-President/Treasurer or another member of the Executive Committee if the Vice-President/Treasurer is unavailable.
+	1. Purchase Orders to the value of €30 Euro or more which are co-signed by the President and the Vice-President/Treasurer or another member of the Executive Committee if the Vice-President/Treasurer is unavailable.
 
-	2. Through virtual agreement by means of email where there is a need to pursue a purchase, the President may email the Vice-President/Treasurer, and subsequently, the Vice-President/Treasurer will sign after the fact. Should this be required both the signed Purchase order and a dated, timed copy of the email containing the purchase order sequence number must be maintained on records for auditing and accountability.
+	2. Through agreement by means of email where there is a need to pursue a purchase, the President may email the Vice-President/Treasurer, and subsequently, the Vice-President/Treasurer will sign after the fact. Should this be required both the signed Purchase order and a dated, timed copy of the email containing the purchase order sequence number must be maintained on records for auditing and accountability.
 
-7. In order to maintain accountability and transparency, all purchases deemed significant in value at the discretion of the Executive, should be subject to agreement by the PSU Executive Committee.
+7. In order to maintain accountability and transparency, all purchases deemed significant in value, the determination of which is at the discretion of the Executive, should be subject to agreement by the PSU Executive.
 
 8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the Budget.
 
 9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President/Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
 
-10. Due to the nature of the PSU working in close quarters alongside the University of Limerick Students Union, it can happen that joint initiatives are undertaken such as the facilitation of Training and skill development exercises. If it is the case that such initiatives occur, and the cost is charged as one unit to the University of Limerick Students Union, then the University of Limerick Student Union must charge the PSU for their element of the cost depending on the amount of members involved, and invoice as such.
+10. Due to the nature of the PSU working in close quarters alongside the ULSU, it may happen that joint initiatives are undertaken such as the facilitation of training and skill development exercises. If it is the case that such initiatives occur, and the cost is charged as one unit to the ULSU, then the ULSU must charge the PSU for their portion of the cost depending on the amount of members involved, and invoice as such.
 
-11. It is expected that at all times completed receipts and invoices will be available for scrutiny at the discretion of the Executive Committee, and that where possible invoices will be sought for services procured.
+11. It is expected that at all times completed receipts and invoices will be available for scrutiny at the discretion of the Executive, and that where possible invoices will be sought for services procured.
 
-12. It is the responsibility of the President and the Vice-President/Treasurer to ensure that the end of year accounts is subject to external scrutiny. Therefore, an external accountant must be utilised to prepare the accounts for presentation at the AGM of the succeeding year.
+12. It is the responsibility of the President and the Vice-President/Treasurer to ensure that the end of year accounts is subject to external scrutiny. Therefore, an external accountant must be utilised to prepare the accounts for presentation at the AGM of the following year.
 
-13. The President should provide the external accountant with all relevant financial material before the financial year end of May 31st.
+13. The President should provide the external accountant with all relevant financial material before the financial year end of the 31st of May.
 
 14. Those with a key role and oversight in the PSU finances are:
 
