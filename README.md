@@ -45,9 +45,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 2. Election Regulations
 3. Meeting Regulations
 4. Council and Executive Job Descriptions and Terms of Office
-6. Memorandum of Understanding
-7. Commission of Arbitration
-8. Publications
+5. Memorandum of Understanding
+6. Commission of Arbitration
+7. Publications
 
 ## Article 1: Name and Status
 
@@ -268,7 +268,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Class Representatives Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
-4. Class Representatives shall be directly elected by the members of the PSU in their constituency as outlined in Schedule 5: Representatives. TODO: Find Schedule 5.
+4. Class Representatives shall be directly elected by the members of the PSU in their constituency as outlined in Schedule X: Representatives. TODO: Find this schedule
 
 5. All Union members shall have participant status at Class Representatives Forum but can be asked to leave at the request of the Chairperson. Class Representatives Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
@@ -290,7 +290,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. The PSU recognises the autonomy of C&S Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union. TODO: Which union?
 
-3. As per the Memorandum of Understanding (MoU) in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive (C&S Executive) and reports to both councils. The PSU Officer, as a member of the C&S Executive will be a full voting member on the C&S Executive. It is their responsibility to ensure PSU Council is consulted.
+3. As per the Memorandum of Understanding (MoU) in Schedule 5: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive (C&S Executive) and reports to both councils. The PSU Officer, as a member of the C&S Executive will be a full voting member on the C&S Executive. It is their responsibility to ensure PSU Council is consulted.
 
 4. As per the MoU, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the PSU Executive. It is their responsibility to ensure C&S Council is consulted.
 
@@ -330,9 +330,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. There shall be a PSU Executive Nominee on the ULSU Executive and ULSU Council. A representative of the Union shall be a member of the PSU Executive and PSU Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity. TODO: which union is 'the union'?
 
-3. The MoU in Schedule 6: Memorandum of Understanding, describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the MoU have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to C&S Council.
+3. The MoU in Schedule 5: Memorandum of Understanding, describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the MoU have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to C&S Council.
 
-4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule 7: Commission of Arbitration.
+4. Should the PSU and ULSU come into disrepute, a Commission of Arbitration has been established for the purpose of dissolving the situation. The remit of the Commission of Arbitration and its membership is outlined in Schedule 6: Commission of Arbitration.
 
 ## Article 13: Financial Procedures
 
@@ -885,7 +885,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which they were elected or appointed.
 
-	4. Hold their term of office for one calendar year.
+	3. Hold their term of office for one calendar year.
 
 	5. Have their role subsumed by the President in the event of there being no Faculty Representative for a college.
 
@@ -944,7 +944,7 @@ The other Executive Officers shall hold office from the end of the Annual Genera
 #### College Representatives
 The College Representatives shall hold office from the end of the Annual General Meeting of their election to the end of the Following AGM.
 
-## Schedule 6: PSU and ULSU Memorandum of Understanding
+## Schedule 4: PSU and ULSU Memorandum of Understanding
 
 ### Memorandum of Understanding (MoU) Between ULSU and PSU.
 
@@ -1012,7 +1012,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	3. The Clubs and Societies representative on the PSU executive will work to promote and engage with postgraduate students about clubs and societies.
 
-## Schedule 7: Commission of Arbitration for PSU and ULSU
+## Schedule 6: Commission of Arbitration for PSU and ULSU
 
 1. There shall be a commission of arbitration, (the Commission), whose role is to make judgements on:
 
@@ -1060,7 +1060,7 @@ In order to ensure clear communication and efficient representation on behalf of
 14. Commission reports and judgements shall maintain confidentiality of all confidential material sought and presented to them.
 
 
-## Schedule 8: Publications
+## Schedule 7: Publications
 
 1. The Business of the Union requires openness and availability, as well as the provision of information on a wide range of issues. As such, the utility of an online presence alongside traditional mechanisms for media and communication are available. The President as the face of the Union and as the source of accountability and responsibility for the Union shall maintain oversight of the details that are placed in hard or soft format regarding the presence of the PSU.
 
