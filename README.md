@@ -130,7 +130,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	6. To address PSU policy regarding the AGM agenda.
 
-	7. To approve changes or amendments to the President’s Wages.
+	7. To approve changes or amendments to the President’s wages.
 
 4. The AGM of the PSU shall take place no later than Week 6 of Semester 1 of the Academic year according to Schedule 2: Election Regulations.
 
@@ -140,11 +140,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	2. The PSU Council.
 
-	3. Fifty Members of the population of the PSU.
+	3. Fifty members of the population of the postgraduate population.
 
-		1. If being requested by Fifty members of the population, the submission must be made in writing and signed by the Fifty members of their own free will, where that submission is directed to the President.
+		1. If being requested by fifty members of the postgraduate population, the submission must be made in writing and signed by the fifty members of their own free will, where that submission is directed to the President.
 
-		2. Should the meeting be requested in writing by Fifty members to the President, the President must call a Special EGM within fifteen days from receiving that request.
+		2. Should the meeting be requested in writing by fifty members to the President, the President must call a Special EGM within fifteen days from receiving that request.
 
 6. Should it be required, by-elections for vacant posts on the Executive Committee or on Council can be sought.
 
@@ -158,7 +158,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 4. The structure of the Council shall be no smaller than eight and no larger than eighteen members. Job descriptions for each member are outlined in Schedule 4: Council and Executive Job Descriptions and Terms of Office.
 
-	1. PSU Executive Committee (Ten Members)
+	1. PSU Executive Committee (Ten Members) TODO: How is the ten counted?
 
 	2. Arts Humanities and Social Sciences Representative
 
@@ -186,7 +186,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	2. The PSU Council shall debate University activities which effect the postgraduate population.
 
-	3. The PSU Council by including Faculty Representatives, provides the Postgraduate Executive of details on the student experience of postgraduates, which can be represented back to the Faculty boards and fundamentally, the University structures with which they are interacting with.
+	3. The PSU Council, by including Faculty Representatives, provides the Postgraduate Executive of details on the student experiences of postgraduates, which can be represented back to the Faculty boards and fundamentally, the University structures with which they are interacting.
 
 8. The quorum for PSU Council shall be a simple majority of eligible council members. Each member has one vote and voting results are based on a simple majority of eligible voting council members. The Chair of Council shall have the casting vote where necessary.
 
@@ -222,7 +222,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	8. Chair of Council
 
-	9. Full time member of staff in an observing capacity
+	9. Full time member of staff in an observing capacity TODO: staff of what?
 
 2. The management of the PSU is invested in the Executive Committee consisting of the nine members listed above. Management of the Union consists of responsibilities including:
 
@@ -231,41 +231,41 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 		2. Executive functions focusing on decisions regarding day to day activity of the PSU and the President of the PSU.
 
-		3. Formulating responses and approaching University policy which affects the PSU’s Members (Postgraduate Student Body).
+		3. Formulating responses and approaching University policy which affects the postgraduate student body.
 
 	2. Holding the PSU President to account
 
-		1. Ensuring accountability and transparency through debate on policy and actions
+		1. Ensuring accountability and transparency through debate on policy and actions.
 
-		2. Ensuring correct responses to issues arising for the PSU
+		2. Ensuring correct responses to issues arising for the PSU.
 
 	3. Ongoing financial oversight
 
-		1. Continued focus on Budget expenses to be part of Meetings
+		1. Continued focus on Budget expenses to be part of meetings.
 
 3. The Executive Committee must fulfil its function and remit paying heed to this Constitution.
 
 4. The Executive is required to meet a minimum of six times a semester. This does not limit the number of meetings to only six but is a requisite of the executive’s procedural operations.
 
-5. All members of the Executive Committee are required to attend all Executive Committee Meetings and perform duties as per Constitution.
+5. All members of the Executive Committee are required to attend all Executive Committee Meetings and perform duties as per the Constitution.
 
-6. Absence from more than two consecutive meetings without apologies by an executive officer shall be deemed a submission of and automatic acceptance of resignation.
+6. Absence from more than two consecutive meetings without apologies by an executive officer shall be deemed a submission of, and automatic acceptance of resignation.
 
-7. Quorum for Executive Committee Meetings is 50% of officers.
+7. Quorum for Executive Committee Meetings is half of all officers. TODO: which officers? Where is officer defined?
 
 8. No Executive Committee Member shall hold a simultaneous position on the Committee.
 
-9. No person shall hold the same Officer’s position for more than two terms.
+9. No person shall hold the same Officer’s position for more than two terms. TODO: what's a term?
 
 10. PSU Officers shall not serve as Officers of other University of Limerick Student Representative bodies unless it is in fulfilment of their role on the PSU Executive.
 
-11. The position of PSU President is a full time sabbatical position of the PSU. (The position of Vice President- Treasurer is a part time position of the PSU). The President (and Vice-President/Treasurer) shall not be eligible to stand for and serve more than two sabbatical terms of office. The President (and Vice-President/Treasurer) shall be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage/ reimbursement/ bonuses/allowance or any possible payment other than the allowance agreed by council. The PSU President (and Vice-President/Treasurer) positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
+11. The position of PSU President is a full time sabbatical position of the PSU. The position of Vice President- Treasurer is a part time position of the PSU. Neither the President, nor the Vice-President/Treasurer shall be eligible to stand for and serve more than two sabbatical terms of office. The President and Vice-President/Treasurer shall each be paid an allowance determined by PSU Council and reviewed by general meeting annually. The post holders will not receive any other wage or reimbursement or bonuses or allowance or any possible payment other than the allowance agreed by council. The PSU President and Vice-President/Treasurer positions are elected officers of the PSU and are not employees of the PSU. They will be required to sign and abide by an agreement of office.
 
 ## Article 9: Class Representatives
 
 1. All Postgraduate Class Representatives are members of the Class Representative Forum Facilitated by ULSU. The PSU President will address postgraduate issues in this forum.
 
-2. This body shall be known as the Class Representative Forum. Class Representatives Forum shall be a forum to open the channel of communication between department representatives and the Class Representatives within their respective departments.
+2. This body shall be known as the Class Representative Forum. Class Representatives Forum shall be a forum to open the channel of communication between Department Representatives and the Class Representatives within their respective departments.
 
 3. Class Representatives Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
@@ -275,9 +275,9 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 6. Postgraduate class representatives are welcomed to the training that is provided by ULSU on agreement with the ULSU.
 
-7. There will be two Class Representatives forums per semester but at a least at a minimum the forum shall be called at least once per semester by the Vice President Academic.
+7. There will be two Class Representatives forums per semester but at a minimum the forum shall be called at least once per semester by the Vice President Academic.
 
-8. Class Representatives are bound by the class rep code of conduct which is held by Vice President Academic and approved by the Student Council.
+8. Class Representatives are bound by the Class Representatives code of conduct which is held by Vice President Academic and approved by the Student Council.
 
 ## Article 10: Electoral and Referenda Board
 
