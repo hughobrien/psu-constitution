@@ -104,7 +104,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	2. A petition of at least eighty students who are members is signed by the individual students.
 
-3. The returning officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the returning officer. The polling stations shall be open for twenty-eight hours, at least ten of which shall include a manned polling station on campus.
+3. The Returning Officer shall be responsible for deciding the wording of the question on the referendum ballot paper. The referendum shall be supervised by the Returning Officer. The polling stations shall be open for twenty-eight hours, at least ten of which shall include a manned polling station on campus.
 
 4. The rules and regulations for the referendum shall be outlined in Schedule 2: Election Regulations, of the Constitution and not be in conflict with the aims and objectives of the PSU.
 
@@ -224,7 +224,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	9. Full time member of staff in an observing capacity TODO: staff of what?
 
-2. The management of the PSU is invested in the Executive Committee consisting of the nine members listed above. Management of the Union consists of responsibilities including:
+2. The management of the PSU is invested in the Executive Committee consisting of the nine members listed above. Management of the PSU consists of responsibilities including:
 
 	1. Decision Making
 		1. Reserve functions where long term policy is prime.
@@ -269,7 +269,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. Class Representatives Forum shall consist of the Vice President Academic, Student Council Chairperson, Department Representatives, and all Class Representatives.
 
-4. Class Representatives shall be directly elected by the members of the union in their constituency as outlined in Schedule 5: Representatives. TODO: Find Schedule 5.
+4. Class Representatives shall be directly elected by the members of the PSU in their constituency as outlined in Schedule 5: Representatives. TODO: Find Schedule 5.
 
 5. All Union members shall have participant status at Class Representatives Forum but can be asked to leave at the request of the Chairperson. Class Representatives Forum may grant Participant or Observer status on any other person as deemed appropriate.
 
@@ -329,7 +329,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 1. The PSU recognises the University of Limerick Students' Union (ULSU) as the representative body for all students in the University. The PSU is recognised by the ULSU as fully autonomous and as the representative body for all postgraduate students in the University on all postgraduate issues.
 
-2. There shall be a PSU Executive Nominee on the ULSU Executive and ULSU Council. A representative of the Union shall be a member of the PSU Executive and PSU Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity.
+2. There shall be a PSU Executive Nominee on the ULSU Executive and ULSU Council. A representative of the Union shall be a member of the PSU Executive and PSU Council. In addition, in accordance with the MoU, a position of participant status for a full time member of the ULSU senior staff shall be created on the PSU Executive in order to ensure continuity. TODO: which union is 'the union'?
 
 3. The MoU in Schedule 6: Memorandum of Understanding, describes the working relationship and financial agreement between the PSU and ULSU. Any amendments to the MoU have to be approved by Student Council, PSU Council and in the case of amendments relating to Clubs and Societies, Article 11: Clubs and Societies, stipulates the amendments needs to be presented to C&S Council.
 
@@ -423,11 +423,11 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 3. The PSU Executive Nominees, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University Committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
 
-4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this Constitution.
+4. The regulations for a ballot to remove a member of the executive from office shall be determined by the Returning Officer, within the limits of this Constitution.
 
 ## Article 17: Interpretation
 
-1. In the event of a challenge to any part of this Constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of the Council they may put forward a motion to general meeting.
+1. In the event of a challenge to any part of this Constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the PSU remains unsatisfied with the ruling of the Council they may put forward a motion to general meeting.
 
 ## Article 18: Definitions
 
@@ -447,7 +447,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 8. Council – as defined in Article 7: PSU Council
 
-9. Directly Elected – a union position elected from the entire student population
+9. Directly Elected – a Union position elected from the entire student population
 
 10. Executive – as defined in Article 8: Executive
 
@@ -457,7 +457,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 13. Observer Status – shall have rights to attend and observe without communication
 
-14. Policy- a course of action or guiding principle intended to determine the union’s opinion on a matter.
+14. Policy- a course of action or guiding principle intended to determine the Union’s opinion on a matter.
 
 15. Participant Status – shall have rights to attend and speak
 
@@ -481,53 +481,53 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. Only full members on the date of polling shall be entitled to stand for election to the position of President.
 
-3. Members running for election to the Executive must be full members of the Union on the date of election
+3. Members running for election to the Executive must be full members of the Union on the date of election.
 
 4. The Executive reserves the right to verify postgraduate status at the University before continuing representation of any individual.
 
 ## Schedule 2: Election Regulations
 
-This Schedule outlines what to do for all referenda and elections and for all positions in the union. It also outlines the procedures to follow if a vacancy occurs in any position.
+This Schedule outlines what to do for all referenda and elections and for all positions in the Union. It also outlines the procedures to follow if a vacancy occurs in any position.
 
 ### Returning Officer
 
-1. The returning officer, who shall not be a full member of the union, shall be appointed annually by the ULSU Executive. The returning officer shall be responsible for the good conduct and administration of all union elections including the PSU elections for the sabbatical position of President and shall have the sole interpretation of the election regulations. They shall not be a full member of the union. The returning officer may appoint a deputy and assistants to support them in their duties.
+1. The Returning Officer, who shall not be a full member of the Union, shall be appointed annually by the ULSU Executive. The Returning Officer shall be responsible for the good conduct and administration of all Union elections including the PSU elections for the sabbatical position of President and shall have the sole interpretation of the election regulations. The Returning Officer may appoint a deputy and assistants to support them in their duties. TODO: which Union?
 
 2. The Returning Officer shall:
 
-	1. Co-ordinate all aspects of the election or referendum
+	1. Co-ordinate all aspects of the election or referendum.
 
-	2. Be responsible for the hiring and coordination of all election or referendum staff
+	2. Be responsible for the hiring and coordination of all election or referendum staff.
 
-	3. Coordinate the election according to the election rules and regulations set down by the Electoral and Referendum Board
+	3. Coordinate the election according to the election rules and regulations set down by the ERB.
 
-	4. Oversee the count and announce the official results of the elections Electoral and Referenda Board
+	4. Oversee the count and announce the official results of the elections ERB.
 
-3. Under Article 10: Electoral and Referenda Board, there shall be an Electoral and Referenda Board to liaise with the returning officer in the running of Elections and Referenda of the Union.
+3. Under Article 10: Electoral and Referenda Board, there shall be an ERB to liaise with the Returning Officer in the running of Elections and Referenda of the Union.
 
 4. The membership of the Electoral and Referenda Board shall be:
 
 	1. One nominee of Student Council
 
-	2. One nominee of Clubs and Societies Council
+	2. One nominee of C&S Council
 
-	3. One nominee of Postgraduate Students’ Union
+	3. One nominee of the PSU
 
 	4. One nominee of ULSU Executive
 
-	5. One Sabbatical Officer not seeking re-election (should no Sabbatical Officer qualify, ULSU council shall nominate a second representative for membership of the Board.
+	5. One Sabbatical Officer not seeking re-election. In the event that no Sabbatical Officer should qualify, ULSU council shall nominate a second representative for membership of the Board.
 
-5. No member of the Electoral and Referenda Board may be seeking or involved in the election or referendum for which it has been established. The Electoral and Referenda Board shall, from its number, select a chair. The Returning Officer shall have participant status on the Electoral and Referenda Board.
+5. No member of the ERB may be seeking or involved in the election or referendum for which it has been established. The ERB shall, from its number, select a chair. The Returning Officer shall have participant status on the ERB.
 
-6. The Electoral and Referenda Board shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
+6. The ERB shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
 
-7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board may, at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
+7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the ERB may, at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
-8. For the result of a referendum to be valid, at least fifteen per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect.
+8. For the result of a referendum to be valid, at least fifteen per cent of Union members shall vote and these votes shall be proved to be valid. All motions shall be passed by a qualified majority of the valid poll in order for them to be valid. Except for referenda in cases of the removal of officers then Article 16: Removal of an Officer, takes effect. TODO: qualified majority, any other instances?, also tidy the rest of this.
 
-9. The motion to be put in a referendum shall be worded by the returning officer and shall be checked by PSU Council and may be altered if it is considered ambiguous, so long as the intention of the original motion is not changed.
+9. The motion to be put in a referendum shall be worded by the Returning Officer and shall be checked by PSU Council and may be altered if it is considered ambiguous, so long as the intention of the original motion is not changed.
 
-10. At least five days’ notice of a referendum shall be given. The referendum wording is to be posted at least five days before the referendum. A referendum shall be held not less than two and not more than four teaching weeks after it has been called. All referenda will be carried out by electronic voting. The union shall advertise the upcoming referendum. Referenda shall be restricted to one per topic per academic year.
+10. At least five days’ notice of a referendum shall be given. The referendum wording is to be posted at least five days before the referendum. A referendum shall be held not less than two and not more than four teaching weeks after it has been called. All referenda will be carried out by electronic voting. The union shall advertise the upcoming referendum. Referenda shall be restricted to one per topic per academic year. TODO: tidy this
 
 11. President and Vice-President/Treasurer elections take place no later than Week 5 in Semester 2 of the academic year.
 
@@ -555,7 +555,7 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 	9. Chair of Council
 
-	10. Full time member of staff in an observing capacity
+	10. Full time member of staff in an observing capacity TODO: is this duplicating the exec article?
 
 15. All members of the Union are eligible to stand for any of the following executive positions:
 
@@ -571,69 +571,67 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 	6. Chair of Council
 
-16. Reopen nominations (RON) shall be a candidate in all union elections when the electronic voting system allows for this option to run effectively.
+16. 'Reopen Nominations' shall be a candidate in all union elections.
 
-17. Clubs and Societies Officers are elected by Clubs and Societies Council as outlined in Article 12: Clubs and Societies. The Students’ Union Executive Representative is nominated by the ULSU Executive and the Mary Immaculate Council Representative shall be nominated by the Mary Immaculate.
+17. Clubs and Societies Officers are elected by C&S Council as outlined in Article 12: Clubs and Societies. The Students’ Union Executive Representative is nominated by the ULSU Executive and the Mary Immaculate Council Representative shall be nominated by Mary Immaculate.
 
 18. The members of the PSU council shall be:
 
-	1. An elected representative from each Faculty of each faculty in the University which will be called the Faculty Representatives
+	1. An elected representative from each Faculty of each faculty in the University which will be called the Faculty Representatives.
 
 	2. A PhD Representative
 
 	3. An International Representative
 
-4. A Graduate Entry Medical School Representative
+	4. A Graduate Entry Medical School Representative
 
-19. Nomination forms for the position of President (and Vice-President/Treasurer) will be available from the President and the main Students Union Reception on Monday at 21:00 of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU.
+19. Nomination forms for the positions of President and Vice-President/Treasurer will be available from the President and the main Students Union Reception on Monday at 21:00 of the first of two nominations weeks, two weeks prior to Election week in Semester 2. Candidates for these posts shall be proposed and seconded by the signatures of twenty members of the PSU. TODO: which union?
 
-20. The nomination forms shall contain the election rules and regulations set down by the Electoral and Referendum Board, a copy of the Job descriptions for each position in the election should be available from the website which shall also contain information on the facilities the union will make available to each candidate.
+20. The nomination forms shall contain the election rules and regulations set down by the ERB, a copy of the job descriptions for each position in the election, and information on the facilities the union will make available to each candidate.
 
 21. The official nomination forms shall contain, as well as the required number of proposers and seconders, the candidate's name as registered with the University, ID number, Course, and the name of the candidate's campaign manager.
 
-22. A member may not propose more than one candidate to the same position for a given election. A nominated candidate cannot nominate anyone to the same position that he/she is running for.
+22. A member may not propose more than one candidate to the same position for a given election. A nominated candidate cannot nominate anyone to the same position that they are running for.
 
-23. Nomination forms must reach the returning officer or a person appointed by him/her not later than 17:00 on the close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President (and Vice-President/Treasurer) shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
+23. Nomination forms must reach the Returning Officer or a person appointed by them not later than 17:00 on the day of close of nominations. The nomination period for the PSU elections shall be open for two weeks. The election week for the election of President and Vice-President/Treasurer shall open in during a teaching week no later than Week 5 in Semester 2 with the Election Day taking place on the fourth University day after the close of nominations.
 
-24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open. TODO: What's RODM?
+24. Should no nomination forms be returned by close of nominations, an Election Convention consisting of the PSU executive, the Returning Officer and the RODM Officer of ULSU shall be held during the week following close of nominations. The purpose of this meeting and convention is to decide on the date at which nominations will re-open. TODO: What's RODM?
 
-25. The returning officer shall ensure the dates of elections for executive members, a copy of the election timetable and a copy of the election rules and regulations, job descriptions etc. shall be posted on the union website and social media outlets.
+25. The Returning Officer shall ensure the dates of elections for executive members, a copy of the election timetable and a copy of the election rules and regulations, job descriptions etc. shall be posted on the union website and other outlets.
 
-26. The returning officer shall produce a list of candidates (together with the proposers and seconders) which shall be displayed on the union notice-boards within 48 hours of the close of nominations.
+26. The Returning Officer shall produce a list of candidates together with the proposers and seconders which shall be displayed on the union notice-boards within forty-eight hours of the close of nominations.
 
-27. The ERB can run a campaign to promote voting on the day and the existence of the election in general.
+27. The ERB may run a campaign to promote voting on the day and the existence of the election in general.
 
-28. The canvassing and campaigning rules and regulations shall be contained in the election rules and regulations set down by the Electoral and Referendum Board.
+28. The canvassing and campaigning rules and regulations shall be contained in the election rules and regulations set down by the ERB.
 
 29. Election candidates may commence campaigning at the close of nominations.
 
-30. Where an election is in progress under this Constitution, the Returning Officer under the direction of the Electoral and Referenda Board, may at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
+30. Where an election is in progress under this Constitution, the Returning Officer under the direction of the ERB, may at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
-31. No canvassing shall take place on polling day within a 10-metre radius of any polling station.
+31. No canvassing shall take place on polling day within a ten metre radius of any polling station.
 
-32. Nothing shall be published unless it is accompanied by the clear insertion "Issued By 'Name of Campaign Manager', Campaign Manager for 'Name of Candidate'", so it is clearly identifiable from where the material is coming.
+32. All computer labs on campus and off will be considered polling stations.
 
-33. The Returning Officer shall, where possible, make it public knowledge where any defamatory material is coming from.
+33. No materials shall be published unless accompanied by the clear declaration "Issued By 'Name of Campaign Manager', Campaign Manager for 'Name of Candidate'".
 
-34. All election material shall be approved by the Returning Officer under the guidelines laid out by the Electoral and Referenda Board before it can be distributed on campus.
+34. The Returning Officer shall, where possible, make it public knowledge where any defamatory material is coming from.
 
-35. The Union shall provide limited electoral assistance to each candidate as agreed by the Executive. It is an offence for any candidate to be in receipt of sponsorship, gifts or a benefit-in- kind from vested commercial, political or outside interests.
+35. All election material shall be approved by the Returning Officer under the guidelines laid out by the ERB before it can be distributed on campus.
 
-36. If the candidate is found to have breached the provisions of this Constitution, she/he shall be disqualified immediately by the Returning Officer on the order of the Electoral and Referenda Board.
+36. The Union shall provide limited electoral assistance to each candidate as agreed by the Executive. It is an offence for any candidate to be in receipt of sponsorship, gifts or a benefit-in-kind from vested commercial, political or outside interests.
 
-37. The public debates with or between candidates or interested parties in an election or referendum held by the Union shall be called ‘Hustings’ and shall be convened by the Electoral and Referenda Board, subject to the direction of the Returning Officer, and shall be chaired by
-his/her nominee. Arrangements for the Hustings set down by the Electoral and Referendum
-Board and the below standing orders will be followed for the hustings:
+37. If the candidate is found to have breached the provisions of this Constitution, they shall be disqualified immediately by the Returning Officer on the order of the ERB.
 
-38. Standing Orders – Hustings:
+38. The public debates with or between candidates or interested parties in an election or referendum held by the Union shall be called 'Hustings' and shall be convened by the ERB, subject to the direction of the Returning Officer, and shall be chaired by his/her nominee. Arrangements for the Hustings set down by the ERB and the below standing orders will be followed for the hustings:
 
-	1. The candidates for each position shall hust in the order of the count (in descending order of authority bottom up and alphabetical)
+	1. The candidates for each position shall 'hust' in the order of the count (in descending order of authority bottom up and alphabetical) TODO: simplify
 
-	2. Candidates shall have equal time for their main speech and no less than a third of that time for summing up.
+	2. Candidates shall have equal time for their main speech and no less than a third of that time for summing up. TODO: rephrase
 
-	3. Order of speeches shall be alphabetical save for the summing up which will be in reverse order.
+	3. Order of speeches shall be alphabetical save for the summing up which will be in reverse order. TODO: rephrase
 
-	4. Questions from the floor must be addresses to all candidates for a particular position.
+	4. Questions from the floor must be addressed to all candidates for a particular position.
 
 	5. Candidates shall answer questions alternately, with a different candidate having to answer first each time.
 
@@ -641,21 +639,21 @@ Board and the below standing orders will be followed for the hustings:
 
 	7. Parliamentary language shall be observed throughout the hustings.
 
-39. Any challenge or complaint concerning the administration and good conduct of the election will be heard and determined by the Electoral and Referendum Board within 48 hours of such a complaint being lodged by any full member or the candidate or their nominee. Any complaint against the conduct or administration of the election should be received by the returning officer before the start of the count.
+39. Any challenge or complaint concerning the administration and good conduct of the election will be heard and determined by the ERB within forty-eight hours of such a complaint being lodged by any full member or the candidate or their nominee. Any complaint against the conduct or administration of the election should be received by the Returning Officer before the start of the count.
 
-40. The Electoral and Referenda Board shall have the power to discipline or disqualify any member of the Union who:
+40. The ERB shall have the power to discipline or disqualify any member of the Union who:
 
-	1. Breaks the election or referendum regulations
+	1. Breaks the election or referendum regulations.
 
-	2. Obstructs members of the Electoral and Referenda Board in furtherance of their duties
+	2. Obstructs members of the ERB in furtherance of their duties.
 
-	3. Disobeys a legitimate instruction from the Electoral and Referenda Board
+	3. Disobeys a legitimate instruction from the ERB.
 
-	4. Obstructs a candidate or a candidate’s agent or members of a referendum campaign in their campaigning for an election or referendum
+	4. Obstructs a candidate or a candidate’s agent or members of a referendum campaign in their campaigning for an election or referendum.
 
-	5. Publishes defamatory material
+	5. Publishes defamatory material.
 
-41. Disciplinary powers of the Electoral and Referenda Board shall be:
+41. Disciplinary powers of the ERB shall be:
 
 	1. Public reprimand
 
@@ -665,49 +663,43 @@ Board and the below standing orders will be followed for the hustings:
 
 	4. Disqualification from the election
 
-	5. Appeals may be made against disciplinary actions of the Electoral and Referenda Board to the disciplinary board. TODO: there was mention of an appendix.
+	5. Appeals may be made against disciplinary actions of the ERB to the disciplinary board. TODO: there was mention of an appendix.
 
-42. All decisions regarding enforcement of regulations, bye laws and spoiled votes shall be binding on all parties and shall be made by the Returning Officer under the direction of the Electoral and Referenda Board after consultation with the campaign manager(s) concerned.
+42. All decisions regarding enforcement of regulations, by-laws and spoiled votes shall be binding on all parties and shall be made by the Returning Officer under the direction of the ERB after consultation with any campaign manager concerned.
 
 43. All elections shall be by a secret ballot and by the system of proportional representation by single transferable vote as governed by the Oireachtas for Dáil elections.
 
-44. For a paper election: a voting paper will be issued to each voter, which shall bear the union stamp and votes will be cast in sealed ballot boxes. Ballot papers shall bear the name of each candidate and the office being contested. There will be a facility for reopening nominations.
+44. The ERB will decide if there is a need for an electronic or paper ballot.
 
-45. For an electronic election: an electronic ballot will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The electronic ballot should, at least bear the name of each candidate and the office being contested, the candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the Electoral and Referendum Board. There will be a facility for reopening nominations.
+45. For a paper election: a voting paper will be issued to each voter, which shall bear the union stamp and votes will be cast in sealed ballot boxes. Ballot papers shall bear the name of each candidate and the office being contested. There will be a facility for reopening nominations.
 
-46. The Electoral and Referendum Board will decide if there is a need for an electronic or paper ballot.
+46. For an electronic election: an electronic ballot will be issued to each voter. The election site shall be considered verification by the union of the ballot paper in the absence of the Union stamp. Votes will be cast by the voter and electronically added to the count. The electronic ballot shall bear the name of each candidate and the office being contested. The candidate will have the provision to submit additional election material as outlined in the rules and regulations set down by the ERB. There shall be a facility for reopening nominations.
 
 47. Polling stations shall be situated in areas giving greatest convenience to members and shall open between 07:00 and 11:00 and shall close between 19:00 and 21:00, having remained open for a duration of at least ten hours.
 
-48. The location of the polling stations shall be decided by the Electoral and Referenda Board and be published by the Returning Officer in advance of Polling Day.
+48. The location of the polling stations shall be decided by the ERB and be published by the Returning Officer in advance of Polling Day.
 
-49. No other polling station can be opened other than those authorised by the Electoral and Referenda Board.
+49. No other polling station can be opened other than those authorised by the ERB.
 
-50. In any paper election, voters shall produce a University ID Card before being allowed to vote. Only a University ID Card or a letter from the University Administration confirming student status shall be accepted as authentication of a student’s ID number.
+50. In any paper election, voters shall produce a University ID Card before being allowed to vote. Only a University ID Card or a letter from the University Administration confirming student status shall be accepted as authentication of a student's ID number.
 
-51. Electronic Polling will follow the same polling principles as a paper election, in so far as possible.
+51. The electronic electorate will be based on the registered students in the University of Limerick database held and updated by the IT Department and Student Academic Affairs. Only students who have registered will be in the database on the day of polling.
 
-52. All computer labs on campus and off will be considered polling stations.
+52. The counting of votes shall take place immediately after the closing of the polling stations.
 
-53. The electronic electorate will be based on the registered students in the University of Limerick database held and updated by the IT Department and Student Academic Affairs. Only students who have registered will be in the database on the day of polling.
+53. The only people allowed within the designated area of the count shall be the Returning Officer, the ERB, their staff, plus the campaign managers for each of the declared candidates for that particular count.
 
-54. The counting of votes shall take place immediately after the closing of the polling stations.
+54. The counting procedures shall be in accordance with the procedures for elections to Dáil Éireann as governed by the Oireachtas: ascertaining total poll, valid poll, and quotas for each position.
 
-55. The only people allowed within the designated area of the count shall be the Returning Officer, the Electoral and Referenda Board, their staff, plus the campaign managers for each of the declared candidates for that particular count.
+55. The official results being declared by the Returning Officer after each count.
 
-56. The counting procedures shall be in accordance with the procedures for elections to Dáil Éireann as governed by the Oireachtas: ascertaining total poll, valid poll, and quotas for each position.
+56. Campaign Managers have the sole right to call a recount on behalf of their candidate up to six hours after the result of the count has been announced.
 
-57. The official results being declared by the Returning Officer after each count.
+57. The Returning Officer alone shall make the decision as to when the recount shall take place. A recount shall take place within one University day of the official results being declared for a paper ballot.
 
-58. Campaign Managers have the sole right to call a recount on behalf of their candidate up to six hours after the result of the count has been announced.
+58. In the case of an electronic ballot the recount facility is more time consuming and therefore the recount shall take place within four University days.
 
-59. The Returning Officer alone shall make the decision as to when the recount shall take place. A recount shall take place within one University day of the official results being declared for a paper ballot.
-
-60. A space adjacent to the designated area of the count shall be reserved for tally persons.
-
-61. With an electronic election count there is no count and the results are immediate.
-
-62. In the case of an electronic ballot the recount facility is more time consuming and therefore the recount shall take place within four University days.
+59. A space adjacent to the designated area of the count shall be reserved for tally persons.
 
 ## Schedule 3: Meeting Regulations
 
