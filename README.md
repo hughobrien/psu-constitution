@@ -241,7 +241,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	3. Ongoing financial oversight
 
-		1. Continued focus on Budget expenses to be part of meetings.
+		1. Continued focus on budget expenses to be part of meetings.
 
 3. The Executive Committee must fulfil its function and remit paying heed to this Constitution.
 
@@ -357,7 +357,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 7. In order to maintain accountability and transparency, all purchases deemed significant in value, the determination of which is at the discretion of the Executive, should be subject to agreement by the PSU Executive.
 
-8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the Budget.
+8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the budget.
 
 9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President/Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
 
@@ -367,7 +367,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 12. It is the responsibility of the President and the Vice-President/Treasurer to ensure that the end of year accounts is subject to external scrutiny. Therefore, an external accountant must be utilised to prepare the accounts for presentation at the AGM of the following year.
 
-13. The President should provide the external accountant with all relevant financial material before the financial year end of the 31st of May.
+13. The President should provide the external accountant with all relevant financial material before the financial year end of the 31st of May. TODO: different dates for FY END.
 
 14. Those with a key role and oversight in the PSU finances are:
 
@@ -385,7 +385,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 	2. PSU Council
 
-	3. Clubs and Societies Council
+	3. C&S Council
 
 16. Additionally, audited accounts must be presented to
 
@@ -397,38 +397,37 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 2. A copy of the Constitution, including any amendments, a copy of the annual report and any plans for the PSU’s activities, including the budget, shall be made available to all students at the start of each academic year.
 
-3. All meeting materials of the PSU meeting shall be considered open to all members of the PSU. However, the members of the meeting may vote to hold a specific meeting or an item of a meeting as a closed session.
+3. All meeting materials of the PSU meetings shall be considered open to all members of the PSU. However, the members of the meeting may vote to hold a specific meeting or an item of a meeting as a closed session.
 
 4. The regulations for the organisation of PSU meetings shall be outlined in Schedule 3: Meeting Regulations.
 
 ## Article 15: Amendments
 
-1. Alterations to the Articles of this Constitution must be decided at an Annual General Meeting or an Extra-ordinary General Meeting.
+1. Alterations to the Articles of this Constitution must be decided at an AGM or an EGM.
 
-2. Approval of two thirds of members present and voting at an AGM or EGM is required for Change.
+2. Approval of two thirds of members present and voting at an AGM or EGM is required for change. TODO: Quorum?
 
-3. Constitutional amendments come into effect the day after the Annual General Meeting or Extra-ordinary General Meeting at which it is passed.
+3. Constitutional amendments come into effect the day after the AGM or EGM at which it is passed.
 
 4. PSU Council can amend the Schedules of this Constitution.
 
-5. Approval of two thirds of eligible voting members present at the council meeting is required for
-change
+5. Approval of two thirds of eligible voting members present at the council meeting is required for change. TODO: match against above language.
 
-6. The Constitution shall be reviewed by the union at least every three years from the date of ratification of the Constitution and approved by the PSU Council. A special Constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from Clubs and Societies and ULSU.
+6. The Constitution shall be reviewed by the PSU at least every three years from the date of ratification of the Constitution and approved by the PSU Council. A special Constitutional review committee will be set up by PSU council in order to complete the review and shall have representatives from Clubs and Societies and ULSU.
 
 ## Article 16: Removal of an Officer
 
-1. Every directly elected Executive Officer or Council members shall be liable to be removed from office on a proposal to that effect approved by a Referendum held in accordance with Schedule 2: Election Regulations. Where such a proposal is approved it shall take effect upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be 50% of the total valid poll in the previous election of the position. Where such a proposal is approved, s/he will be deemed to have resigned and may not stand for re-election in any subsequent election.
+1. Every directly elected Executive Officer or Council members shall be liable to be removed from office on a proposal to that effect approved by a Referendum held in accordance with Schedule 2: Election Regulations. Where such a proposal is approved it shall take effect upon the declaration of the Returning Officer. A quorum for the removal of an officer shall be half of the total valid poll in the previous election of the position. Where such a proposal is approved, the officer will be deemed to have resigned and may not stand for re-election in any subsequent election.
 
 2. The indirectly elected executive officers and council members shall be liable to be removed from office on a proposal to that effect to PSU Council approved by their constituencies and Schedule 1: Election Regulations, of the Constitution.
 
-3. The PSU Executive Nominee, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
+3. The PSU Executive Nominees, as affiliates, shall not be deemed resigned by the PSU. They can be excluded from representing postgraduate students on PSU and University committees. The PSU could then seek the PSU Executive to nominate a replacement representative.
 
 4. The regulations for a ballot to remove a member of the executive from office shall be determined by the returning officer, within the limits of this Constitution.
 
 ## Article 17: Interpretation
 
-1. In the event of a challenge to any part of this Constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of union council they put forward a motion to general meeting.
+1. In the event of a challenge to any part of this Constitution it shall be the role of the President to interpret the Constitution. Any member of the PSU who is dissatisfied with the President’s ruling may, by notice in writing delivered within two weeks of the President’s ruling, appeal to the PSU Council. If a member of the union remains unsatisfied with the ruling of the Council they may put forward a motion to general meeting.
 
 ## Article 18: Definitions
 
@@ -946,7 +945,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 ### Terms of Office
 
-1. President: the term of office of the president shall be from the first of June to the first of June of the following year. A week of handover is accounted for from the first of June.
+1. President: the term of office of the president shall be from the 1st of June to the 1st of June of the following year. A week of handover is accounted for from the 1st of June.
 
 2. Other Executive Officers: the other Executive Officers shall hold office from the end of the Annual
 General Meeting of their election to the end of the Following AGM.
@@ -1016,7 +1015,7 @@ In order to ensure clear communication and efficient representation on behalf of
 
 	2. The wages of the PSU President shall come directly from the postgraduate Student Capitation
 
-	3. Once the Presidents wages have been deducted, the PSU will make a two-thirds contribution from postgraduate student capitation to UL Clubs and Societies. This will be made in two instalments; one in November and one in March.
+	3. Once the Presidents wages have been deducted, the PSU will make a two-thirds contribution from postgraduate student capitation to UL Clubs and Societies. This will be made in two instalments; one in November and one in March. TODO: different dates for FY END.
 
 	4. Once the Presidents wages and the Clubs and Societies Contribution have been deducted, the PSU will make a financial contribution of a flat rate of 9,800€ to the ULSU for the services and support to be paid in Semester 1.
 
