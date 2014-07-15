@@ -717,15 +717,15 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 6. The Agenda must be published at least five working days before the meeting date and be generally available.
 
-7. Amendments to the published agenda must be received by the President no later than three working days before the meeting, and published at least One working day before the meeting.
+7. Amendments to the published agenda must be received by the President no later than three working days before the meeting, and published at least one working day before the meeting.
 
 8. Quorum shall be required to carry any motions put forward.
 
-9. Quorum shall be Thirty full members.
+9. Quorum shall be thirty full members.
 
 10. The meeting shall elect the Executive Officers.
 
-11. The incumbent Executive shall pass over annual reports to newly elected Executive Officer.
+11. The incumbent Executive shall pass over annual reports to newly elected Executive Officers.
 
 ### Council
 
@@ -749,13 +749,13 @@ This Schedule outlines what to do for all referenda and elections and for all po
 	8. Officers' Reports and Questions to officers
 	9. Any Other Business
 
-6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members (excluding the executive). All motions shall include a reference to the relevant Article in the Constitution.
+6. A motion will have to be put on the agenda from any council members. The motion has to be submitted in writing to the vice president five days before the council meeting in order for it to be put on the agenda. The motion has to be proposed and seconded by two council members, opened to the floor for discussion and the votes will be cast by all council members, excluding the executive. All motions shall include a reference to the relevant Article in the Constitution. TODO: VP/T?
 
 7. A motion shall be deemed to be carried when a majority of council members present vote in its favour in a quorate Council.
 
-8. At least three University days’ notice shall be given by the vice president academic for all council meetings.
+8. At least three University days’ notice shall be given by the vice president academic for all council meetings. TODO: which VP?
 
-9. An Emergency Council Meeting may be called by the president; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic.
+9. An Emergency Council Meeting may be called by the President; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic.
 
 10. The Executive will act on behalf of the council when council members are not on campus.
 
@@ -765,7 +765,7 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 1. Executive shall meet at least six times per semester preferably on a bi-weekly basis. Further meetings may be called by a written request of a majority of Executive members to the president.
 
-2. All members of Executive excluding the full time ULSU Staff member who sits with participant status can vote
+2. All members of Executive excluding the full time ULSU Staff member who sits with participant status can vote.
 
 3. All decisions made by the Executive must be voted on and the number of votes cast for and against and abstinent votes shall be noted in the minutes. Executive members can only abstain from a decision if there is a conflict of interest. All nominations to committees must have a proposer and seconder. All decisions passed by the Executive shall specify the person who is to be responsible for their implementation.
 
@@ -782,8 +782,7 @@ This Schedule outlines what to do for all referenda and elections and for all po
 	3. Matters arising from the minutes
 	4. Any other business
 
-8. Other agenda items should be derived for events at council, updates from university committees or upcoming campaigns/ meetings of elections. Any member may request any item to the agenda and submit the item to the president that item must be discussed in full, provided that
-notice is given in advance of the meeting.
+8. Other agenda items should be derived for events at council, updates from university committees or upcoming campaigns or meetings of elections. Any member may request any item to the agenda and submit the item to the President that item must be discussed in full, provided that notice is given in advance of the meeting. 
 
 9. At least three University days' notice shall be provided to all Executive members before ordinary Executive meetings during semester, the set schedule and time for the meeting is considered notice. At least two hours’ notice shall be provided to all Executive members before extraordinary Executive Meetings during semester. At least seven days’ notice shall be provided to all Executive members before Executive meetings outside semester.
 
@@ -793,7 +792,7 @@ notice is given in advance of the meeting.
 
 It is requested that volunteering members of the Council and Executive dedicate three hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
 
-1. The President:
+1. The President shall:
 
 	1. Be the chief representative of postgraduates in the University.
 
@@ -803,17 +802,17 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	4. Represent the Union’s members on the University’s Governing Authority, Academic Council and other boards and committees of the University as required.
 
-	5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. He/She may, with the consent of the Executive Committee, form sub- committees, which may include any full members of the Union, for this purpose.
+	5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. They may, with the consent of the Executive Committee, form sub-committees, which may include any full members of the Union, for this purpose.
 
 	6. Train their replacement for a period of two weeks during the changeover.
 
 	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from their studies for the duration of their tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, their duties as President of the Union.
 
-2. The Vice-President/Treasurer:
+2. The Vice-President/Treasurer shall:
 
 	1. On the instruction of the President or in their absence the Executive, deputise for the President in all matters.
 
-	2. Co-ordinate the activities of Union representatives on Faculty Boards. He/She shall chair the Union Council and convene such meetings with the agreement of the executive.
+	2. Co-ordinate the activities of Union representatives on Faculty Boards. They shall chair the Union Council and convene such meetings with the agreement of the executive.
 
 	3. Act as the Union’s Secretary and shall hold overall responsibility for all the Union office records.
 
@@ -823,11 +822,11 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	6. Report regularly to the Executive Committee on the financial state of the Union and shall provide a written report of income and expenditure after each semester with the President.
 
-	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee.
+	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee. TODO: FY
 
-	8. Become a co signee on the Unions current account and cheques and be requested to approve purchases.
+	8. Become a co-signee on the Unions current account and cheques and be requested to approve purchases.
 
-3. The Events and Publicities Officer:
+3. The Events and Publicities Officer shall: TODO: Still a position?
 
 	1. Be responsible for publicising all meetings and all social events of the Union.
 
@@ -837,113 +836,114 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 	4. Promote good information flow within the organisation.
 
-	5. Responsible for the organisation and promotion of the events within the Union and of course the Union itself. The Events and PRO work in ensuring that in your time here at UL you experience a balance between your academic and social life.
+	5. Be responsible for the organisation and promotion of the events within the Union.
 
-	6. This officer will also help in maintaining our social network outlets; the website, Facebook and twitter.
+	6. Aid in maintaining information outlets such as online communication.
 
-	7. This officer will sit on the executive which meets once every two weeks.
+	7. Sit on the executive which meets once every two weeks.
 
-4. Faculties Officer:
+4. The Faculties Officer shall: TODO: still a position?
 
-	1. This position represents all faculties on the Executive and their own individual faculty on our Council.
+	1. Represent all faculties on the Executive and their own individual faculty on our Council.
 
-	2. They attend Executive meetings once every two weeks.
+	2. Attend Executive meetings once every two weeks.
 
-	3. They communicate to the exec the concerns and issues of their fellow faculty representatives.
+	3. Communicate to the Executive the concerns and issues of their fellow faculty representatives.
 
-	4. They have a vote at Exec on behalf of all the Faculties and on council on behalf of their own faculty.
+	4. Have a vote at Executive on behalf of all the Faculties and on council on behalf of their own faculty.
 
-5. Students Union Representative:
+5. The Students Union Representative:
 
-	1. Represents and communicates between the ULSU and PSU
+	1. Represents and communicates between the ULSU and PSU.
 
-	2. Has full voting rights on Executive on behalf of the greater student body
+	2. Has full voting rights on Executive on behalf of the greater student body.
 
-	3. The ULSU, through its representative on the PSU executive, shall endeavour to put forward the views of the ULSU so that fully informed decisions can be made by the PSU
+	3. Shall put forward the views of the ULSU so that fully informed decisions can be made by the PSU.
 
 6. The Clubs and Societies Officer:
 
-	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, Clubs and Societies Executive, ULSU Executive and report to both councils. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs and Societies Council is consulted.
+	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, C&S Executive,  ULSU Executive and report to each council. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs and Societies Council is consulted. TODO: dup paragraph
 
-7. Chairperson of Council:
+7. Chairperson of Council shall:
 
-	1. Chairing PSU Council
+	1. Chair PSU Council
 
-	2. Chairing General Meetings of the PSU Union
+	2. Chair General Meetings of the PSU Union
 
-	3. Responsible for calling Council meetings and forming the agenda with the input of other council and exec members
+	3. Be responsible for calling Council meetings and forming the agenda with the input of other council and exec members
 
-	4. Attending scheduled Executive meetings
+	4. Attend scheduled Executive meetings
 
-	5. Maintaining a close working relationship with the other Council members
+	5. Maintain a close working relationship with the other Council members
 
-	6. Working as part of the PSU Union team to ensure the effective democracy and engagement
+	6. Work as part of the PSU Union team to ensure the effective democracy and engagement
 
-8. The Faculty Representatives:
+8. The Faculty Representatives shall:
 
-	1. Faculty Representatives from each academic faculty shall be elected at the AGM.
+	1. Be elected from each academic faculty at the AGM.
 
-	2. Faculty representatives shall serve as post-graduate representatives on Faculty Boards as nominees of the Postgraduate Students’ Union.
+	2. Serve as post-graduate representatives on Faculty Boards as nominees of the Postgraduate Students’ Union.
 
-	3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which he/she was elected or appointed.
+	3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which they were elected or appointed.
 
-	4. The term of office of a Faculty representative is one calendar year.
+	4. Hold their term of office for one calendar year.
 
-	5. In the event of there being no Faculty Representative for a college, the President shall take on this role in addition to their normal duties.
+	5. Have their role subsumed by the President in the event of there being no Faculty Representative for a college.
 
-	6. They will sit on our council which meets four times a semester.
+	6. Sit on PSU Council which meets four times a semester.
 
-	7. They liaise with the President during the department hubs that take place during the semester.
+	7. Liaise with the President during the department hubs that take place during the semester. TODO: explain?
 
-	8. They will act as the closest point of contact for our Class Representatives, should any issues arise.
+	8. Act as the closest point of contact for our Class Representatives, should any issues arise.
 
-	9. One Faculty Rep will be elected as the Faculties Officer on the PSU Executive.
+	9. Have one Faculty Representative be elected as the Faculties Officer on the PSU Executive.
 
-9. Graduate Entry School Representative:
+9. Graduate Entry School Representative shall:
 
-	1. Develop forums to get feedback from students for their particular area
+	1. Develop forums to get feedback from students for their particular area.
 
-	2. Attends and participates at PSU Council and relevant council sub-committee meetings
+	2. Attends and participates at PSU Council and relevant council sub-committee meetings.
 
-	3. Research and promote initiatives within UL and outside of UL that could benefit UL Students
+	3. Research and promote initiatives within UL and outside of UL that could benefit UL Students.
 
-	4. Liaise with and meet regularly with the President to communicate arising issues within the Graduate Entry Medical School or Graduate Entry Law classes
+	4. Liaise with and meet regularly with the President to communicate arising issues within the Graduate Entry Medical School or Graduate Entry Law classes.
 
-10. International Officer:
+10. International Officer shall:
 
-	1. This person will sit on our council which meets four times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgraduates here on campus.
+	1. Sit on our council which meets four times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgraduates here on campus.
 
-	2. They will provide support for our international students.
+	2. Provide support for our international students.
 
-	3. They will also communicate with the International Office and Anne O'Dwyer in the Graduate school in order to ensure all international postgraduate students on campus are represented fully.
+	3. Communicate with the International Office and Anne O'Dwyer in the Graduate school in order to ensure all international postgraduate students on campus are represented fully.
 
-11. PhD Officer:
+11. PhD Officer shall:
 
-	1. The PhD Officer will support our PhD students here on campus.
+	1. Support PhD students.
 
-	2. This person will sit on our council which meets four times a semester.
+	2. Sit on our council which meets four times a semester.
 
-	3. Should any PhD specific issues arise, this person will assist the executive in coming to the best solution.
+	3. Assist the executive in coming to the best solution should any PhD related issues arise.
 
-	4. They will also work closely with the Events and PRO officer in order to hold events specifically for our PhD students to encourage them to get involved.
+	4. Work closely with the Events and PRO officer in order to hold events specifically for our PhD students to encourage them to get involved.
 
-12. Mary Immaculate Representative:
+12. Mary Immaculate Representative shall:
 
 	1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the Mary Immaculate College Campus.
 
 	2. Attend Council meetings
 
-	2. They will encourage Mary Immaculate Postgraduate Students to get involved in events run by the PSU
+	2. Encourage Mary Immaculate Postgraduate Students to get involved in events run by the PSU
 
 ### Terms of Office
 
-1. President: the term of office of the president shall be from the 1st of June to the 1st of June of the following year. A week of handover is accounted for from the 1st of June.
+#### President
+The term of office of the president shall be from the 1st of June to the 1st of June of the following year. A week of handover is accounted for from the 1st of June.
 
-2. Other Executive Officers: the other Executive Officers shall hold office from the end of the Annual
-General Meeting of their election to the end of the Following AGM.
+#### Other Executive Officers
+The other Executive Officers shall hold office from the end of the Annual General Meeting of their election to the end of the Following AGM.
 
-3. College Representatives: the College Representatives shall hold office from the end of the Annual
-General Meeting of their election to the end of the Following AGM.
+#### College Representatives
+The College Representatives shall hold office from the end of the Annual General Meeting of their election to the end of the Following AGM.
 
 ## Schedule 5: PSU Motion to Clubs and Societies
 
