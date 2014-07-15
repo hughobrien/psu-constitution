@@ -1,4 +1,4 @@
-# postgraduate Students’ Union University of Limerick Constitution
+# Postgraduate Students’ Union University of Limerick Constitution
 # Cumann na nIarchéimithe Ollscoil Luimnigh Bunreacht
 
 ## Preamble
@@ -281,49 +281,49 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Article 10: Electoral and Referenda Board
 
-1. There shall be an Electoral and Referendum Board as outlined in Schedule 2: Election Regulations. The procedure for all elections and referenda shall be determined by the Electoral and Referendum Board (ERB).
+1. There shall be an Electoral and Referendum Board (ERB) as outlined in Schedule 2: Election Regulations. The procedure for all elections and referenda shall be determined by the ERB.
 
 2. A representative from the PSU, not involved in the running or organising of any campaign and elected from Council or the Executive will sit as a voting member on the ERB representing the PSU.
 
 ## Article 11: Clubs and Societies
 
-1. PSU Executive or PSU Council proposals, amendments or decisions relating to the Clubs and Societies organisation, administration or finance must be presented to Clubs and Societies Council. If Clubs and Societies Council disagree with the proposal, amendment or motion proposed by the PSU Council or Executive the issue shall go to general meeting.
+1. PSU Executive or PSU Council proposals, amendments or decisions relating to the Clubs and Societies organisation, administration or finance must be presented to Clubs and Societies Council (C&S Council). If C&S Council disagree with the proposal, amendment or motion proposed by the PSU Council or PSU Executive the issue shall go to general meeting.
 
-2. The PSU recognises the autonomy of Clubs and Societies Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union.
+2. The PSU recognises the autonomy of C&S Council in determining Clubs and Societies policy and coordination of Clubs and Societies activities, under the auspices of the Union. TODO: Which union?
 
-3. Under the new Memorandum of Understanding in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive and reports to both councils. The PSU Officer, as a member of the Clubs and Societies Executive will be a full voting member on the Executive. It is then their responsibility to ensure PSU Council is consulted.
+3. As per the Memorandum of Understanding (MoU) in Schedule 6: Memorandum of Understanding, there will be a PSU Representative elected from the PSU Executive that sits on the Clubs and Societies Executive (C&S Executive) and reports to both councils. The PSU Officer, as a member of the C&S Executive will be a full voting member on the C&S Executive. It is then their responsibility to ensure PSU Council is consulted.
 
-4. Under the new Memorandum of Understanding in Schedule 6: Memorandum of Understanding, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the Executive. It is then their responsibility to ensure Clubs and Societies Council is consulted.
+4. As per the MoU, there will be a Clubs and Societies Representative that sits on the PSU Executive and reports to both councils. The Clubs and Societies Representative, as a member of the PSU Executive will be a full voting member on the PSU Executive. It is then their responsibility to ensure C&S Council is consulted.
 
-5. The Clubs and Societies Council shall consist of the Clubs and Societies Executive, and at least one liaison officer from each club and society.
+5. The C&S Council shall consist of the C&S Executive and at least one liaison officer from each club and society.
 
-6. The Clubs and Societies Council shall meet at least three times per semester.
+6. The C&S Council shall meet at least three times per semester.
 
-7. All Clubs and Societies Council Meetings shall be quorate if there is 50% of recognised clubs and societies plus one.
+7. All C&S Council Meetings shall be quorate if there is half plus one of recognised clubs and societies present.
 
-8. Clubs and Societies Council Meetings shall be run in accordance with the procedures and standing orders contained within the Clubs and Societies Rulebook.
+8. C&S Council Meetings shall be run in accordance with the procedures and standing orders contained within the Clubs and Societies Rulebook (C&S Rulebook).
 
-9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 2: Election Regulations, by the clubs or societies delegates.
+9. Clubs and societies are represented on the Executive by a Clubs Officer and a Societies Officer that is elected by the method defined in Schedule 2: Election Regulations, by the clubs or societies delegates. TODO: on the PSU Executive?
 
-10. The PSU President or their executive nominee shall be member on the Clubs and Societies Executive, the rest of the membership of the Clubs and Societies Executive is determined by Clubs and Societies Council and is outlined in the Clubs and Societies Rulebook.
+10. The PSU President or their executive nominee shall be member on the C&S Executive, the rest of the membership of the C&S Executive is determined by C&S Council and is outlined in the C&S Rulebook.
 
-11. The members of the Clubs and Societies Executive elected by clubs and societies may only be removed by Clubs and Societies Council by the rules outlined in the Clubs and Societies Rulebook.
+11. The members of the C&S Executive elected by clubs and societies may only be removed by C&S Council by the rules outlined in the C&S Rulebook.
 
 12. The PSU will distribute two thirds of the postgraduate student capitation received annually to fund clubs and societies after the wages of the PSU President has been deducted.
 
-13. This transfer will take place twice annually after the payment of Capitation has been paid by the University. One transfer in November and the second transfer in March.
+	1. This transfer will take place twice annually after the payment of Capitation has been paid by the University. One transfer in November and the second transfer in March.
 
-14. All recognised clubs and societies shall compete on an equal basis for funds allocated by the Union. All money not claimed by individual clubs and societies shall be reallocated to clubs and societies in the following year's budget.
+13. All recognised clubs and societies shall compete on an equal basis for funds allocated by the PSU. All money not claimed by individual clubs and societies shall be reallocated to clubs and societies in the following year's budget.
 
-15. Recognised clubs and societies shall submit budgets to the Clubs and Societies Development Officer using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs and Societies Rulebook.
+14. Recognised clubs and societies shall submit budgets to the Clubs and Societies Development Officer using the established procedures as agreed by the C&S Council and outlined in the C&S Rulebook.
 
-16. The Clubs and Societies Executive shall allocate funds to every club and society using the established procedures as agreed by the Clubs and Societies Council and outlined in the Clubs and Societies Rulebook.
+15. The C&S Executive shall allocate funds to every club and society using the established procedures as agreed by the C&S Council and outlined in the C&S Rulebook.
 
-17. A portion of the annual clubs and societies funds shall be retained as the Special Applications Fund. Applications to this fund shall be submitted to the Development Officer, as appropriate, in accordance with the Clubs and Societies Rulebook. Allocations shall be made at the discretion of the Clubs and Societies Executive using the established procedures as agreed by the Clubs and Societies Council.
+16. A portion of the annual clubs and societies funds shall be retained as the Special Applications Fund. Applications to this fund shall be submitted to the Development Officer, as appropriate, in accordance with the C&S Rulebook. Allocations shall be made at the discretion of the C&S Executive using the established procedures as agreed by the C&S Council.
 
-18. A portion of the annual clubs and societies funds shall be retained for administration purposes.
+17. A portion of the annual clubs and societies funds shall be retained for administration purposes.
 
-19. The PSU President shall present the annual budget for the following academic year to Clubs and Societies Council during the spring semester.
+18. The PSU President shall present the annual budget for the following academic year to C&S Council during the spring semester.
 
 ## Article 12. University of Limerick Students' Union
 
