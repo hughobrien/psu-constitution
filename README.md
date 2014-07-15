@@ -488,8 +488,6 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 This Schedule outlines what to do for all referenda and elections and for all positions in the Union. It also outlines the procedures to follow if a vacancy occurs in any position.
 
-### Returning Officer
-
 1. The Returning Officer, who shall not be a full member of the Union, shall be appointed annually by the ULSU Executive. The Returning Officer shall be responsible for the good conduct and administration of all Union elections including the PSU elections for the sabbatical position of President and shall have the sole interpretation of the election regulations. The Returning Officer may appoint a deputy and assistants to support them in their duties. TODO: which Union?
 
 2. The Returning Officer shall:
@@ -791,147 +789,146 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 It is requested that volunteering members of the Council and Executive dedicate three hours per week in order to fulfil the responsibilities that are outlined in their respective job descriptions
 
-1. The President shall:
+#### The President shall:
 
-	1. Be the chief representative of postgraduates in the University.
+1. Be the chief representative of postgraduates in the University.
 
-	2. Be chairperson of the Executive Committee and General Meetings.
+2. Be chairperson of the Executive Committee and General Meetings.
 
-	3. Be the principle initiator of policy for the Union.
+3. Be the principle initiator of policy for the Union.
 
-	4. Represent the Union’s members on the University’s Governing Authority, Academic Council and other boards and committees of the University as required.
+4. Represent the Union’s members on the University’s Governing Authority, Academic Council and other boards and committees of the University as required.
 
-	5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. They may, with the consent of the Executive Committee, form sub-committees, which may include any full members of the Union, for this purpose.
+5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. They may, with the consent of the Executive Committee, form sub-committees, which may include any full members of the Union, for this purpose.
 
-	6. Train their replacement for a period of two weeks during the changeover.
+6. Train their replacement for a period of two weeks during the changeover.
 
-	7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from their studies for the duration of their tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, their duties as President of the Union.
+7. Be a full-time Sabbatical Officer. The President shall take a leave of absence from their studies for the duration of their tenure as President, and shall not enter into any employment, which is in conflict with, or impinges upon, their duties as President of the Union.
 
-2. The Vice-President/Treasurer shall:
+#### The Vice-President/Treasurer shall:
 
-	1. On the instruction of the President or in their absence the Executive, deputise for the President in all matters.
+1. On the instruction of the President or in their absence the Executive, deputise for the President in all matters.
 
-	2. Co-ordinate the activities of Union representatives on Faculty Boards. They shall chair the Union Council and convene such meetings with the agreement of the executive.
+2. Co-ordinate the activities of Union representatives on Faculty Boards. They shall chair the Union Council and convene such meetings with the agreement of the executive.
 
-	3. Act as the Union’s Secretary and shall hold overall responsibility for all the Union office records.
+3. Act as the Union’s Secretary and shall hold overall responsibility for all the Union office records.
 
-	4. Notify relevant University bodies, of the results of relevant Union elections and of changes to the Constitution of the Union.
+4. Notify relevant University bodies, of the results of relevant Union elections and of changes to the Constitution of the Union.
 
-	5. Be jointly responsible with the President for all financial matters relating to the Union.
+5. Be jointly responsible with the President for all financial matters relating to the Union.
 
-	6. Report regularly to the Executive Committee on the financial state of the Union and shall provide a written report of income and expenditure after each semester with the President.
+6. Report regularly to the Executive Committee on the financial state of the Union and shall provide a written report of income and expenditure after each semester with the President.
 
-	7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee. TODO: FY
+7. At the end of each financial year (end of September), prepare and submit the accounts to the Executive Committee for its approval. The accounts shall include all income and expenditure of the Union for that financial year. The outgoing Treasurer shall ensure that these accounts are submitted to the next meeting of the incoming Executive Committee. TODO: FY
 
-	8. Become a co-signee on the Unions current account and cheques and be requested to approve purchases.
+8. Become a co-signee on the Unions current account and cheques and be requested to approve purchases.
 
-3. The Events and Publicities Officer shall: TODO: Still a position?
+#### The Events and Publicities Officer shall: TODO: Still a position?
 
-	1. Be responsible for publicising all meetings and all social events of the Union.
+1. Be responsible for publicising all meetings and all social events of the Union.
 
-	2. Be responsible for organising all trips, receptions and other social activities of the Union.
+2. Be responsible for organising all trips, receptions and other social activities of the Union.
 
-	3. Plan, develop, put into place and evaluate information and communication strategies that present an organisation to the members of the Union.
+3. Plan, develop, put into place and evaluate information and communication strategies that present an organisation to the members of the Union.
 
-	4. Promote good information flow within the organisation.
+4. Promote good information flow within the organisation.
 
-	5. Be responsible for the organisation and promotion of the events within the Union.
+5. Be responsible for the organisation and promotion of the events within the Union.
 
-	6. Aid in maintaining information outlets such as online communication.
+6. Aid in maintaining information outlets such as online communication.
 
-	7. Sit on the executive which meets once every two weeks.
+7. Sit on the executive which meets once every two weeks.
 
-4. The Faculties Officer shall: TODO: still a position?
+#### The Faculties Officer shall: TODO: still a position?
 
-	1. Represent all faculties on the Executive and their own individual faculty on our Council.
+1. Represent all faculties on the Executive and their own individual faculty on our Council.
 
-	2. Attend Executive meetings once every two weeks.
+2. Attend Executive meetings once every two weeks.
 
-	3. Communicate to the Executive the concerns and issues of their fellow faculty representatives.
+3. Communicate to the Executive the concerns and issues of their fellow faculty representatives.
 
-	4. Have a vote at Executive on behalf of all the Faculties and on council on behalf of their own faculty.
+4. Have a vote at Executive on behalf of all the Faculties and on council on behalf of their own faculty.
 
-5. The Students Union Representative:
+#### The Students Union Representative:
 
-	1. Represents and communicates between the ULSU and PSU.
+1. Represents and communicates between the ULSU and PSU.
 
-	2. Has full voting rights on Executive on behalf of the greater student body.
+2. Has full voting rights on Executive on behalf of the greater student body.
 
-	3. Shall put forward the views of the ULSU so that fully informed decisions can be made by the PSU.
+3. Shall put forward the views of the ULSU so that fully informed decisions can be made by the PSU.
+#### The Clubs and Societies Officer:
 
-6. The Clubs and Societies Officer:
+1. There will be a Clubs and Societies Officer that sits on the PSU Executive, C&S Executive,  ULSU Executive and report to each council. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs and Societies Council is consulted. TODO: dup paragraph
 
-	1. There will be a Clubs and Societies Officer that sits on the PSU Executive, C&S Executive,  ULSU Executive and report to each council. The Clubs and Societies Officer, as a member of the PSU Executive will be full voting members and entitled to vote as part of the executive except for in the case of decisions directly effecting, and then it is their responsibility to ensure Clubs and Societies Council is consulted. TODO: dup paragraph
+#### Chairperson of Council shall:
 
-7. Chairperson of Council shall:
+1. Chair PSU Council
 
-	1. Chair PSU Council
+2. Chair General Meetings of the PSU Union
 
-	2. Chair General Meetings of the PSU Union
+3. Be responsible for calling Council meetings and forming the agenda with the input of other council and exec members
 
-	3. Be responsible for calling Council meetings and forming the agenda with the input of other council and exec members
+4. Attend scheduled Executive meetings
 
-	4. Attend scheduled Executive meetings
+5. Maintain a close working relationship with the other Council members
 
-	5. Maintain a close working relationship with the other Council members
+6. Work as part of the PSU Union team to ensure the effective democracy and engagement
 
-	6. Work as part of the PSU Union team to ensure the effective democracy and engagement
+#### The Faculty Representatives shall:
 
-8. The Faculty Representatives shall:
+1. Be elected from each academic faculty at the AGM.
 
-	1. Be elected from each academic faculty at the AGM.
+2. Serve as post-graduate representatives on Faculty Boards as nominees of the Postgraduate Students’ Union.
 
-	2. Serve as post-graduate representatives on Faculty Boards as nominees of the Postgraduate Students’ Union.
+3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which they were elected or appointed.
 
-	3. The Executive Committee shall be empowered to remove from office a faculty representative who regularly does not attend meetings of the committee(s) to which they were elected or appointed.
+4. Hold their term of office for one calendar year.
 
-	3. Hold their term of office for one calendar year.
+5. Have their role subsumed by the President in the event of there being no Faculty Representative for a college.
 
-	5. Have their role subsumed by the President in the event of there being no Faculty Representative for a college.
+6. Sit on PSU Council which meets four times a semester.
 
-	6. Sit on PSU Council which meets four times a semester.
+7. Liaise with the President during the department hubs that take place during the semester. TODO: explain?
 
-	7. Liaise with the President during the department hubs that take place during the semester. TODO: explain?
+8. Act as the closest point of contact for our Class Representatives, should any issues arise.
 
-	8. Act as the closest point of contact for our Class Representatives, should any issues arise.
+9. Have one Faculty Representative be elected as the Faculties Officer on the PSU Executive.
 
-	9. Have one Faculty Representative be elected as the Faculties Officer on the PSU Executive.
+#### Graduate Entry School Representative shall:
 
-9. Graduate Entry School Representative shall:
+1. Develop forums to get feedback from students for their particular area.
 
-	1. Develop forums to get feedback from students for their particular area.
+2. Attends and participates at PSU Council and relevant council sub-committee meetings.
 
-	2. Attends and participates at PSU Council and relevant council sub-committee meetings.
+3. Research and promote initiatives within UL and outside of UL that could benefit UL Students.
 
-	3. Research and promote initiatives within UL and outside of UL that could benefit UL Students.
+4. Liaise with and meet regularly with the President to communicate arising issues within the Graduate Entry Medical School or Graduate Entry Law classes.
 
-	4. Liaise with and meet regularly with the President to communicate arising issues within the Graduate Entry Medical School or Graduate Entry Law classes.
+####  International Officer shall:
 
-10. International Officer shall:
+1. Sit on our council which meets four times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgraduates here on campus.
 
-	1. Sit on our council which meets four times a semester and will communicate with our executive, in particular our Events and PRO officer throughout the year in order to organise events and activities for our international postgraduates here on campus.
+2. Provide support for our international students.
 
-	2. Provide support for our international students.
+3. Communicate with the International Office and Anne O'Dwyer in the Graduate school in order to ensure all international postgraduate students on campus are represented fully.
 
-	3. Communicate with the International Office and Anne O'Dwyer in the Graduate school in order to ensure all international postgraduate students on campus are represented fully.
+####  PhD Officer shall:
 
-11. PhD Officer shall:
+1. Support PhD students.
 
-	1. Support PhD students.
+2. Sit on our council which meets four times a semester.
 
-	2. Sit on our council which meets four times a semester.
+3. Assist the executive in coming to the best solution should any PhD related issues arise.
 
-	3. Assist the executive in coming to the best solution should any PhD related issues arise.
+4. Work closely with the Events and PRO officer in order to hold events specifically for our PhD students to encourage them to get involved.
 
-	4. Work closely with the Events and PRO officer in order to hold events specifically for our PhD students to encourage them to get involved.
+####  Mary Immaculate Representative shall:
 
-12. Mary Immaculate Representative shall:
+1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the Mary Immaculate College Campus.
 
-	1. Be responsible for representing Mary Immaculate College postgraduate students and for promoting the PSU on the Mary Immaculate College Campus.
+2. Attend Council meetings
 
-	2. Attend Council meetings
-
-	2. Encourage Mary Immaculate Postgraduate Students to get involved in events run by the PSU
+2. Encourage Mary Immaculate Postgraduate Students to get involved in events run by the PSU
 
 ### Terms of Office
 
@@ -944,7 +941,7 @@ The other Executive Officers shall hold office from the end of the Annual Genera
 #### College Representatives
 The College Representatives shall hold office from the end of the Annual General Meeting of their election to the end of the Following AGM.
 
-## Schedule 4: PSU and ULSU Memorandum of Understanding
+## Schedule 5: PSU and ULSU Memorandum of Understanding
 
 ### Memorandum of Understanding (MoU) Between ULSU and PSU.
 
