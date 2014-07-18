@@ -487,19 +487,17 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 ## Schedule 2: Election Regulations
 
-This Schedule outlines what to do for all referenda and elections and for all positions in the Union. It also outlines the procedures to follow if a vacancy occurs in any position.
+This Schedule outlines the processes for all referenda and elections, and for all positions in the Union. It also outlines the procedures to follow if a vacancy occurs in any position.
 
-1. The Returning Officer, who shall not be a full member of the Union, shall be appointed annually by the ULSU Executive. The Returning Officer shall be responsible for the good conduct and administration of all Union elections including the PSU elections for the sabbatical position of President and shall have the sole interpretation of the election regulations. The Returning Officer may appoint a deputy and assistants to support them in their duties. TODO: which Union?
+1. The Returning Officer, who shall not be a full member of the Union, shall be appointed annually by the ULSU Executive. The Returning Officer shall be responsible for the good conduct and administration of all Union elections including the PSU elections for the sabbatical position of President and shall have the sole interpretation of the election regulations. TODO: which Union, which Executive?
 
 2. The Returning Officer shall:
 
-	1. Co-ordinate all aspects of the election or referendum.
+	1. Ensure coordination of all aspects of the election or referendum, while according to and abiding by the rules and regulations established by the ERB.
 
-	2. Be responsible for the hiring and coordination of all election or referendum staff.
+	2. Be responsible for the hiring and coordination of all election or referendum staff, including deputies and assistants whom they may appoint, at any time, to support them in their duties.
 
-	3. Coordinate the election according to the election rules and regulations set down by the ERB.
-
-	4. Oversee the count and announce the official results of the elections ERB.
+	3. Oversee the count and announce the official results of the elections.
 
 3. Under Article 10: Electoral and Referenda Board, there shall be an ERB to liaise with the Returning Officer in the running of Elections and Referenda of the Union.
 
@@ -800,7 +798,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 4. Represent the Union’s members on the University’s Governing Authority, Academic Council and other boards and committees of the University as required.
 
-5. Be the first spokesperson of the Union and be responsible for the co-ordination of all Union activities. They may, with the consent of the Executive Committee, form sub-committees, which may include any full members of the Union, for this purpose.
+5. Be the first spokesperson of the Union and be responsible for the coordination of all Union activities. They may, with the consent of the Executive Committee, form sub-committees, which may include any full members of the Union, for this purpose.
 
 6. Train their replacement for a period of two weeks during the changeover.
 
@@ -810,7 +808,7 @@ It is requested that volunteering members of the Council and Executive dedicate 
 
 1. On the instruction of the President or in their absence the Executive, deputise for the President in all matters.
 
-2. Co-ordinate the activities of Union representatives on Faculty Boards. They shall chair the Union Council and convene such meetings with the agreement of the executive.
+2. Coordinate the activities of Union representatives on Faculty Boards. They shall chair the Union Council and convene such meetings with the agreement of the executive.
 
 3. Act as the Union’s Secretary and shall hold overall responsibility for all the Union office records.
 
