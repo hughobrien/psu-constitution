@@ -517,7 +517,7 @@ This Schedule outlines what to do for all referenda and elections and for all po
 
 5. No member of the ERB may be seeking or involved in the election or referendum for which it has been established. The ERB shall, from its number, select a chair. The Returning Officer shall have participant status on the ERB.
 
-6. The ERB shall be in place before each election and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
+6. The ERB shall be in place before each election or referendum and shall implement the election rules and regulations for the academic year in accordance to this Constitution, through the Returning Officer.
 
 7. Where an election is in progress under this Constitution, the Returning Officer under the direction of the ERB may, at their discretion, make such regulations as may be appropriate to govern the canvassing or other activities of candidates or their agents in seeking election.
 
