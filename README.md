@@ -357,7 +357,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 7. In order to maintain accountability and transparency, all purchases deemed significant in value, the determination of which is at the discretion of the Executive, should be subject to agreement by the PSU Executive.
 
-8. The President of the PSU where possible should ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the budget.
+8. The President of the PSU shall ensure that all invoices and expenditure are up to date at the end of each calendar month whereby the Vice-President/Treasurer will meet with the President to sign off on the budget.
 
 9. When paying by cheque, the President of the PSU is required to have a dual mandate which is served by the Vice-President/Treasurer of the PSU and in the case of the absence of the Vice-President/Treasurer, the financial controller of ULSU can sign as a third signee.
 
@@ -367,7 +367,7 @@ The Postgraduate Student's Union alone shall represent and defend the interests 
 
 12. It is the responsibility of the President and the Vice-President/Treasurer to ensure that the end of year accounts is subject to external scrutiny. Therefore, an external accountant must be utilised to prepare the accounts for presentation at the AGM of the following year.
 
-13. The President should provide the external accountant with all relevant financial material before the financial year end of the 31st of May. TODO: different dates for FY END.
+13. The President shall provide the external accountant with all relevant financial material before the financial year end of the 31st of May. TODO: different dates for FY END.
 
 14. Those with a key role and oversight in the PSU finances are:
 
@@ -751,7 +751,7 @@ This Schedule outlines the processes for all referenda and elections, and for al
 
 8. At least three University days’ notice shall be given by the vice president academic for all council meetings. TODO: which VP?
 
-9. An Emergency Council Meeting may be called by the President; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting should deal with one topic usually and can have related motions put to it but discussion has to be allowed on the topic.
+9. An Emergency Council Meeting may be called by the President; a majority of Executive members or one third of student councillors by way of petition to the Chair of Council. An emergency meeting shall deal primarily with one topic but may have related motions put to it provided the discussion is relevant to the main topic.
 
 10. The Executive will act on behalf of the council when council members are not on campus.
 
